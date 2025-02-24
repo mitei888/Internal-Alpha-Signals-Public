@@ -1,0 +1,604 @@
+[
+    {
+        "": "1",
+        "Date": "2003-09-30",
+        "Total Construction QoQ %": "0.011237194804478268",
+        "Residential QoQ %": "0.0163105678469202",
+        "Nonresidential QoQ %": "0.0058460954909678176"
+    },
+    {
+        "": "2",
+        "Date": "2003-12-31",
+        "Total Construction QoQ %": "0.04684730713989693",
+        "Residential QoQ %": "0.08139450205339949",
+        "Nonresidential QoQ %": "0.010236106303963544"
+    },
+    {
+        "": "3",
+        "Date": "2004-03-31",
+        "Total Construction QoQ %": "0.007983303799619534",
+        "Residential QoQ %": "0.03036779839048842",
+        "Nonresidential QoQ %": "-0.01754385964912286"
+    },
+    {
+        "": "4",
+        "Date": "2004-06-30",
+        "Total Construction QoQ %": "0.05221924753883811",
+        "Residential QoQ %": "0.03992075108690707",
+        "Nonresidential QoQ %": "0.0671868914884104"
+    },
+    {
+        "": "5",
+        "Date": "2004-09-30",
+        "Total Construction QoQ %": "0.011742481119096704",
+        "Residential QoQ %": "0.019232098069133174",
+        "Nonresidential QoQ %": "0.002834339938648567"
+    },
+    {
+        "": "6",
+        "Date": "2004-12-31",
+        "Total Construction QoQ %": "0.0024510363772332067",
+        "Residential QoQ %": "0.014533302528820125",
+        "Nonresidential QoQ %": "-0.012075202638566318"
+    },
+    {
+        "": "7",
+        "Date": "2005-03-31",
+        "Total Construction QoQ %": "0.029876152770484277",
+        "Residential QoQ %": "0.0314570914856116",
+        "Nonresidential QoQ %": "0.027903347384848676"
+    },
+    {
+        "": "8",
+        "Date": "2005-06-30",
+        "Total Construction QoQ %": "0.02232594597080828",
+        "Residential QoQ %": "0.03581002295976621",
+        "Nonresidential QoQ %": "0.005302854566070048"
+    },
+    {
+        "": "9",
+        "Date": "2005-09-30",
+        "Total Construction QoQ %": "-0.012519963853971472",
+        "Residential QoQ %": "-0.01420242093922297",
+        "Nonresidential QoQ %": "-0.010317318741677073"
+    },
+    {
+        "": "10",
+        "Date": "2005-12-31",
+        "Total Construction QoQ %": "0.0249969206691929",
+        "Residential QoQ %": "0.02715602131060546",
+        "Nonresidential QoQ %": "0.022232182137007506"
+    },
+    {
+        "": "11",
+        "Date": "2006-03-31",
+        "Total Construction QoQ %": "0.01679143936361549",
+        "Residential QoQ %": "0.012199557388468785",
+        "Nonresidential QoQ %": "0.02280664919711395"
+    },
+    {
+        "": "12",
+        "Date": "2006-06-30",
+        "Total Construction QoQ %": "0.016896387812491698",
+        "Residential QoQ %": "0.0012882229303681214",
+        "Nonresidential QoQ %": "0.03711793802680541"
+    },
+    {
+        "": "13",
+        "Date": "2006-09-30",
+        "Total Construction QoQ %": "-0.008692189751113633",
+        "Residential QoQ %": "-0.04378562050659607",
+        "Nonresidential QoQ %": "0.03418781455689457"
+    },
+    {
+        "": "14",
+        "Date": "2006-12-31",
+        "Total Construction QoQ %": "-0.015362375757778324",
+        "Residential QoQ %": "-0.0462840547554928",
+        "Nonresidential QoQ %": "0.019544535997381596"
+    },
+    {
+        "": "15",
+        "Date": "2007-03-31",
+        "Total Construction QoQ %": "-0.005475642743382969",
+        "Residential QoQ %": "-0.03717195527250161",
+        "Nonresidential QoQ %": "0.027768905524603316"
+    },
+    {
+        "": "16",
+        "Date": "2007-06-30",
+        "Total Construction QoQ %": "0.019103889119167494",
+        "Residential QoQ %": "-0.0059910983449027455",
+        "Nonresidential QoQ %": "0.043578067008826826"
+    },
+    {
+        "": "17",
+        "Date": "2007-09-30",
+        "Total Construction QoQ %": "0.002651841966685664",
+        "Residential QoQ %": "-0.03293129972622688",
+        "Nonresidential QoQ %": "0.03557087758228983"
+    },
+    {
+        "": "18",
+        "Date": "2007-12-31",
+        "Total Construction QoQ %": "-0.005282412854357932",
+        "Residential QoQ %": "-0.049115412943688486",
+        "Nonresidential QoQ %": "0.03231766271311365"
+    },
+    {
+        "": "19",
+        "Date": "2008-03-31",
+        "Total Construction QoQ %": "-0.03617232841369955",
+        "Residential QoQ %": "-0.08193160629983731",
+        "Nonresidential QoQ %": "-0.0011889073728937882"
+    },
+    {
+        "": "20",
+        "Date": "2008-06-30",
+        "Total Construction QoQ %": "-0.0035116261496130896",
+        "Residential QoQ %": "-0.05431359057749596",
+        "Nonresidential QoQ %": "0.032683310776144836"
+    },
+    {
+        "": "21",
+        "Date": "2008-09-30",
+        "Total Construction QoQ %": "-0.0045341294453103975",
+        "Residential QoQ %": "-0.06795856607833495",
+        "Nonresidential QoQ %": "0.031155360767801676"
+    },
+    {
+        "": "22",
+        "Date": "2008-12-31",
+        "Total Construction QoQ %": "0.0007678606915970665",
+        "Residential QoQ %": "-0.010491694788097972",
+        "Nonresidential QoQ %": "0.006240589202574531"
+    },
+    {
+        "": "23",
+        "Date": "2009-03-31",
+        "Total Construction QoQ %": "-0.09127296382362748",
+        "Residential QoQ %": "-0.14719055606906073",
+        "Nonresidential QoQ %": "-0.06459642714239444"
+    },
+    {
+        "": "24",
+        "Date": "2009-06-30",
+        "Total Construction QoQ %": "-0.007670865769068835",
+        "Residential QoQ %": "-0.12992755221500196",
+        "Nonresidential QoQ %": "0.04519814634919417"
+    },
+    {
+        "": "25",
+        "Date": "2009-09-30",
+        "Total Construction QoQ %": "-0.014880083248672515",
+        "Residential QoQ %": "-0.00865760348176059",
+        "Nonresidential QoQ %": "-0.01710828029035616"
+    },
+    {
+        "": "26",
+        "Date": "2009-12-31",
+        "Total Construction QoQ %": "-0.025448611631266438",
+        "Residential QoQ %": "0.04694839482976443",
+        "Nonresidential QoQ %": "-0.05145012056463227"
+    },
+    {
+        "": "27",
+        "Date": "2010-03-31",
+        "Total Construction QoQ %": "-0.023703857480915747",
+        "Residential QoQ %": "0.023356615172864803",
+        "Nonresidential QoQ %": "-0.04296572266263299"
+    },
+    {
+        "": "28",
+        "Date": "2010-06-30",
+        "Total Construction QoQ %": "0.013155701250753271",
+        "Residential QoQ %": "0.03101515151515155",
+        "Nonresidential QoQ %": "0.005215534444925396"
+    },
+    {
+        "": "29",
+        "Date": "2010-09-30",
+        "Total Construction QoQ %": "-0.0452373272873019",
+        "Residential QoQ %": "-0.07661828341429977",
+        "Nonresidential QoQ %": "-0.030353040723633873"
+    },
+    {
+        "": "30",
+        "Date": "2010-12-31",
+        "Total Construction QoQ %": "-0.007745610552729598",
+        "Residential QoQ %": "-0.03519224052447112",
+        "Nonresidential QoQ %": "0.004473653167661018"
+    },
+    {
+        "": "31",
+        "Date": "2011-03-31",
+        "Total Construction QoQ %": "-0.018430963224848385",
+        "Residential QoQ %": "0.04141067353578731",
+        "Nonresidential QoQ %": "-0.04452712626285105"
+    },
+    {
+        "": "32",
+        "Date": "2011-06-30",
+        "Total Construction QoQ %": "-0.007782292948853464",
+        "Residential QoQ %": "-0.023822936973376563",
+        "Nonresidential QoQ %": "-0.00023271606351238372"
+    },
+    {
+        "": "33",
+        "Date": "2011-09-30",
+        "Total Construction QoQ %": "0.04177470241511849",
+        "Residential QoQ %": "0.05489587930330497",
+        "Nonresidential QoQ %": "0.035602027194834296"
+    },
+    {
+        "": "34",
+        "Date": "2011-12-31",
+        "Total Construction QoQ %": "0.012967012893437602",
+        "Residential QoQ %": "0.0142397795130913",
+        "Nonresidential QoQ %": "0.012397058499423297"
+    },
+    {
+        "": "35",
+        "Date": "2012-03-31",
+        "Total Construction QoQ %": "0.0370932831048052",
+        "Residential QoQ %": "0.05577361639385425",
+        "Nonresidential QoQ %": "0.028716789967832"
+    },
+    {
+        "": "36",
+        "Date": "2012-06-30",
+        "Total Construction QoQ %": "0.003157396779528643",
+        "Residential QoQ %": "0.03497960246506371",
+        "Nonresidential QoQ %": "-0.011127897318004898"
+    },
+    {
+        "": "37",
+        "Date": "2012-09-30",
+        "Total Construction QoQ %": "0.014452332348932506",
+        "Residential QoQ %": "0.0421687672917308",
+        "Nonresidential QoQ %": "0.0016238125981535845"
+    },
+    {
+        "": "38",
+        "Date": "2012-12-31",
+        "Total Construction QoQ %": "0.03577472717361485",
+        "Residential QoQ %": "0.08430773223374044",
+        "Nonresidential QoQ %": "0.011925615897042663"
+    },
+    {
+        "": "39",
+        "Date": "2013-03-31",
+        "Total Construction QoQ %": "0.017352844629498376",
+        "Residential QoQ %": "0.03492633609365137",
+        "Nonresidential QoQ %": "0.008041936478569323"
+    },
+    {
+        "": "40",
+        "Date": "2013-06-30",
+        "Total Construction QoQ %": "-0.016041179180417253",
+        "Residential QoQ %": "0.016122015845186466",
+        "Nonresidential QoQ %": "-0.03312185517392252"
+    },
+    {
+        "": "41",
+        "Date": "2013-09-30",
+        "Total Construction QoQ %": "0.035027770820072135",
+        "Residential QoQ %": "0.04890246606390569",
+        "Nonresidential QoQ %": "0.026770037206062858"
+    },
+    {
+        "": "42",
+        "Date": "2013-12-31",
+        "Total Construction QoQ %": "-0.0010600255989584584",
+        "Residential QoQ %": "-0.027044642804950003",
+        "Nonresidential QoQ %": "0.014611986447466307"
+    },
+    {
+        "": "43",
+        "Date": "2014-03-31",
+        "Total Construction QoQ %": "0.019533678028341717",
+        "Residential QoQ %": "0.056246268699971624",
+        "Nonresidential QoQ %": "-0.0023068368921493887"
+    },
+    {
+        "": "44",
+        "Date": "2014-06-30",
+        "Total Construction QoQ %": "0.009472792716493705",
+        "Residential QoQ %": "0.04106721473700237",
+        "Nonresidential QoQ %": "-0.010676810619248078"
+    },
+    {
+        "": "45",
+        "Date": "2014-09-30",
+        "Total Construction QoQ %": "0.027417554689577628",
+        "Residential QoQ %": "-0.004674407141683545",
+        "Nonresidential QoQ %": "0.04728293481687906"
+    },
+    {
+        "": "46",
+        "Date": "2014-12-31",
+        "Total Construction QoQ %": "0.0022263921918350693",
+        "Residential QoQ %": "0.0045985885354167255",
+        "Nonresidential QoQ %": "0.0008391526030906427"
+    },
+    {
+        "": "47",
+        "Date": "2015-03-31",
+        "Total Construction QoQ %": "-0.006458026916287052",
+        "Residential QoQ %": "0.007089859386804731",
+        "Nonresidential QoQ %": "-0.014172523059043374"
+    },
+    {
+        "": "48",
+        "Date": "2015-06-30",
+        "Total Construction QoQ %": "0.03939334456004051",
+        "Residential QoQ %": "0.00935534878234412",
+        "Nonresidential QoQ %": "0.056872541376779884"
+    },
+    {
+        "": "49",
+        "Date": "2015-09-30",
+        "Total Construction QoQ %": "0.0548495927637056",
+        "Residential QoQ %": "0.06106418479258502",
+        "Nonresidential QoQ %": "0.0514234531426534"
+    },
+    {
+        "": "50",
+        "Date": "2015-12-31",
+        "Total Construction QoQ %": "0.02623743245334631",
+        "Residential QoQ %": "0.05364003584834598",
+        "Nonresidential QoQ %": "0.011039973260876357"
+    },
+    {
+        "": "51",
+        "Date": "2016-03-31",
+        "Total Construction QoQ %": "0.012245350653038",
+        "Residential QoQ %": "0.013027534368920346",
+        "Nonresidential QoQ %": "0.011756786170928901"
+    },
+    {
+        "": "52",
+        "Date": "2016-06-30",
+        "Total Construction QoQ %": "-0.014022758832372917",
+        "Residential QoQ %": "-0.008901094014053146",
+        "Nonresidential QoQ %": "-0.01731161623156785"
+    },
+    {
+        "": "53",
+        "Date": "2016-09-30",
+        "Total Construction QoQ %": "0.0007046390764020583",
+        "Residential QoQ %": "-0.0141869199260648",
+        "Nonresidential QoQ %": "0.010535581538745342"
+    },
+    {
+        "": "54",
+        "Date": "2016-12-31",
+        "Total Construction QoQ %": "0.01911982743486651",
+        "Residential QoQ %": "0.035927619055963644",
+        "Nonresidential QoQ %": "0.008065015725195801"
+    },
+    {
+        "": "55",
+        "Date": "2017-03-31",
+        "Total Construction QoQ %": "0.00759495183689074",
+        "Residential QoQ %": "0.03657209232291514",
+        "Nonresidential QoQ %": "-0.0114712984009534"
+    },
+    {
+        "": "56",
+        "Date": "2017-06-30",
+        "Total Construction QoQ %": "0.0292852074604677",
+        "Residential QoQ %": "0.08294692922791058",
+        "Nonresidential QoQ %": "-0.007596748078721127"
+    },
+    {
+        "": "57",
+        "Date": "2017-09-30",
+        "Total Construction QoQ %": "-0.015339151043457289",
+        "Residential QoQ %": "0.009206720983490735",
+        "Nonresidential QoQ %": "-0.03320628482832999"
+    },
+    {
+        "": "58",
+        "Date": "2017-12-31",
+        "Total Construction QoQ %": "0.024137222763444433",
+        "Residential QoQ %": "-0.00046741542165640304",
+        "Nonresidential QoQ %": "0.04287927361295596"
+    },
+    {
+        "": "59",
+        "Date": "2018-03-31",
+        "Total Construction QoQ %": "0.012595052270228724",
+        "Residential QoQ %": "-0.0038688864825843217",
+        "Nonresidential QoQ %": "0.02484125508116586"
+    },
+    {
+        "": "60",
+        "Date": "2018-06-30",
+        "Total Construction QoQ %": "0.03004768200676322",
+        "Residential QoQ %": "0.043719481019880435",
+        "Nonresidential QoQ %": "0.019969959718713737"
+    },
+    {
+        "": "61",
+        "Date": "2018-09-30",
+        "Total Construction QoQ %": "0.00842190799989262",
+        "Residential QoQ %": "0.019242738775818502",
+        "Nonresidential QoQ %": "0.00038607614383412425"
+    },
+    {
+        "": "62",
+        "Date": "2018-12-31",
+        "Total Construction QoQ %": "-0.006517214524598525",
+        "Residential QoQ %": "-0.02622096212011582",
+        "Nonresidential QoQ %": "0.00803889712296968"
+    },
+    {
+        "": "63",
+        "Date": "2019-03-31",
+        "Total Construction QoQ %": "-0.007771052480580076",
+        "Residential QoQ %": "-0.024848772834924815",
+        "Nonresidential QoQ %": "0.00415629568171938"
+    },
+    {
+        "": "64",
+        "Date": "2019-06-30",
+        "Total Construction QoQ %": "-0.00672207200143804",
+        "Residential QoQ %": "-0.06767975909875812",
+        "Nonresidential QoQ %": "0.036532994379539385"
+    },
+    {
+        "": "65",
+        "Date": "2019-09-30",
+        "Total Construction QoQ %": "-0.011666348416841332",
+        "Residential QoQ %": "0.008938795908971064",
+        "Nonresidential QoQ %": "-0.0248261753037613"
+    },
+    {
+        "": "66",
+        "Date": "2019-12-31",
+        "Total Construction QoQ %": "0.004275917645997218",
+        "Residential QoQ %": "0.011466325409322131",
+        "Nonresidential QoQ %": "-0.00043250757853685595"
+    },
+    {
+        "": "67",
+        "Date": "2020-03-31",
+        "Total Construction QoQ %": "0.03983933339611356",
+        "Residential QoQ %": "0.05410244200564662",
+        "Nonresidential QoQ %": "0.03012701857407296"
+    },
+    {
+        "": "68",
+        "Date": "2020-06-30",
+        "Total Construction QoQ %": "-0.027678141924150967",
+        "Residential QoQ %": "-0.05329469835847733",
+        "Nonresidential QoQ %": "-0.009484492274548728"
+    },
+    {
+        "": "69",
+        "Date": "2020-09-30",
+        "Total Construction QoQ %": "-0.015556993613148551",
+        "Residential QoQ %": "-0.018693190350420053",
+        "Nonresidential QoQ %": "-0.013392367216440992"
+    },
+    {
+        "": "70",
+        "Date": "2020-12-31",
+        "Total Construction QoQ %": "0.03293139066228279",
+        "Residential QoQ %": "0.11886546094329042",
+        "Nonresidential QoQ %": "-0.027943350282451207"
+    },
+    {
+        "": "71",
+        "Date": "2021-03-31",
+        "Total Construction QoQ %": "0.05154342767215181",
+        "Residential QoQ %": "0.1116721272119825",
+        "Nonresidential QoQ %": "0.0025230094446619944"
+    },
+    {
+        "": "72",
+        "Date": "2021-06-30",
+        "Total Construction QoQ %": "-0.0031204339698904793",
+        "Residential QoQ %": "0.01272102262201269",
+        "Nonresidential QoQ %": "-0.017546008130071122"
+    },
+    {
+        "": "73",
+        "Date": "2021-09-30",
+        "Total Construction QoQ %": "0.012485414536930861",
+        "Residential QoQ %": "0.03032103384226259",
+        "Nonresidential QoQ %": "-0.004644613083866211"
+    },
+    {
+        "": "74",
+        "Date": "2021-12-31",
+        "Total Construction QoQ %": "0.008826808447777168",
+        "Residential QoQ %": "-0.010985946769826338",
+        "Nonresidential QoQ %": "0.028666548744124887"
+    },
+    {
+        "": "75",
+        "Date": "2022-03-31",
+        "Total Construction QoQ %": "0.03612692392039607",
+        "Residential QoQ %": "0.0500440883972364",
+        "Nonresidential QoQ %": "0.022582520792472582"
+    },
+    {
+        "": "76",
+        "Date": "2022-06-30",
+        "Total Construction QoQ %": "0.02905874324916491",
+        "Residential QoQ %": "0.058926326509732174",
+        "Nonresidential QoQ %": "-0.0009903004976348218"
+    },
+    {
+        "": "77",
+        "Date": "2022-09-30",
+        "Total Construction QoQ %": "-0.002896000915589614",
+        "Residential QoQ %": "-0.016278486557868344",
+        "Nonresidential QoQ %": "0.012206728627776053"
+    },
+    {
+        "": "78",
+        "Date": "2022-12-31",
+        "Total Construction QoQ %": "0.0008001052682053977",
+        "Residential QoQ %": "-0.03699777001508142",
+        "Nonresidential QoQ %": "0.041594498276073866"
+    },
+    {
+        "": "79",
+        "Date": "2023-03-31",
+        "Total Construction QoQ %": "0.012447260659890658",
+        "Residential QoQ %": "-0.02820425003005278",
+        "Nonresidential QoQ %": "0.05134975570474465"
+    },
+    {
+        "": "80",
+        "Date": "2023-06-30",
+        "Total Construction QoQ %": "0.034123095880746135",
+        "Residential QoQ %": "-0.0133255495202802",
+        "Nonresidential QoQ %": "0.07614665493623374"
+    },
+    {
+        "": "81",
+        "Date": "2023-09-30",
+        "Total Construction QoQ %": "0.03332222801933571",
+        "Residential QoQ %": "0.04670584523523624",
+        "Nonresidential QoQ %": "0.02259160230776569"
+    },
+    {
+        "": "82",
+        "Date": "2023-12-31",
+        "Total Construction QoQ %": "0.02704523955853322",
+        "Residential QoQ %": "0.01181789922853027",
+        "Nonresidential QoQ %": "0.039414408209965224"
+    },
+    {
+        "": "83",
+        "Date": "2024-03-31",
+        "Total Construction QoQ %": "0.02933438040692904",
+        "Residential QoQ %": "0.015648816290356526",
+        "Nonresidential QoQ %": "0.04007543034708272"
+    },
+    {
+        "": "84",
+        "Date": "2024-06-30",
+        "Total Construction QoQ %": "0.001009574986575501",
+        "Residential QoQ %": "-0.004405898806666753",
+        "Nonresidential QoQ %": "0.005131706809044179"
+    },
+    {
+        "": "85",
+        "Date": "2024-09-30",
+        "Total Construction QoQ %": "0.009596541006458015",
+        "Residential QoQ %": "0.02224289099653176",
+        "Nonresidential QoQ %": "-0.0001471118148970163"
+    },
+    {
+        "": "86",
+        "Date": "2024-12-31",
+        "Total Construction QoQ %": "0.018772590583759685",
+        "Residential QoQ %": "0.03456969447722713",
+        "Nonresidential QoQ %": "0.0069307336591124535"
+    }
+]
