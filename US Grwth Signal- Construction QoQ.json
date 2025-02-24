@@ -1,19 +1,5 @@
 [
     {
-        "": "1",
-        "Date": "2003-09-30",
-        "Total Construction QoQ %": "0.011237194804478268",
-        "Residential QoQ %": "0.0163105678469202",
-        "Nonresidential QoQ %": "0.0058460954909678176"
-    },
-    {
-        "": "2",
-        "Date": "2003-12-31",
-        "Total Construction QoQ %": "0.04684730713989693",
-        "Residential QoQ %": "0.08139450205339949",
-        "Nonresidential QoQ %": "0.010236106303963544"
-    },
-    {
         "": "3",
         "Date": "2004-03-31",
         "Total Construction QoQ %": "0.007983303799619534",
