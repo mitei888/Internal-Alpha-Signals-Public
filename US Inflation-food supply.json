@@ -7569,8 +7569,8 @@
         "Food & Beverages Stores Inventories": "62412.0",
         "PCE: Food Sales": "1512.8",
         "Food and Beverages CPI %": "0.0025180693391049225",
-        "Food Products Shipment": "81475.0",
-        "Food Products Inventories": "68290.0",
+        "Food Products Shipment": "81485.0",
+        "Food Products Inventories": "68365.0",
         "Food Products PPI %": "0.0003136598881279262",
         "Food, Feed and Beverages Exports": "14.518",
         "Food, Feed and Beverages Imports": "19.198",
@@ -7580,10 +7580,10 @@
         "Food PPI": "1.722765273311896",
         "Food Imports CPI": "1.936677631578947",
         "Food Exports CPI": "1.720913107511048",
-        "Real Food Products Inventories": "39639.75885624699",
+        "Real Food Products Inventories": "39683.29351599539",
         "Real Food & Beverages Stores Sales": "50593.712497210916",
         "Real Food & Beverages Stores Inventories": "37148.879816187386",
-        "Real Food Products Shipment": "47293.15204001645",
+        "Real Food Products Shipment": "47298.95666131624",
         "Real Food Imports": "9912.852653927815",
         "Real Food Exports": "8436.219084296095",
         "Food Products Industrial Capacity": "0.012435481685142769",
@@ -7592,6 +7592,6 @@
         "Change in Food Labour Capacity": "0.002046000917722113",
         "Domestic Food Demand": "32526.859093668867",
         "Change in Domestic Food Demand": "0.02618868478761338",
-        "Output Gap %": "0.05655023961439998"
+        "Output Gap %": "0.055514088903770076"
     }
 ]
