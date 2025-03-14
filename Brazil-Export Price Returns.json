@@ -58106,8 +58106,8 @@
         "Exports % Strength": "0.3241599572220052",
         "Brazil": "24.38",
         "Brazil %": "0.003292181069958877",
-        "Exports Signal Return": "0.0008642492706902921",
-        "Exports Signal Cum Returns": "0.33486941981914575"
+        "Exports Signal Return": "-0.0013296142626005602",
+        "Exports Signal Cum Returns": "0.3341353963898038"
     },
     {
         "": "3874",
@@ -58119,9 +58119,9 @@
         "Exports % Mean": "0.027070468174757428",
         "Exports % Stdev": "0.16443751340658336",
         "Exports % Strength": "0.3241599572220052",
-        "Brazil": "24.315",
-        "Brazil %": "-0.002666119770303399",
-        "Exports Signal Return": "-0.0",
-        "Exports Signal Cum Returns": "0.33486941981914575"
+        "Brazil": "24.48",
+        "Brazil %": "0.004101722723544032",
+        "Exports Signal Return": "-0.00026483656635784643",
+        "Exports Signal Cum Returns": "0.33404690511872526"
     }
 ]
