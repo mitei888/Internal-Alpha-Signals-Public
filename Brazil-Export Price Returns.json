@@ -58121,7 +58121,22 @@
         "Exports % Strength": "0.3241599572220052",
         "Brazil": "24.48",
         "Brazil %": "0.004101722723544032",
-        "Exports Signal Return": "-0.00026483656635784643",
-        "Exports Signal Cum Returns": "0.33404690511872526"
+        "Exports Signal Return": "-0.004237385061725543",
+        "Exports Signal Cum Returns": "0.3327195360525479"
+    },
+    {
+        "": "3875",
+        "Date": "2025-03-13",
+        "US Exports": "3227.2",
+        "China Exports": "9391.985",
+        "Exports": "12619.185000000001",
+        "Exports %": "0.0803745254863284",
+        "Exports % Mean": "0.027070468174757428",
+        "Exports % Stdev": "0.16443751340658336",
+        "Exports % Strength": "0.3241599572220052",
+        "Brazil": "24.8",
+        "Brazil %": "0.013071895424836555",
+        "Exports Signal Return": "-0.012155998395825223",
+        "Exports Signal Cum Returns": "0.3286749979060334"
     }
 ]

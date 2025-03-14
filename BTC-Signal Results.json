@@ -18476,18 +18476,30 @@
         "VIX Strength": "2.060712027574922",
         "BTC Signal Strength": "0.21852025504188285",
         "BTC Futures %": "-0.0028778703759217983",
-        "BTC Signal Returns": "-0.001589859350614381",
-        "Cum BTC Signal Returns": "55.25639529797037"
+        "BTC Signal Returns": "-0.007647092083120428",
+        "Cum BTC Signal Returns": "54.921161477066406"
     },
     {
         "": "1540",
         "Date": "2025-03-13",
-        "VIX": "24.44",
-        "VIX Mean": "17.67625",
-        "VIX Stdev": "3.270304398881527",
-        "VIX Strength": "2.0682325481118102",
-        "BTC Signal Strength": "0.07723628390652088",
-        "BTC Futures %": "-0.007275569719199071",
+        "VIX": "24.66",
+        "VIX Mean": "17.678083333333333",
+        "VIX Stdev": "3.2741873828793926",
+        "VIX Strength": "2.132412061439995",
+        "BTC Signal Strength": "0.46942966268804087",
+        "BTC Futures %": "-0.03499488906259396",
+        "BTC Signal Returns": "0.029425275136405322",
+        "Cum BTC Signal Returns": "56.53723176434003"
+    },
+    {
+        "": "1541",
+        "Date": "2025-03-14",
+        "VIX": "22.47",
+        "VIX Mean": "17.736916666666666",
+        "VIX Stdev": "3.296444429282779",
+        "VIX Strength": "1.435814689090066",
+        "BTC Signal Strength": "0.45901353455684835",
+        "BTC Futures %": "0.06268303321079194",
         "BTC Signal Returns": "",
         "Cum BTC Signal Returns": ""
     }
