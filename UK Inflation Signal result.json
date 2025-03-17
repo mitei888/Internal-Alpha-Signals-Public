@@ -63206,8 +63206,8 @@
         "UK ILswap %": "3.42",
         "UK ILswap": "71.44217463955074",
         "Rates %": "-6.430868167195403e-05",
-        "Combined UK Inflation Signal Returns": "0.0022353987598987186",
-        "Combined UK Inflation Cum Returns": "2.1542568311251697"
+        "Combined UK Inflation Signal Returns": "0.002845052967143696",
+        "Combined UK Inflation Cum Returns": "2.15556725354909"
     },
     {
         "": "3010",
@@ -63223,10 +63223,31 @@
         "Food Output Gap %": "-0.013330263644801756",
         "Combined UK Inflation Signal Strength": "0.7605371306738682",
         "Combined UK Inflation Output Gap %": "-0.00245023829753356",
-        "IGIL": "155.93",
-        "UK ILswap %": "3.414",
-        "UK ILswap": "71.48363565843415",
-        "Rates %": "0.0028297639719596646",
+        "IGIL": "156.05",
+        "UK ILswap %": "3.415",
+        "UK ILswap": "71.4767236509692",
+        "Rates %": "0.003601517782493957",
+        "Combined UK Inflation Signal Returns": "0.0007797881506428387",
+        "Combined UK Inflation Cum Returns": "2.1572481393513216"
+    },
+    {
+        "": "3011",
+        "index": "3383",
+        "Date": "2025-03-17",
+        "Auto Strength": "2.4855528481670595",
+        "Auto Output Gap %": "0.045704038061555076",
+        "Petrol Strength": "0.5094155878202343",
+        "Petrol Output Gap %": "-0.004460208458189396",
+        "House Strength": "1.1210768373816051",
+        "House Output Gap %": "-0.006187398134863913",
+        "Food Strength": "0.8900419612362855",
+        "Food Output Gap %": "-0.013330263644801756",
+        "Combined UK Inflation Signal Strength": "0.9435494757920064",
+        "Combined UK Inflation Output Gap %": "-0.00245023829753356",
+        "IGIL": "156.21",
+        "UK ILswap %": "3.4018",
+        "UK ILswap": "71.56802137826007",
+        "Rates %": "0.0010253123998718028",
         "Combined UK Inflation Signal Returns": "",
         "Combined UK Inflation Cum Returns": ""
     }
