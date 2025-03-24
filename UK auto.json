@@ -1907,5 +1907,28 @@
         "Output Gap % Mean": "-0.007693995371149983",
         "Output Gap % Stdev": "0.02774735207678749",
         "Output Gap % Strength": "1.9244370880843824"
+    },
+    {
+        "": "95",
+        "Date": "2024-12-31",
+        "Auto Capex": "",
+        "Retail: Changes in Inventory": "",
+        "Manufacturing Workforce": "2602.0",
+        "Manufacturing Vacancy Ratio": "2.3",
+        "Total Retail Sales": "120455629.0",
+        "Other Sales": "17024947.0",
+        "Auto Imports": "14893",
+        "Auto Exports": "9890",
+        "Change in Retail Inventory %": "",
+        "Average Auto Demand": "",
+        "Auto Demand %": "0.01597913955110523",
+        "Auto Workforce": "2542.154",
+        "Auto Workforce Change": "0.013041098351446623",
+        "Auto Capex Change": "0.0",
+        "Auto Supply %": "0.006520549175723311",
+        "Output Gap %": "0.020161775419605493",
+        "Output Gap % Mean": "-0.0035677760278177316",
+        "Output Gap % Stdev": "0.028587477567482634",
+        "Output Gap % Strength": "0.8300680391058654"
     }
 ]

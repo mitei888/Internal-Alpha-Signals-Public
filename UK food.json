@@ -1898,5 +1898,25 @@
         "Output Gap % Mean": "-0.01668386673671826",
         "Output Gap % Stdev": "0.02331496973426462",
         "Output Gap % Strength": "-0.8960677056786185"
+    },
+    {
+        "": "95",
+        "Date": "2024-12-31",
+        "Food Manufacturing": "8389.0",
+        "Food Consumption": "",
+        "Food Capex": "",
+        "Manufacturing Workforce": "2602.0",
+        "Manufacturing Vacancy Ratio": "2.3",
+        "Food Imports": "12710",
+        "Food Exports": "3944",
+        "Food Demand": "",
+        "Food Demand %": "-0.0052084412206670596",
+        "Food Manu Workforce": "2542.154",
+        "Food Manu Workforce %": "0.0014804675555718072",
+        "Food Supply %": "0.0356413768923335",
+        "Output Gap %": "-0.04084981811300056",
+        "Output Gap % Mean": "-0.013964911989053547",
+        "Output Gap % Stdev": "0.017527657882698142",
+        "Output Gap % Strength": "-1.533856166287087"
     }
 ]

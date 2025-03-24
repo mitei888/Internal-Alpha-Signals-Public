@@ -1219,12 +1219,12 @@
         "": "76",
         "Date": "2020-03-31",
         "Labour Workforce": "41596.0",
-        "Labour Participation Rate": "64.2",
+        "Labour Participation Rate": "64.3",
         "Housing Completes": "40420",
-        "Population": "26704632.0",
-        "Housing Demand": "152952.0",
+        "Population": "26746228.0",
+        "Housing Demand": "194548.0",
         "Agg Housing Completes": "218260.0",
-        "Housing Demand Change": "-0.38641505800799114",
+        "Housing Demand Change": "-0.21954781045908955",
         "Housing Completes Change": "-0.014048877445001606",
         "Output Gap %": "0.022641947989392383",
         "Output Gap % Mean": "0.00359474205353014",
@@ -1240,7 +1240,7 @@
         "Population": "26421080.0",
         "Housing Demand": "-110839.0",
         "Agg Housing Completes": "191050.0",
-        "Housing Demand Change": "-1.7246652544589152",
+        "Housing Demand Change": "-1.5697257232148365",
         "Housing Completes Change": "-0.124667827361862",
         "Output Gap %": "-0.001146102303980069",
         "Output Gap % Mean": "0.0026800840593958447",
@@ -1302,9 +1302,9 @@
         "Labour Participation Rate": "63.2",
         "Housing Completes": "42570",
         "Population": "26377784.0",
-        "Housing Demand": "-326848.0",
+        "Housing Demand": "-368444.0",
         "Agg Housing Completes": "198530.0",
-        "Housing Demand Change": "-0.04046595739683878",
+        "Housing Demand Change": "0.08164823034829372",
         "Housing Completes Change": "0.010948161727263539",
         "Output Gap %": "0.0018404319578725547",
         "Output Gap % Mean": "0.004164585994485343",
@@ -1320,7 +1320,7 @@
         "Population": "26501834.0",
         "Housing Demand": "80754.0",
         "Agg Housing Completes": "225310.0",
-        "Housing Demand Change": "-1.2470689739573135",
+        "Housing Demand Change": "-1.2191757770516007",
         "Housing Completes Change": "0.13489145217347498",
         "Output Gap %": "-0.0031347801988153724",
         "Output Gap % Mean": "0.004366894728464954",
@@ -1354,10 +1354,10 @@
         "Agg Housing Completes": "221240.0",
         "Housing Demand Change": "-1.8871334090453604",
         "Housing Completes Change": "-0.003288732711627662",
-        "Output Gap %": "-0.003831263252963635",
-        "Output Gap % Mean": "0.004382395936914747",
-        "Output Gap % Stdev": "0.009331320821160166",
-        "Output Gap % Strength": "-0.8802247128030022"
+        "Output Gap %": "-0.002162590777474619",
+        "Output Gap % Mean": "0.004549263184463649",
+        "Output Gap % Stdev": "0.009181842839888887",
+        "Output Gap % Strength": "-0.7309920327518359"
     },
     {
         "": "85",
@@ -1370,10 +1370,10 @@
         "Agg Housing Completes": "216800.0",
         "Housing Demand Change": "-7.317594788960427",
         "Housing Completes Change": "-0.0200687036702224",
-        "Output Gap %": "-0.01704596550788693",
-        "Output Gap % Mean": "0.0010206300499442434",
-        "Output Gap % Stdev": "0.010441599165065539",
-        "Output Gap % Strength": "-1.730251781573515"
+        "Output Gap %": "-0.015496570195446141",
+        "Output Gap % Mean": "0.001342436828737224",
+        "Output Gap % Stdev": "0.010073151317546478",
+        "Output Gap % Strength": "-1.671672200024575"
     },
     {
         "": "86",
@@ -1387,9 +1387,9 @@
         "Housing Demand Change": "-0.4978693478118351",
         "Housing Completes Change": "-0.0011070110701106861",
         "Output Gap %": "0.011671135611111612",
-        "Output Gap % Mean": "-7.645118788383379e-05",
-        "Output Gap % Stdev": "0.008267465989318797",
-        "Output Gap % Strength": "1.4209416542109532"
+        "Output Gap % Mean": "0.00024535559090914686",
+        "Output Gap % Stdev": "0.007847096898612318",
+        "Output Gap % Strength": "1.4560518581366062"
     },
     {
         "": "87",
@@ -1403,9 +1403,9 @@
         "Housing Demand Change": "0.8818188292266058",
         "Housing Completes Change": "0.012744735869966828",
         "Output Gap %": "-0.0022463420512579203",
-        "Output Gap % Mean": "-0.00018647516261161893",
-        "Output Gap % Stdev": "0.0082905713853451",
-        "Output Gap % Strength": "-0.2484589774219233"
+        "Output Gap % Mean": "0.0001353316161813617",
+        "Output Gap % Stdev": "0.007876432617079059",
+        "Output Gap % Strength": "-0.3023797426102422"
     },
     {
         "": "88",
@@ -1419,9 +1419,9 @@
         "Housing Demand Change": "1.2045008735579987",
         "Housing Completes Change": "0.0015046507386466956",
         "Output Gap %": "0.007987997761354813",
-        "Output Gap % Mean": "0.0006003417287477251",
-        "Output Gap % Stdev": "0.008686768624958898",
-        "Output Gap % Strength": "0.8504492696375969"
+        "Output Gap % Mean": "0.0009221485075407057",
+        "Output Gap % Stdev": "0.008258443719335736",
+        "Output Gap % Strength": "0.8555908950824024"
     },
     {
         "": "89",
@@ -1434,26 +1434,26 @@
         "Agg Housing Completes": "213240.0",
         "Housing Demand Change": "0.5470864078142121",
         "Housing Completes Change": "-0.02918279080355113",
-        "Output Gap %": "-0.00011283166593287653",
-        "Output Gap % Mean": "-0.0006312263411888724",
-        "Output Gap % Stdev": "0.0076729132792561034",
-        "Output Gap % Strength": "0.06756164919229411"
+        "Output Gap %": "0.0011083102115184485",
+        "Output Gap % Mean": "-0.00018730537465075944",
+        "Output Gap % Stdev": "0.007259389373210888",
+        "Output Gap % Strength": "0.17847445832708467"
     },
     {
         "": "90",
         "Date": "2023-09-30",
         "Labour Workforce": "42588.0",
-        "Labour Participation Rate": "63.0",
+        "Labour Participation Rate": "63.1",
         "Housing Completes": "41640",
-        "Population": "26830440.0",
-        "Housing Demand": "306355.0",
+        "Population": "26873028.0",
+        "Housing Demand": "348943.0",
         "Agg Housing Completes": "209890.0",
-        "Housing Demand Change": "-0.43344497191774867",
+        "Housing Demand Change": "-0.354685214329438",
         "Housing Completes Change": "-0.01570999812417928",
-        "Output Gap %": "-0.012313589758331342",
-        "Output Gap % Mean": "-0.0015752710250310578",
-        "Output Gap % Stdev": "0.00851405116480464",
-        "Output Gap % Strength": "-1.2612466762814762"
+        "Output Gap %": "-0.012034657789274214",
+        "Output Gap % Mean": "-0.001103456861587232",
+        "Output Gap % Stdev": "0.008158440122512446",
+        "Output Gap % Strength": "-1.3398640871952183"
     },
     {
         "": "91",
@@ -1464,12 +1464,12 @@
         "Population": "26811832.0",
         "Housing Demand": "349796.0",
         "Agg Housing Completes": "207680.0",
-        "Housing Demand Change": "0.14179954627801084",
+        "Housing Demand Change": "0.0024445253236202724",
         "Housing Completes Change": "-0.010529324884463342",
         "Output Gap %": "-0.006187398134863913",
-        "Output Gap % Mean": "-0.0023780540343047046",
-        "Output Gap % Stdev": "0.008534646312675927",
-        "Output Gap % Strength": "-0.446338835963413"
+        "Output Gap % Mean": "-0.0019062398708608787",
+        "Output Gap % Stdev": "0.00823121888491606",
+        "Output Gap % Strength": "-0.5201123094719758"
     },
     {
         "": "92",
@@ -1483,9 +1483,9 @@
         "Housing Demand Change": "-0.37492995917620553",
         "Housing Completes Change": "-0.03693181818181823",
         "Output Gap %": "-0.018502015908635424",
-        "Output Gap % Mean": "-0.003914777605286709",
-        "Output Gap % Stdev": "0.009951861957794373",
-        "Output Gap % Strength": "-1.4657798073579469"
+        "Output Gap % Mean": "-0.0034429634418428833",
+        "Output Gap % Stdev": "0.009775661140500554",
+        "Output Gap % Strength": "-1.5404638367018373"
     },
     {
         "": "93",
@@ -1499,24 +1499,24 @@
         "Housing Demand Change": "-0.21582276454742122",
         "Housing Completes Change": "0.004599770011499471",
         "Output Gap %": "-0.07322194558971927",
-        "Output Gap % Mean": "-0.011380221849712487",
-        "Output Gap % Stdev": "0.023825564281647626",
-        "Output Gap % Strength": "-2.5956037392844573"
+        "Output Gap % Mean": "-0.010908407686268662",
+        "Output Gap % Stdev": "0.023916706423731865",
+        "Output Gap % Strength": "-2.6054397624590426"
     },
     {
         "": "94",
         "Date": "2024-09-30",
         "Labour Workforce": "43001.0",
-        "Labour Participation Rate": "63.2",
+        "Labour Participation Rate": "63.3",
         "Housing Completes": "36580",
-        "Population": "27176632.0",
-        "Housing Demand": "244946.0",
+        "Population": "27219633.0",
+        "Housing Demand": "287947.0",
         "Agg Housing Completes": "198580.0",
-        "Housing Demand Change": "0.4286064225641264",
+        "Housing Demand Change": "0.6794025358980043",
         "Housing Completes Change": "-0.01169561538844377",
         "Output Gap %": "-0.004861737324233914",
-        "Output Gap % Mean": "-0.011483269256839514",
-        "Output Gap % Stdev": "0.023791490768719593",
-        "Output Gap % Strength": "0.27831513363220645"
+        "Output Gap % Mean": "-0.01117832234094459",
+        "Output Gap % Stdev": "0.023822081225637105",
+        "Output Gap % Strength": "0.2651567240024698"
     }
 ]
