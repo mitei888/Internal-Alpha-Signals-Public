@@ -1868,5 +1868,16 @@
         "Semi Trade Balance Mean": "0.01931004296458248",
         "Semi Trade Balance Stdev": "0.10130081174389256",
         "Semi Trade Balance Strength": "-0.499318603450607"
+    },
+    {
+        "": "170",
+        "Date": "2025-03-06",
+        "Qtr": "2025-01-31",
+        "Unrev": "6278.0",
+        "1st Rev": "6272.0",
+        "Semi Trade Balance": "-0.11565009156219186",
+        "Semi Trade Balance Mean": "0.009298674580988738",
+        "Semi Trade Balance Stdev": "0.10802406186497317",
+        "Semi Trade Balance Strength": "-1.1566753183134588"
     }
 ]

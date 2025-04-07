@@ -58316,7 +58316,52 @@
         "Exports % Strength": "1.3172488705312535",
         "Brazil": "25.85",
         "Brazil %": "-0.004237288135593209",
-        "Exports Signal Return": "-0.015282125194287094",
-        "Exports Signal Cum Returns": "0.32303888817122917"
+        "Exports Signal Return": "-0.014777646903445405",
+        "Exports Signal Cum Returns": "0.3232043833961556"
+    },
+    {
+        "": "3888",
+        "Date": "2025-04-01",
+        "US Exports": "3715.3",
+        "China Exports": "10301.946",
+        "Exports": "14017.246",
+        "Exports %": "0.11078853349087114",
+        "Exports % Mean": "-0.004066689327737423",
+        "Exports % Stdev": "0.0871932596702754",
+        "Exports % Strength": "1.3172488705312535",
+        "Brazil": "26.14",
+        "Brazil %": "0.011218568665377182",
+        "Exports Signal Return": "-0.0",
+        "Exports Signal Cum Returns": "0.3232043833961556"
+    },
+    {
+        "": "3889",
+        "Date": "2025-04-02",
+        "US Exports": "3715.3",
+        "China Exports": "10301.946",
+        "Exports": "14017.246",
+        "Exports %": "0.11078853349087114",
+        "Exports % Mean": "-0.004066689327737423",
+        "Exports % Stdev": "0.0871932596702754",
+        "Exports % Strength": "1.3172488705312535",
+        "Brazil": "26.14",
+        "Brazil %": "0.0",
+        "Exports Signal Return": "-0.00957449446828362",
+        "Exports Signal Cum Returns": "0.3201098648152041"
+    },
+    {
+        "": "3890",
+        "Date": "2025-04-03",
+        "US Exports": "3715.3",
+        "China Exports": "10301.946",
+        "Exports": "14017.246",
+        "Exports %": "0.11078853349087114",
+        "Exports % Mean": "-0.004066689327737423",
+        "Exports % Stdev": "0.0871932596702754",
+        "Exports % Strength": "1.3172488705312535",
+        "Brazil": "26.33",
+        "Brazil %": "0.007268553940321221",
+        "Exports Signal Return": "0.089050626264551",
+        "Exports Signal Cum Returns": "0.34861584875045876"
     }
 ]
