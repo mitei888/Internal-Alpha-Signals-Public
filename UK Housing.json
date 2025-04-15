@@ -379,9 +379,9 @@
         "Housing Demand Change": "-0.14424379315817248",
         "Housing Completes Change": "-0.011276368231748823",
         "Output Gap %": "0.0030242111040715445",
-        "Output Gap % Mean": "-9.017772681493182e-05",
-        "Output Gap % Stdev": "0.0019858310000610588",
-        "Output Gap % Strength": "1.56830507268278"
+        "Output Gap % Mean": "",
+        "Output Gap % Stdev": "",
+        "Output Gap % Strength": ""
     },
     {
         "": "24",
@@ -395,9 +395,9 @@
         "Housing Demand Change": "-0.16772905273690208",
         "Housing Completes Change": "0.03219939042375386",
         "Output Gap %": "0.0033220684432882664",
-        "Output Gap % Mean": "0.00040591968305990635",
-        "Output Gap % Stdev": "0.0021673194446085453",
-        "Output Gap % Strength": "1.345509434468746"
+        "Output Gap % Mean": "",
+        "Output Gap % Stdev": "",
+        "Output Gap % Strength": ""
     },
     {
         "": "25",
@@ -411,9 +411,9 @@
         "Housing Demand Change": "-0.3027355591598999",
         "Housing Completes Change": "0.0047149592798971796",
         "Output Gap %": "-0.0016684273209865007",
-        "Output Gap % Mean": "-3.468458356839018e-05",
-        "Output Gap % Stdev": "0.0020870034821085146",
-        "Output Gap % Strength": "-0.7828174468437056"
+        "Output Gap % Mean": "6.265532117937063e-05",
+        "Output Gap % Stdev": "0.0021180120024427594",
+        "Output Gap % Strength": "-0.817314840600227"
     },
     {
         "": "26",
@@ -427,9 +427,9 @@
         "Housing Demand Change": "-0.167469306459764",
         "Housing Completes Change": "0.0013272658323852937",
         "Output Gap %": "0.003039806094624875",
-        "Output Gap % Mean": "0.0005904396236845122",
-        "Output Gap % Stdev": "0.00196223207861028",
-        "Output Gap % Strength": "1.2482552383279188"
+        "Output Gap % Mean": "0.0004525479670197865",
+        "Output Gap % Stdev": "0.0022051519208568875",
+        "Output Gap % Strength": "1.1732788580841726"
     },
     {
         "": "27",
@@ -443,9 +443,9 @@
         "Housing Demand Change": "-0.05756012211886952",
         "Housing Completes Change": "0.018415072902859375",
         "Output Gap %": "0.0008421642600216139",
-        "Output Gap % Mean": "0.0005441859943313884",
-        "Output Gap % Stdev": "0.0019489311944774098",
-        "Output Gap % Strength": "0.15289316859137556"
+        "Output Gap % Mean": "0.00029459370991354896",
+        "Output Gap % Stdev": "0.0020915526703015165",
+        "Output Gap % Strength": "0.26180098540340735"
     },
     {
         "": "28",
@@ -459,9 +459,9 @@
         "Housing Demand Change": "0.31628999564286664",
         "Housing Completes Change": "0.015293078603634935",
         "Output Gap %": "0.0006867796633922963",
-        "Output Gap % Mean": "0.0007447977262950346",
-        "Output Gap % Stdev": "0.001835760729248279",
-        "Output Gap % Strength": "-0.031604370862915225"
+        "Output Gap % Mean": "0.0006194450133549194",
+        "Output Gap % Stdev": "0.0017765068768174279",
+        "Output Gap % Strength": "0.03790283669377366"
     },
     {
         "": "29",
@@ -475,9 +475,9 @@
         "Housing Demand Change": "0.38561230804657254",
         "Housing Completes Change": "-0.049720721545645996",
         "Output Gap %": "0.00122468352751801",
-        "Output Gap % Mean": "0.0009963868472612168",
-        "Output Gap % Stdev": "0.0016925378248387624",
-        "Output Gap % Strength": "0.1348842412302021"
+        "Output Gap % Mean": "0.0006127769278520158",
+        "Output Gap % Stdev": "0.0017738491393386926",
+        "Output Gap % Strength": "0.3449597748172196"
     },
     {
         "": "30",
@@ -491,9 +491,9 @@
         "Housing Demand Change": "-0.1640015995596018",
         "Housing Completes Change": "-0.030593563306995586",
         "Output Gap %": "0.0010185946716820403",
-        "Output Gap % Mean": "0.001074862422373903",
-        "Output Gap % Stdev": "0.001671313132594266",
-        "Output Gap % Strength": "-0.033666791455483895"
+        "Output Gap % Mean": "0.0008076046218458664",
+        "Output Gap % Stdev": "0.001667553345784978",
+        "Output Gap % Strength": "0.12652671674311758"
     },
     {
         "": "31",
@@ -507,9 +507,9 @@
         "Housing Demand Change": "-0.06555095853988846",
         "Housing Completes Change": "-0.04035584712489437",
         "Output Gap %": "-0.0010388794603327812",
-        "Output Gap % Mean": "0.000958348455272684",
-        "Output Gap % Stdev": "0.0017817560573153229",
-        "Output Gap % Strength": "-1.1209323001347369"
+        "Output Gap % Mean": "0.0008286319736634523",
+        "Output Gap % Stdev": "0.001640046018076448",
+        "Output Gap % Strength": "-1.1386945326001108"
     },
     {
         "": "32",
@@ -523,9 +523,9 @@
         "Housing Demand Change": "-0.05453324646660729",
         "Housing Completes Change": "-0.05805582888808325",
         "Output Gap %": "-0.0010967322384881884",
-        "Output Gap % Mean": "0.0009354268744791175",
-        "Output Gap % Stdev": "0.0018091192429816045",
-        "Output Gap % Strength": "-1.1232864394378506"
+        "Output Gap % Mean": "0.0007177510437431715",
+        "Output Gap % Stdev": "0.0017266092351895734",
+        "Output Gap % Strength": "-1.0508939980459089"
     },
     {
         "": "33",
@@ -539,9 +539,9 @@
         "Housing Demand Change": "-0.6263509095127937",
         "Housing Completes Change": "-0.055146250274906494",
         "Output Gap %": "-0.002475893088849934",
-        "Output Gap % Mean": "0.0003854164551869698",
-        "Output Gap % Stdev": "0.001935205462506962",
-        "Output Gap % Strength": "-1.4785559463697566"
+        "Output Gap % Mean": "0.0005009049354490597",
+        "Output Gap % Stdev": "0.001955835292036289",
+        "Output Gap % Strength": "-1.5220085435720634"
     },
     {
         "": "34",
@@ -555,9 +555,9 @@
         "Housing Demand Change": "-0.8667482122694768",
         "Housing Completes Change": "-0.03229560663369213",
         "Output Gap %": "-0.0013517369982607185",
-        "Output Gap % Mean": "-8.196408896792872e-05",
-        "Output Gap % Stdev": "0.001696876644836091",
-        "Output Gap % Strength": "-0.7483000683384637"
+        "Output Gap % Mean": "0.000460553221473377",
+        "Output Gap % Stdev": "0.00199130780587401",
+        "Output Gap % Strength": "-0.9101004949552027"
     },
     {
         "": "35",
@@ -571,9 +571,9 @@
         "Housing Demand Change": "0.052958621663606875",
         "Housing Completes Change": "-0.03836440168370414",
         "Output Gap %": "-0.00019195720435165374",
-        "Output Gap % Mean": "6.568292269555597e-05",
-        "Output Gap % Stdev": "0.0016052604367607953",
-        "Output Gap % Strength": "-0.16049740038887"
+        "Output Gap % Mean": "0.00019253919577144382",
+        "Output Gap % Stdev": "0.0018243261385112628",
+        "Output Gap % Strength": "-0.21076078010747845"
     },
     {
         "": "36",
@@ -587,9 +587,9 @@
         "Housing Demand Change": "-7.619769313304721",
         "Housing Completes Change": "-0.04339669834917459",
         "Output Gap %": "0.003596866939920412",
-        "Output Gap % Mean": "0.00012138900722510966",
-        "Output Gap % Stdev": "0.0017251270443273431",
-        "Output Gap % Strength": "2.0146214414315504"
+        "Output Gap % Mean": "0.0002154390704907893",
+        "Output Gap % Stdev": "0.0018683737625778594",
+        "Output Gap % Strength": "1.8098241032694393"
     },
     {
         "": "37",
@@ -603,9 +603,9 @@
         "Housing Demand Change": "-0.8826508904512025",
         "Housing Completes Change": "-0.036606092299647064",
         "Output Gap %": "0.004222184003462196",
-        "Output Gap % Mean": "0.0004593909815691679",
-        "Output Gap % Stdev": "0.0021586806454442597",
-        "Output Gap % Strength": "1.74309851243357"
+        "Output Gap % Mean": "0.0007063233475281807",
+        "Output Gap % Stdev": "0.002089203188238976",
+        "Output Gap % Strength": "1.6828715731080195"
     },
     {
         "": "38",
@@ -619,9 +619,9 @@
         "Housing Demand Change": "-18.021236187845304",
         "Housing Completes Change": "-0.02815850183199886",
         "Output Gap %": "-0.0013584309772760295",
-        "Output Gap % Mean": "0.00025486991750233535",
-        "Output Gap % Stdev": "0.0022304359704902",
-        "Output Gap % Strength": "-0.7233119067855588"
+        "Output Gap % Mean": "0.00033980359153643866",
+        "Output Gap % Stdev": "0.0020275040072068847",
+        "Output Gap % Strength": "-0.83759862509568"
     },
     {
         "": "39",
@@ -635,9 +635,9 @@
         "Housing Demand Change": "-0.19367665107975696",
         "Housing Completes Change": "-0.04607973189974168",
         "Output Gap %": "-0.00019471226640146777",
-        "Output Gap % Mean": "0.00011293033811038758",
-        "Output Gap % Stdev": "0.0022069012671375897",
-        "Output Gap % Strength": "-0.13940025731684685"
+        "Output Gap % Mean": "0.0002533972143345152",
+        "Output Gap % Stdev": "0.0020262425078888357",
+        "Output Gap % Strength": "-0.22115293652726353"
     },
     {
         "": "40",
@@ -651,9 +651,9 @@
         "Housing Demand Change": "0.2601361126136892",
         "Housing Completes Change": "-0.011124935958427895",
         "Output Gap %": "-0.00043408310508179394",
-        "Output Gap % Mean": "-3.2337439565995845e-05",
-        "Output Gap % Stdev": "0.0021883958451508192",
-        "Output Gap % Strength": "-0.18357998001413253"
+        "Output Gap % Mean": "0.00015999198362834098",
+        "Output Gap % Stdev": "0.002030278980057268",
+        "Output Gap % Strength": "-0.29260761429612886"
     },
     {
         "": "41",
@@ -667,9 +667,9 @@
         "Housing Demand Change": "0.4046539951283792",
         "Housing Completes Change": "0.01147213381688994",
         "Output Gap %": "-0.006378230433296836",
-        "Output Gap % Mean": "-0.0005662725368624014",
-        "Output Gap % Stdev": "0.002972242915575972",
-        "Output Gap % Strength": "-1.955411472587587"
+        "Output Gap % Mean": "-0.0004735841797728962",
+        "Output Gap % Stdev": "0.002732633084791632",
+        "Output Gap % Strength": "-2.1607900037462144"
     },
     {
         "": "42",
@@ -683,9 +683,9 @@
         "Housing Demand Change": "-0.6818353031476756",
         "Housing Completes Change": "0.0007317430118543022",
         "Output Gap %": "-0.008674799552813311",
-        "Output Gap % Mean": "-0.0013240792682949136",
-        "Output Gap % Stdev": "0.003933222653725802",
-        "Output Gap % Strength": "-1.8688797791692067"
+        "Output Gap % Mean": "-0.0012813670318141755",
+        "Output Gap % Stdev": "0.0035591533412867356",
+        "Output Gap % Strength": "-2.0773009230128303"
     },
     {
         "": "43",
@@ -699,9 +699,9 @@
         "Housing Demand Change": "-0.9423137062187277",
         "Housing Completes Change": "0.019230769230769162",
         "Output Gap %": "0.00033727852432837715",
-        "Output Gap % Mean": "-0.0010427621069770824",
-        "Output Gap % Stdev": "0.003942280856720805",
-        "Output Gap % Strength": "0.3500614698602117"
+        "Output Gap % Mean": "-0.0011666871997590789",
+        "Output Gap % Stdev": "0.0035897162868679185",
+        "Output Gap % Strength": "0.41896506684646345"
     },
     {
         "": "44",
@@ -715,9 +715,9 @@
         "Housing Demand Change": "6.936108422071636",
         "Housing Completes Change": "0.05100796326852719",
         "Output Gap %": "-0.07670777276573248",
-        "Output Gap % Mean": "-0.008578365683724259",
-        "Output Gap % Stdev": "0.024260437307194155",
-        "Output Gap % Strength": "-2.80825140203904"
+        "Output Gap % Mean": "-0.0074676072436961035",
+        "Output Gap % Stdev": "0.022098494986208517",
+        "Output Gap % Strength": "-3.1332525389284918"
     },
     {
         "": "45",
@@ -731,9 +731,9 @@
         "Housing Demand Change": "0.8830690412295681",
         "Housing Completes Change": "0.004232081911262897",
         "Output Gap %": "-0.008868829723624653",
-        "Output Gap % Mean": "-0.00944605293565156",
-        "Output Gap % Stdev": "0.024081673704132344",
-        "Output Gap % Strength": "0.02396939760577591"
+        "Output Gap % Mean": "-0.008000351963260663",
+        "Output Gap % Stdev": "0.02204420908952609",
+        "Output Gap % Strength": "-0.03939709321558883"
     },
     {
         "": "46",
@@ -747,9 +747,9 @@
         "Housing Demand Change": "-0.4256157124904453",
         "Housing Completes Change": "-0.011147362697118024",
         "Output Gap %": "-0.18010088825148185",
-        "Output Gap % Mean": "-0.027815828454791785",
-        "Output Gap % Stdev": "0.05849768429138145",
-        "Output Gap % Strength": "-2.603266465013325"
+        "Output Gap % Mean": "-0.022896114567695757",
+        "Output Gap % Stdev": "0.05415231404871605",
+        "Output Gap % Strength": "-2.903011190664223"
     },
     {
         "": "47",
@@ -763,9 +763,9 @@
         "Housing Demand Change": "3.7595579113567164",
         "Housing Completes Change": "-0.0030932086884795096",
         "Output Gap %": "-0.0019058344239127744",
-        "Output Gap % Mean": "-0.028428630297529282",
-        "Output Gap % Stdev": "0.058155872823251235",
-        "Output Gap % Strength": "0.456063929333934"
+        "Output Gap % Mean": "-0.02303893766932585",
+        "Output Gap % Stdev": "0.0540892130086222",
+        "Output Gap % Strength": "0.3907082774904547"
     },
     {
         "": "48",
@@ -779,9 +779,9 @@
         "Housing Demand Change": "-0.49272326611852235",
         "Housing Completes Change": "-0.03020064814176382",
         "Output Gap %": "0.00290336760755453",
-        "Output Gap % Mean": "-0.028002450439046228",
-        "Output Gap % Stdev": "0.05839143012013903",
-        "Output Gap % Strength": "0.5292868830753544"
+        "Output Gap % Mean": "-0.023096729280356342",
+        "Output Gap % Stdev": "0.054058528584780136",
+        "Output Gap % Strength": "0.48096197896202175"
     },
     {
         "": "49",
@@ -795,9 +795,9 @@
         "Housing Demand Change": "0.17136104182431366",
         "Housing Completes Change": "-0.0363313188766442",
         "Output Gap %": "0.004409853140050234",
-        "Output Gap % Mean": "-0.027541993898401056",
-        "Output Gap % Stdev": "0.05865264881964234",
-        "Output Gap % Strength": "0.5447639225417361"
+        "Output Gap % Mean": "-0.02308109018564067",
+        "Output Gap % Stdev": "0.05406717686758073",
+        "Output Gap % Strength": "0.5084590118885007"
     },
     {
         "": "50",
@@ -811,9 +811,9 @@
         "Housing Demand Change": "0.19345062447163164",
         "Housing Completes Change": "-0.0010329054153754846",
         "Output Gap %": "-0.006808023977323001",
-        "Output Gap % Mean": "-0.028179387985625175",
-        "Output Gap % Stdev": "0.058359227482252786",
-        "Output Gap % Strength": "0.36620368243910134"
+        "Output Gap % Mean": "-0.023535222935644584",
+        "Output Gap % Stdev": "0.0538907309291132",
+        "Output Gap % Strength": "0.3103910203096746"
     },
     {
         "": "51",
@@ -827,9 +827,9 @@
         "Housing Demand Change": "0.0977599871693775",
         "Housing Completes Change": "0.0062038404726736385",
         "Output Gap %": "-0.009485175466914013",
-        "Output Gap % Mean": "-0.028490082488986896",
-        "Output Gap % Stdev": "0.05823841104675491",
-        "Output Gap % Strength": "0.3263294221199713"
+        "Output Gap % Mean": "-0.024309428202353964",
+        "Output Gap % Stdev": "0.05359083312966482",
+        "Output Gap % Strength": "0.27661918782960837"
     },
     {
         "": "52",
@@ -843,9 +843,9 @@
         "Housing Demand Change": "-0.19167108010543554",
         "Housing Completes Change": "0.01071638285378751",
         "Output Gap %": "0.0692539203921785",
-        "Output Gap % Mean": "-0.020697210494487715",
-        "Output Gap % Stdev": "0.06589500808392361",
-        "Output Gap % Strength": "1.3650674535482994"
+        "Output Gap % Mean": "-0.018502094577582274",
+        "Output Gap % Stdev": "0.05982635323972105",
+        "Output Gap % Strength": "1.4668454655447078"
     },
     {
         "": "53",
@@ -859,9 +859,9 @@
         "Housing Demand Change": "0.37645065331174465",
         "Housing Completes Change": "0.029121278140886053",
         "Output Gap %": "0.00853947763088682",
-        "Output Gap % Mean": "-0.01987699058383187",
-        "Output Gap % Stdev": "0.06623608903063058",
-        "Output Gap % Strength": "0.42901790595724365"
+        "Output Gap % Mean": "-0.0172589522389003",
+        "Output Gap % Stdev": "0.060254635184077344",
+        "Output Gap % Strength": "0.42815676820502124"
     },
     {
         "": "54",
@@ -875,9 +875,9 @@
         "Housing Demand Change": "-0.13956185849035962",
         "Housing Completes Change": "0.020252628607720036",
         "Output Gap %": "-0.004458683410981653",
-        "Output Gap % Mean": "-0.012652081648356786",
-        "Output Gap % Stdev": "0.0632200466730409",
-        "Output Gap % Strength": "0.12960126840382524"
+        "Output Gap % Mean": "-0.016907609227080997",
+        "Output Gap % Stdev": "0.0603214944161805",
+        "Output Gap % Strength": "0.20637628322351495"
     },
     {
         "": "55",
@@ -891,9 +891,9 @@
         "Housing Demand Change": "-0.6957091260555499",
         "Housing Completes Change": "0.007193249412090097",
         "Output Gap %": "0.037523646619446266",
-        "Output Gap % Mean": "-0.008012834014049694",
-        "Output Gap % Stdev": "0.06519972157236684",
-        "Output Gap % Strength": "0.6984152621411712"
+        "Output Gap % Mean": "-0.013808745219154506",
+        "Output Gap % Stdev": "0.06221345187512993",
+        "Output Gap % Strength": "0.8251011685002018"
     },
     {
         "": "56",
@@ -907,9 +907,9 @@
         "Housing Demand Change": "1.9060266644376647",
         "Housing Completes Change": "0.05356407086938608",
         "Output Gap %": "-0.005462873369879084",
-        "Output Gap % Mean": "0.009450967474110582",
-        "Output Gap % Stdev": "0.02494748596086979",
-        "Output Gap % Strength": "-0.5978093691437315"
+        "Output Gap % Mean": "-0.007871670269500057",
+        "Output Gap % Stdev": "0.05898075891149569",
+        "Output Gap % Strength": "0.04084038496750309"
     },
     {
         "": "57",
@@ -923,9 +923,9 @@
         "Housing Demand Change": "-0.5186711250134829",
         "Housing Completes Change": "0.04771216269065315",
         "Output Gap %": "0.0012364887913366052",
-        "Output Gap % Mean": "0.00976519979563552",
-        "Output Gap % Stdev": "0.024807944052639558",
-        "Output Gap % Strength": "-0.3437895129964009"
+        "Output Gap % Mean": "-0.007029560393253286",
+        "Output Gap % Stdev": "0.059037340714863946",
+        "Output Gap % Strength": "0.14001391465975588"
     },
     {
         "": "58",
@@ -939,9 +939,9 @@
         "Housing Demand Change": "1.4001284809370143",
         "Housing Completes Change": "0.03645638919995031",
         "Output Gap %": "0.0015699423527168132",
-        "Output Gap % Mean": "0.009631857270151749",
-        "Output Gap % Stdev": "0.02485246800701504",
-        "Output Gap % Strength": "-0.32439091824439004"
+        "Output Gap % Mean": "0.008109675490429936",
+        "Output Gap % Stdev": "0.022782355510506447",
+        "Output Gap % Strength": "-0.2870525453216293"
     },
     {
         "": "59",
@@ -955,9 +955,9 @@
         "Housing Demand Change": "0.8124614857925367",
         "Housing Completes Change": "0.030192076830732217",
         "Output Gap %": "0.0006756791033864528",
-        "Output Gap % Mean": "0.00925843986648537",
-        "Output Gap % Stdev": "0.02496743632325868",
-        "Output Gap % Strength": "-0.3437581917492889"
+        "Output Gap % Mean": "0.008324801617704871",
+        "Output Gap % Stdev": "0.022691190643685293",
+        "Output Gap % Strength": "-0.33709656907964347"
     },
     {
         "": "60",
@@ -971,9 +971,9 @@
         "Housing Demand Change": "0.014904818652315965",
         "Housing Completes Change": "0.023655538076093885",
         "Output Gap %": "-0.002153266181815294",
-        "Output Gap % Mean": "0.009723915646036141",
-        "Output Gap % Stdev": "0.024676315649893765",
-        "Output Gap % Strength": "-0.4813190914058748"
+        "Output Gap % Mean": "0.00790341546859072",
+        "Output Gap % Stdev": "0.022847435948748312",
+        "Output Gap % Strength": "-0.44016675100721603"
     },
     {
         "": "61",
@@ -987,9 +987,9 @@
         "Housing Demand Change": "-0.1218593602485103",
         "Housing Completes Change": "-0.005748762024019527",
         "Output Gap %": "0.0038219941533576417",
-        "Output Gap % Mean": "0.011054632608063306",
-        "Output Gap % Stdev": "0.023870996828016536",
-        "Output Gap % Strength": "-0.3029885390549328"
+        "Output Gap % Mean": "0.00785442721969967",
+        "Output Gap % Stdev": "0.022856236164696956",
+        "Output Gap % Strength": "-0.17642594508059914"
     },
     {
         "": "62",
@@ -1003,9 +1003,9 @@
         "Housing Demand Change": "0.1311669344801143",
         "Housing Completes Change": "0.01791847950538128",
         "Output Gap %": "-0.0015748033799574091",
-        "Output Gap % Mean": "0.0039717602308497165",
-        "Output Gap % Stdev": "0.012468160114409103",
-        "Output Gap % Strength": "-0.4448582276704257"
+        "Output Gap % Mean": "0.008290528936146803",
+        "Output Gap % Stdev": "0.022599524423579827",
+        "Output Gap % Strength": "-0.4365283149857326"
     },
     {
         "": "63",
@@ -1019,9 +1019,9 @@
         "Housing Demand Change": "-0.3316834044176762",
         "Housing Completes Change": "-0.0034306281986390408",
         "Output Gap %": "-0.006922784978569109",
-        "Output Gap % Mean": "0.0024255339699041233",
-        "Output Gap % Stdev": "0.01279328845884074",
-        "Output Gap % Strength": "-0.730720563250735"
+        "Output Gap % Mean": "0.008504061476842212",
+        "Output Gap % Stdev": "0.022427754002135297",
+        "Output Gap % Strength": "-0.6878462486231375"
     },
     {
         "": "64",
@@ -1035,9 +1035,9 @@
         "Housing Demand Change": "-0.505793060560803",
         "Housing Completes Change": "0.028724604966140044",
         "Output Gap %": "0.018773020594715247",
-        "Output Gap % Mean": "0.004748704370473813",
-        "Output Gap % Stdev": "0.013494405133734445",
-        "Output Gap % Strength": "1.0392689477791262"
+        "Output Gap % Mean": "0.004297319827053608",
+        "Output Gap % Stdev": "0.012561093267480365",
+        "Output Gap % Strength": "1.1524236353803723"
     },
     {
         "": "65",
@@ -1051,9 +1051,9 @@
         "Housing Demand Change": "0.6658037233768244",
         "Housing Completes Change": "0.03659004882330352",
         "Output Gap %": "-0.005552611738367864",
-        "Output Gap % Mean": "0.0004410785346924002",
-        "Output Gap % Stdev": "0.00734283172715716",
-        "Output Gap % Strength": "-0.8162641465543664"
+        "Output Gap % Mean": "0.0031229790462823843",
+        "Output Gap % Stdev": "0.012785176212374096",
+        "Output Gap % Strength": "-0.6785663834850866"
     },
     {
         "": "66",
@@ -1067,9 +1067,9 @@
         "Housing Demand Change": "-0.8729103202318151",
         "Housing Completes Change": "0.027836579170194664",
         "Output Gap %": "0.013722919017668195",
-        "Output Gap % Mean": "0.002359657773447128",
-        "Output Gap % Stdev": "0.008096609547829453",
-        "Output Gap % Strength": "1.4034592105614554"
+        "Output Gap % Mean": "0.004638112582003205",
+        "Output Gap % Stdev": "0.012881973327110767",
+        "Output Gap % Strength": "0.705234066627475"
     },
     {
         "": "67",
@@ -1083,9 +1083,9 @@
         "Housing Demand Change": "1.6709539121114685",
         "Housing Completes Change": "0.012048192771084265",
         "Output Gap %": "0.008004132930214524",
-        "Output Gap % Mean": "0.00303642218733492",
-        "Output Gap % Stdev": "0.008273211562654545",
-        "Output Gap % Strength": "0.6004573562827713"
+        "Output Gap % Mean": "0.00217815310790056",
+        "Output Gap % Stdev": "0.007877773921208177",
+        "Output Gap % Strength": "0.7395464607875496"
     },
     {
         "": "68",
@@ -1099,9 +1099,9 @@
         "Housing Demand Change": "2.2501459214942363",
         "Housing Completes Change": "0.02370777370777377",
         "Output Gap %": "-8.802955055457806e-05",
-        "Output Gap % Mean": "0.002870624997007781",
-        "Output Gap % Stdev": "0.008322332836129164",
-        "Output Gap % Strength": "-0.35550783726386886"
+        "Output Gap % Mean": "0.0026260567595109354",
+        "Output Gap % Stdev": "0.007549806906165255",
+        "Output Gap % Strength": "-0.35949082457316367"
     },
     {
         "": "69",
@@ -1115,9 +1115,9 @@
         "Housing Demand Change": "-0.23927805775986888",
         "Housing Completes Change": "0.0016399960242521328",
         "Output Gap %": "-0.0012349935627276242",
-        "Output Gap % Mean": "0.0026795577303963735",
-        "Output Gap % Stdev": "0.008399895923933545",
-        "Output Gap % Strength": "-0.46602378512457476"
+        "Output Gap % Mean": "0.0024200998966722492",
+        "Output Gap % Stdev": "0.007624501290544514",
+        "Output Gap % Strength": "-0.47938787339871247"
     },
     {
         "": "70",
@@ -1131,9 +1131,9 @@
         "Housing Demand Change": "0.010726669125783905",
         "Housing Completes Change": "0.005507318283304308",
         "Output Gap %": "0.0012565961619681",
-        "Output Gap % Mean": "0.0030205439647747125",
-        "Output Gap % Stdev": "0.00824978235628514",
-        "Output Gap % Strength": "-0.2138174956170498"
+        "Output Gap % Mean": "0.002393987714109857",
+        "Output Gap % Stdev": "0.007628213243449089",
+        "Output Gap % Strength": "-0.1491032717417174"
     },
     {
         "": "71",
@@ -1147,9 +1147,9 @@
         "Housing Demand Change": "1.223219760007007",
         "Housing Completes Change": "0.01707293003059318",
         "Output Gap %": "-0.0034875633444826936",
-        "Output Gap % Mean": "0.0022895882149906793",
-        "Output Gap % Stdev": "0.00849117421272274",
-        "Output Gap % Strength": "-0.6803713379024995"
+        "Output Gap % Mean": "0.0020470508434540942",
+        "Output Gap % Stdev": "0.007806068072219392",
+        "Output Gap % Strength": "-0.7090143381702803"
     },
     {
         "": "72",
@@ -1163,9 +1163,9 @@
         "Housing Demand Change": "-0.26113464000787945",
         "Housing Completes Change": "0.009897147292839081",
         "Output Gap %": "-0.005156902078536421",
-        "Output Gap % Mean": "0.001931378345132778",
-        "Output Gap % Stdev": "0.008744102188720758",
-        "Output Gap % Strength": "-0.8106355885013048"
+        "Output Gap % Mean": "0.0017967478520606675",
+        "Output Gap % Stdev": "0.007998773438749189",
+        "Output Gap % Strength": "-0.869339528597083"
     },
     {
         "": "73",
@@ -1179,9 +1179,9 @@
         "Housing Demand Change": "0.19499135751451901",
         "Housing Completes Change": "0.026325903151422025",
         "Output Gap %": "0.006394778202254024",
-        "Output Gap % Mean": "0.0032631346632150914",
-        "Output Gap % Stdev": "0.008245698467789542",
-        "Output Gap % Strength": "0.37979117854869177"
+        "Output Gap % Mean": "0.0020111465228020327",
+        "Output Gap % Stdev": "0.008091930889972647",
+        "Output Gap % Strength": "0.541728759063439"
     },
     {
         "": "74",
@@ -1195,9 +1195,9 @@
         "Housing Demand Change": "-0.17858656770806225",
         "Housing Completes Change": "0.02251451039131247",
         "Output Gap %": "-0.008954248306231276",
-        "Output Gap % Mean": "0.0004904077731204389",
-        "Output Gap % Stdev": "0.007021804373511546",
-        "Output Gap % Strength": "-1.3450468821062471"
+        "Output Gap % Mean": "0.0013961927789458769",
+        "Output Gap % Stdev": "0.00865035800927824",
+        "Output Gap % Strength": "-1.1965332618690963"
     },
     {
         "": "75",
@@ -1211,9 +1211,9 @@
         "Housing Demand Change": "0.12842566521506882",
         "Housing Completes Change": "0.013321126115815929",
         "Output Gap %": "0.016576327859956524",
-        "Output Gap % Mean": "0.002703301732952878",
-        "Output Gap % Stdev": "0.008279971641041162",
-        "Output Gap % Strength": "1.6754919857743849"
+        "Output Gap % Mean": "0.0033544521821563464",
+        "Output Gap % Stdev": "0.009235944515562703",
+        "Output Gap % Strength": "1.431567248538698"
     },
     {
         "": "76",
@@ -1227,9 +1227,9 @@
         "Housing Demand Change": "-0.21954781045908955",
         "Housing Completes Change": "-0.014320563787495466",
         "Output Gap %": "0.02264466485281732",
-        "Output Gap % Mean": "0.0035954763164677906",
-        "Output Gap % Stdev": "0.009917927743289512",
-        "Output Gap % Strength": "1.9206823269344995"
+        "Output Gap % Mean": "0.0036770892036648525",
+        "Output Gap % Stdev": "0.009869421550954405",
+        "Output Gap % Strength": "1.9218528209810066"
     },
     {
         "": "77",
@@ -1243,9 +1243,9 @@
         "Housing Demand Change": "-1.5697257232148365",
         "Housing Completes Change": "-0.12452449699802925",
         "Output Gap %": "-0.0011475356076183962",
-        "Output Gap % Mean": "0.0026803094626844984",
-        "Output Gap % Stdev": "0.009888108580857563",
-        "Output Gap % Strength": "-0.38711600292428405"
+        "Output Gap % Mean": "0.004044178881227308",
+        "Output Gap % Stdev": "0.009572369642829925",
+        "Output Gap % Strength": "-0.5423646058982374"
     },
     {
         "": "78",
@@ -1259,9 +1259,9 @@
         "Housing Demand Change": "1.1660065500410504",
         "Housing Completes Change": "-5.23505392105994e-05",
         "Output Gap %": "0.00010779019664994505",
-        "Output Gap % Mean": "0.0026998914374049506",
-        "Output Gap % Stdev": "0.009882209276753737",
-        "Output Gap % Strength": "-0.26229977206134414"
+        "Output Gap % Mean": "0.0029095848128091206",
+        "Output Gap % Stdev": "0.009116929144154804",
+        "Output Gap % Strength": "-0.30731780096761074"
     },
     {
         "": "79",
@@ -1275,9 +1275,9 @@
         "Housing Demand Change": "-0.2118894692558252",
         "Housing Completes Change": "0.002355897596984402",
         "Output Gap %": "0.012208638624100225",
-        "Output Gap % Mean": "0.004044254656087735",
-        "Output Gap % Stdev": "0.010196853382646828",
-        "Output Gap % Strength": "0.800676803091704"
+        "Output Gap % Mean": "0.0032599602872995953",
+        "Output Gap % Stdev": "0.009406705503871196",
+        "Output Gap % Strength": "0.9513084398270923"
     },
     {
         "": "80",
@@ -1291,9 +1291,9 @@
         "Housing Demand Change": "0.800304426874128",
         "Housing Completes Change": "0.02512274104251544",
         "Output Gap %": "-0.002862573810503949",
-        "Output Gap % Mean": "0.003632337658840531",
-        "Output Gap % Stdev": "0.010403091707252954",
-        "Output Gap % Strength": "-0.6243251191197592"
+        "Output Gap % Mean": "0.0030287482656371476",
+        "Output Gap % Stdev": "0.009529771878596733",
+        "Output Gap % Strength": "-0.6182017944598059"
     },
     {
         "": "81",
@@ -1307,9 +1307,9 @@
         "Housing Demand Change": "0.08164823034829372",
         "Housing Completes Change": "0.011005247872828194",
         "Output Gap %": "0.0018398610964169082",
-        "Output Gap % Mean": "0.00416508010293049",
-        "Output Gap % Stdev": "0.010130814875846213",
-        "Output Gap % Strength": "-0.22951944488269604"
+        "Output Gap % Mean": "0.003284986153899192",
+        "Output Gap % Stdev": "0.009445673067584686",
+        "Output Gap % Strength": "-0.1529933385521897"
     },
     {
         "": "82",
@@ -1323,9 +1323,9 @@
         "Housing Demand Change": "-1.2191757770516007",
         "Housing Completes Change": "0.13677367333568502",
         "Output Gap %": "-0.0031536024104374728",
-        "Output Gap % Mean": "0.0043654100697403855",
-        "Output Gap % Stdev": "0.009944083285059921",
-        "Output Gap % Strength": "-0.7561292745279485"
+        "Output Gap % Mean": "0.0029174696061987286",
+        "Output Gap % Stdev": "0.00961603004686388",
+        "Output Gap % Strength": "-0.6313491105007714"
     },
     {
         "": "83",
@@ -1339,9 +1339,9 @@
         "Housing Demand Change": "-0.6292691383708546",
         "Housing Completes Change": "-0.015782240546171944",
         "Output Gap %": "0.0014420790576124077",
-        "Output Gap % Mean": "0.0038701401552762244",
-        "Output Gap % Stdev": "0.009955108893479697",
-        "Output Gap % Strength": "-0.2439010083811464"
+        "Output Gap % Mean": "0.0033282731397066534",
+        "Output Gap % Stdev": "0.009420845301476691",
+        "Output Gap % Strength": "-0.20021495117838206"
     },
     {
         "": "84",
@@ -1355,9 +1355,9 @@
         "Housing Demand Change": "-1.8871334090453604",
         "Housing Completes Change": "-0.0046394306562767",
         "Output Gap %": "-0.0021490837980281284",
-        "Output Gap % Mean": "0.004550656606096539",
-        "Output Gap % Stdev": "0.009183758785785085",
-        "Output Gap % Strength": "-0.7295205111979575"
+        "Output Gap % Mean": "0.0035789246630823436",
+        "Output Gap % Stdev": "0.009212269064296456",
+        "Output Gap % Strength": "-0.6217804127443733"
     },
     {
         "": "85",
@@ -1371,9 +1371,9 @@
         "Housing Demand Change": "-7.317594788960427",
         "Housing Completes Change": "-0.01982079826228622",
         "Output Gap %": "-0.015499049249525504",
-        "Output Gap % Mean": "0.001343118895148336",
-        "Output Gap % Stdev": "0.010075072555784312",
-        "Output Gap % Strength": "-1.6716671816923439"
+        "Output Gap % Mean": "0.0017544390421007168",
+        "Output Gap % Stdev": "0.010658415362882319",
+        "Output Gap % Strength": "-1.6187667401020125"
     },
     {
         "": "86",
@@ -1387,9 +1387,9 @@
         "Housing Demand Change": "-0.4978693478118351",
         "Housing Completes Change": "0.0015235457063711433",
         "Output Gap %": "0.011644830043346792",
-        "Output Gap % Mean": "0.0002431354142012834",
-        "Output Gap % Stdev": "0.0078445560659715",
-        "Output Gap % Strength": "1.4534531378524196"
+        "Output Gap % Mean": "0.003471028904565556",
+        "Output Gap % Stdev": "0.010433354201733726",
+        "Output Gap % Strength": "0.7834298520626266"
     },
     {
         "": "87",
@@ -1403,9 +1403,9 @@
         "Housing Demand Change": "0.8818188292266058",
         "Housing Completes Change": "0.011109574517125242",
         "Output Gap %": "-0.0022299904377295044",
-        "Output Gap % Mean": "0.0001348899311901726",
-        "Output Gap % Stdev": "0.007873293491235408",
-        "Output Gap % Strength": "-0.300367358533284"
+        "Output Gap % Mean": "0.00190383571309172",
+        "Output Gap % Stdev": "0.009670401447554051",
+        "Output Gap % Strength": "-0.427472031356754"
     },
     {
         "": "88",
@@ -1419,9 +1419,9 @@
         "Housing Demand Change": "1.2045008735579987",
         "Housing Completes Change": "-4.559131941272998e-05",
         "Output Gap %": "0.008003500181935406",
-        "Output Gap % Mean": "0.0009244609297187187",
-        "Output Gap % Stdev": "0.008256841088572931",
-        "Output Gap % Strength": "0.85735442601817"
+        "Output Gap % Mean": "0.000683738657184894",
+        "Output Gap % Stdev": "0.007494504514185433",
+        "Output Gap % Strength": "0.9766838502659955"
     },
     {
         "": "89",
@@ -1435,9 +1435,9 @@
         "Housing Demand Change": "0.5470864078142121",
         "Housing Completes Change": "-0.02653535768020787",
         "Output Gap %": "0.0010818358802850158",
-        "Output Gap % Mean": "-0.00018821934466280225",
-        "Output Gap % Stdev": "0.007256340901922545",
-        "Output Gap % Strength": "0.1750269512022679"
+        "Output Gap % Mean": "0.0008695196145101784",
+        "Output Gap % Stdev": "0.007472582115741257",
+        "Output Gap % Strength": "0.02841270426825899"
     },
     {
         "": "90",
@@ -1451,9 +1451,9 @@
         "Housing Demand Change": "-0.354685214329438",
         "Housing Completes Change": "-0.009414078965856443",
         "Output Gap %": "-0.012097616980857442",
-        "Output Gap % Mean": "-0.0011117236616981516",
-        "Output Gap % Stdev": "0.00816526061077206",
-        "Output Gap % Strength": "-1.3454430719169082"
+        "Output Gap % Mean": "-0.00014759765028210382",
+        "Output Gap % Stdev": "0.008363265932605531",
+        "Output Gap % Strength": "-1.4288699446930506"
     },
     {
         "": "91",
@@ -1467,9 +1467,9 @@
         "Housing Demand Change": "0.0024445253236202724",
         "Housing Completes Change": "-0.011158392434988174",
         "Output Gap %": "-0.006181107459358665",
-        "Output Gap % Mean": "-0.001913820517275709",
-        "Output Gap % Stdev": "0.008236750528527638",
-        "Output Gap % Strength": "-0.518078935048887"
+        "Output Gap % Mean": "-0.0016800764905703447",
+        "Output Gap % Stdev": "0.007537368461996958",
+        "Output Gap % Strength": "-0.5971621251478281"
     },
     {
         "": "92",
@@ -1483,9 +1483,9 @@
         "Housing Demand Change": "-0.37492995917620553",
         "Housing Completes Change": "-0.03743903605240506",
         "Output Gap %": "-0.018496943729929553",
-        "Output Gap % Mean": "-0.0034481546492249166",
-        "Output Gap % Stdev": "0.009778193638463578",
-        "Output Gap % Strength": "-1.539015245260495"
+        "Output Gap % Mean": "-0.0029829406505224782",
+        "Output Gap % Stdev": "0.008974562132920215",
+        "Output Gap % Strength": "-1.7286640673531115"
     },
     {
         "": "93",
@@ -1499,9 +1499,9 @@
         "Housing Demand Change": "-0.21582276454742122",
         "Housing Completes Change": "0.009338830659182396",
         "Output Gap %": "-0.07326933619619609",
-        "Output Gap % Mean": "-0.010919296174605766",
-        "Output Gap % Stdev": "0.02392911078690213",
-        "Output Gap % Strength": "-2.6056145828752784"
+        "Output Gap % Mean": "-0.009242040424906894",
+        "Output Gap % Stdev": "0.02201811742125586",
+        "Output Gap % Strength": "-2.9079368842623436"
     },
     {
         "": "94",
@@ -1515,9 +1515,9 @@
         "Housing Demand Change": "0.6794025358980043",
         "Housing Completes Change": "-0.015207441311088199",
         "Output Gap %": "-0.004826619065007469",
-        "Output Gap % Mean": "-0.0111870497013037",
-        "Output Gap % Stdev": "0.02383486768298233",
-        "Output Gap % Strength": "0.26685403589789863"
+        "Output Gap % Mean": "-0.009381458479454395",
+        "Output Gap % Stdev": "0.021981326914494188",
+        "Output Gap % Strength": "0.2072140336279484"
     },
     {
         "": "95",
@@ -1531,8 +1531,8 @@
         "Housing Demand Change": "0.399361688088433",
         "Housing Completes Change": "-0.029935032483758173",
         "Output Gap %": "0.00911753861710364",
-        "Output Gap % Mean": "-0.008725390914640788",
-        "Output Gap % Stdev": "0.024598991813225172",
-        "Output Gap % Strength": "0.7253520659392033"
+        "Output Gap % Mean": "-0.008741836849496793",
+        "Output Gap % Stdev": "0.02243195894041394",
+        "Output Gap % Strength": "0.7961576389311488"
     }
 ]
