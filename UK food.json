@@ -366,18 +366,18 @@
         "Food Consumption": "27245.0",
         "Food Capex": "758.0",
         "Manufacturing Workforce": "3099.0",
-        "Manufacturing Vacancy Ratio": "1.7666666666666666",
+        "Manufacturing Vacancy Ratio": "1.8",
         "Food Imports": "9115",
         "Food Exports": "2663",
         "Food Demand": "20793.0",
         "Food Demand %": "-0.0008793005218704908",
-        "Food Manu Workforce": "3044.2509999999997",
-        "Food Manu Workforce %": "-0.009893255747218083",
-        "Food Supply %": "0.01775564585475009",
-        "Output Gap %": "-0.01863494637662058",
-        "Output Gap % Mean": "0.014391498158703364",
-        "Output Gap % Stdev": "0.025240776160568107",
-        "Output Gap % Strength": "-1.3084559811167313"
+        "Food Manu Workforce": "3043.218",
+        "Food Manu Workforce %": "-0.009977631318978969",
+        "Food Supply %": "0.017688145397341384",
+        "Output Gap %": "-0.018567445919211875",
+        "Output Gap % Mean": "0.014397123196820757",
+        "Output Gap % Stdev": "0.025232753190790096",
+        "Output Gap % Strength": "-1.3064198292901559"
     },
     {
         "": "19",
@@ -392,12 +392,12 @@
         "Food Demand": "21028.0",
         "Food Demand %": "-0.008235204837464677",
         "Food Manu Workforce": "3031.5266666666666",
-        "Food Manu Workforce %": "-0.008713477559969263",
-        "Food Supply %": "0.028203261034774572",
-        "Output Gap %": "-0.03643846587223925",
-        "Output Gap % Mean": "0.011704312499199438",
-        "Output Gap % Stdev": "0.028856609432231273",
-        "Output Gap % Strength": "-1.6683449413729738"
+        "Food Manu Workforce %": "-0.008713347004025818",
+        "Food Supply %": "0.028203365479529327",
+        "Output Gap %": "-0.036438570316994004",
+        "Output Gap % Mean": "0.011709928833587268",
+        "Output Gap % Stdev": "0.028850179444518485",
+        "Output Gap % Strength": "-1.6689150666523656"
     },
     {
         "": "20",
@@ -412,12 +412,12 @@
         "Food Demand": "21013.0",
         "Food Demand %": "7.039032993236272e-05",
         "Food Manu Workforce": "2987.244",
-        "Food Manu Workforce %": "-0.009877070262101939",
-        "Food Supply %": "0.0032642346991553772",
-        "Output Gap %": "-0.0031938443692230145",
-        "Output Gap % Mean": "0.011163745529352245",
-        "Output Gap % Stdev": "0.029088330447250794",
-        "Output Gap % Strength": "-0.49358590465037255"
+        "Food Manu Workforce %": "-0.009876939706158494",
+        "Food Supply %": "0.0032643391439101336",
+        "Output Gap %": "-0.003193948813977771",
+        "Output Gap % Mean": "0.011169353160010512",
+        "Output Gap % Stdev": "0.02908207026731759",
+        "Output Gap % Strength": "-0.49388856577139045"
     },
     {
         "": "21",
@@ -432,12 +432,12 @@
         "Food Demand": "20717.0",
         "Food Demand %": "-0.001928082395191627",
         "Food Manu Workforce": "2970.5499999999997",
-        "Food Manu Workforce %": "-0.007439090354816269",
-        "Food Supply %": "-0.011654561365979976",
-        "Output Gap %": "0.00972647897078835",
-        "Output Gap % Mean": "0.008669045529939879",
-        "Output Gap % Stdev": "0.027671158995830312",
-        "Output Gap % Strength": "0.038214280833260804"
+        "Food Manu Workforce %": "-0.007438959798872824",
+        "Food Supply %": "-0.011654456921225222",
+        "Output Gap %": "0.009726374526033595",
+        "Output Gap % Mean": "0.008674644456868582",
+        "Output Gap % Stdev": "0.02766512940970553",
+        "Output Gap % Strength": "0.03801645217665395"
     },
     {
         "": "22",
@@ -452,12 +452,12 @@
         "Food Demand": "20687.0",
         "Food Demand %": "-0.001236514535923744",
         "Food Manu Workforce": "2963.676",
-        "Food Manu Workforce %": "-0.006672412730861749",
-        "Food Supply %": "-0.033541667726560996",
-        "Output Gap %": "0.03230515319063725",
-        "Output Gap % Mean": "0.00832780923898342",
-        "Output Gap % Stdev": "0.027321131536299323",
-        "Output Gap % Strength": "0.8776116728473388"
+        "Food Manu Workforce %": "-0.006587906603157417",
+        "Food Supply %": "-0.033474062824397535",
+        "Output Gap %": "0.03223754828847379",
+        "Output Gap % Mean": "0.00832777442406517",
+        "Output Gap % Stdev": "0.027309713783904288",
+        "Output Gap % Strength": "0.8755043737770877"
     },
     {
         "": "23",
@@ -475,9 +475,9 @@
         "Food Manu Workforce %": "-0.007201354941238858",
         "Food Supply %": "-0.02325306398150917",
         "Output Gap %": "0.018780193271740686",
-        "Output Gap % Mean": "0.008751377233143608",
-        "Output Gap % Stdev": "0.027451036848890522",
-        "Output Gap % Strength": "0.36533469004477365"
+        "Output Gap % Mean": "0.008751342418225356",
+        "Output Gap % Stdev": "0.027439673736914166",
+        "Output Gap % Strength": "0.3654872484880778"
     },
     {
         "": "24",
@@ -495,9 +495,9 @@
         "Food Manu Workforce %": "-0.004973779289221852",
         "Food Supply %": "0.01728245218222557",
         "Output Gap %": "-0.017751879088134553",
-        "Output Gap % Mean": "0.002560922835544037",
-        "Output Gap % Stdev": "0.023833851508722977",
-        "Output Gap % Strength": "-0.8522668657327284"
+        "Output Gap % Mean": "0.0025608880206257852",
+        "Output Gap % Stdev": "0.023820753099413047",
+        "Output Gap % Strength": "-0.8527340434614913"
     },
     {
         "": "25",
@@ -515,9 +515,9 @@
         "Food Manu Workforce %": "-0.003742727500858356",
         "Food Supply %": "0.05232947781214947",
         "Output Gap %": "-0.06015046901280638",
-        "Output Gap % Mean": "-0.0043283939070098915",
-        "Output Gap % Stdev": "0.02894088924092559",
-        "Output Gap % Strength": "-1.928830681085568"
+        "Output Gap % Mean": "-0.004328428721928144",
+        "Output Gap % Stdev": "0.028930094144810375",
+        "Output Gap % Strength": "-1.9295492096036566"
     },
     {
         "": "26",
@@ -535,9 +535,9 @@
         "Food Manu Workforce %": "-0.00442323034357095",
         "Food Supply %": "0.05777270542498034",
         "Output Gap %": "-0.0574164484932456",
-        "Output Gap % Mean": "-0.0097934148733507",
-        "Output Gap % Stdev": "0.032357681221393236",
-        "Output Gap % Strength": "-1.471769045935498"
+        "Output Gap % Mean": "-0.009793449688268951",
+        "Output Gap % Stdev": "0.03234801997148134",
+        "Output Gap % Strength": "-1.4722075368743446"
     },
     {
         "": "27",
@@ -555,9 +555,9 @@
         "Food Manu Workforce %": "-0.006716685599717193",
         "Food Supply %": "0.04404804574968007",
         "Output Gap %": "-0.04691898049548309",
-        "Output Gap % Mean": "-0.01729400245512326",
-        "Output Gap % Stdev": "0.029269849883751396",
-        "Output Gap % Strength": "-1.0121328998275996"
+        "Output Gap % Mean": "-0.01729403727004151",
+        "Output Gap % Stdev": "0.029259159327022673",
+        "Output Gap % Strength": "-1.0125015177070067"
     },
     {
         "": "28",
@@ -575,9 +575,9 @@
         "Food Manu Workforce %": "-0.007339498773758335",
         "Food Supply %": "0.0029294199856374483",
         "Output Gap %": "-0.00888955751113718",
-        "Output Gap % Mean": "-0.016623817636279032",
-        "Output Gap % Stdev": "0.029370794009797353",
-        "Output Gap % Strength": "0.2633316662314917"
+        "Output Gap % Mean": "-0.016623852451197286",
+        "Output Gap % Stdev": "0.02936014107561174",
+        "Output Gap % Strength": "0.26342839839024706"
     },
     {
         "": "29",
@@ -595,9 +595,9 @@
         "Food Manu Workforce %": "-0.00889782632873673",
         "Food Supply %": "-0.021216891822316654",
         "Output Gap %": "0.029835372898835817",
-        "Output Gap % Mean": "-0.013228949407240629",
-        "Output Gap % Stdev": "0.032300445451837106",
-        "Output Gap % Strength": "1.333242365659918"
+        "Output Gap % Mean": "-0.013228984222158879",
+        "Output Gap % Stdev": "0.03229076303642521",
+        "Output Gap % Strength": "1.3336432177962616"
     },
     {
         "": "30",
@@ -615,9 +615,9 @@
         "Food Manu Workforce %": "-0.010171068475956252",
         "Food Supply %": "-0.028535450746370296",
         "Output Gap %": "0.017203835846302203",
-        "Output Gap % Mean": "-0.010242384221997062",
-        "Output Gap % Stdev": "0.03339352318264038",
-        "Output Gap % Strength": "0.8219024964268273"
+        "Output Gap % Mean": "-0.010248044075032705",
+        "Output Gap % Stdev": "0.03338569708221506",
+        "Output Gap % Strength": "0.8222646917849991"
     },
     {
         "": "31",
@@ -635,9 +635,9 @@
         "Food Manu Workforce %": "-0.018938388189645272",
         "Food Supply %": "-0.056208624863949515",
         "Output Gap %": "0.03975071261014108",
-        "Output Gap % Mean": "-0.003893286015132035",
-        "Output Gap % Stdev": "0.035156460361441044",
-        "Output Gap % Strength": "1.2414218660403322"
+        "Output Gap % Mean": "-0.0038989371644381162",
+        "Output Gap % Stdev": "0.03515013328412087",
+        "Output Gap % Strength": "1.2418060956342942"
     },
     {
         "": "32",
@@ -655,9 +655,9 @@
         "Food Manu Workforce %": "-0.016510845854867895",
         "Food Supply %": "-0.06418766077579911",
         "Output Gap %": "0.04746635650494789",
-        "Output Gap % Mean": "0.0003283973910488732",
-        "Output Gap % Stdev": "0.03816137515197964",
-        "Output Gap % Strength": "1.235226952020719"
+        "Output Gap % Mean": "0.00032275494547235527",
+        "Output Gap % Stdev": "0.03815622758979134",
+        "Output Gap % Strength": "1.2355414708787604"
     },
     {
         "": "33",
@@ -675,9 +675,9 @@
         "Food Manu Workforce %": "-0.017594919333866227",
         "Food Supply %": "-0.0837742203321813",
         "Output Gap %": "0.06933449536134191",
-        "Output Gap % Mean": "0.005295732090261671",
-        "Output Gap % Stdev": "0.04306086679439362",
-        "Output Gap % Strength": "1.4871684672965728"
+        "Output Gap % Mean": "0.005290098348414715",
+        "Output Gap % Stdev": "0.043057016101213645",
+        "Output Gap % Strength": "1.487432312131866"
     },
     {
         "": "34",
@@ -695,9 +695,9 @@
         "Food Manu Workforce %": "-0.016756301390220718",
         "Food Supply %": "-0.07599449920850211",
         "Output Gap %": "0.07448288823647926",
-        "Output Gap % Mean": "0.008810543344081836",
-        "Output Gap % Stdev": "0.047006506038626314",
-        "Output Gap % Strength": "1.3970905397315208"
+        "Output Gap % Mean": "0.008810543344081838",
+        "Output Gap % Stdev": "0.04700650603862631",
+        "Output Gap % Strength": "1.397090539731521"
     },
     {
         "": "35",
@@ -715,9 +715,9 @@
         "Food Manu Workforce %": "-0.00599419874028459",
         "Food Supply %": "-0.02535265923575234",
         "Output Gap %": "0.03203150233025263",
-        "Output Gap % Mean": "0.009914819098957832",
-        "Output Gap % Stdev": "0.04741587155334575",
-        "Output Gap % Strength": "0.4664405083519803"
+        "Output Gap % Mean": "0.009914819098957833",
+        "Output Gap % Stdev": "0.04741587155334574",
+        "Output Gap % Strength": "0.46644050835198037"
     },
     {
         "": "36",
@@ -735,9 +735,9 @@
         "Food Manu Workforce %": "-0.011048446798498007",
         "Food Supply %": "-0.021072416146049957",
         "Output Gap %": "0.013779740969243722",
-        "Output Gap % Mean": "0.012542454103739354",
-        "Output Gap % Stdev": "0.04661013494028245",
-        "Output Gap % Strength": "0.026545446973916673"
+        "Output Gap % Mean": "0.012542454103739357",
+        "Output Gap % Stdev": "0.04661013494028244",
+        "Output Gap % Strength": "0.026545446973916604"
     },
     {
         "": "37",
@@ -755,9 +755,9 @@
         "Food Manu Workforce %": "-0.008602894564108232",
         "Food Supply %": "0.009195810024164742",
         "Output Gap %": "-0.0028954666393056945",
-        "Output Gap % Mean": "0.017313704301531077",
-        "Output Gap % Stdev": "0.041096827852486605",
-        "Output Gap % Strength": "-0.49174527565426185"
+        "Output Gap % Mean": "0.01731370430153108",
+        "Output Gap % Stdev": "0.0410968278524866",
+        "Output Gap % Strength": "-0.491745275654262"
     },
     {
         "": "38",
@@ -775,8 +775,8 @@
         "Food Manu Workforce %": "-0.007816685412490004",
         "Food Supply %": "0.03914460286959048",
         "Output Gap %": "-0.039063569274046105",
-        "Output Gap % Mean": "0.01884311090313104",
-        "Output Gap % Stdev": "0.038309948956273036",
+        "Output Gap % Mean": "0.018843110903131035",
+        "Output Gap % Stdev": "0.03830994895627303",
         "Output Gap % Strength": "-1.5115311232409057"
     },
     {
@@ -796,8 +796,8 @@
         "Food Supply %": "0.03491147291885299",
         "Output Gap %": "-0.04040500423018056",
         "Output Gap % Mean": "0.019385942258572913",
-        "Output Gap % Stdev": "0.03732696389587043",
-        "Output Gap % Strength": "-1.6018164953235934"
+        "Output Gap % Stdev": "0.03732696389587042",
+        "Output Gap % Strength": "-1.601816495323594"
     },
     {
         "": "40",
@@ -806,18 +806,18 @@
         "Food Consumption": "26493.0",
         "Food Capex": "763.0",
         "Manufacturing Workforce": "2562.0",
-        "Manufacturing Vacancy Ratio": "1.5999999999999999",
+        "Manufacturing Vacancy Ratio": "1.5666666666666667",
         "Food Imports": "10042",
         "Food Exports": "3427",
         "Food Demand": "19878.0",
         "Food Demand %": "0.019049753790549323",
-        "Food Manu Workforce": "2521.008",
-        "Food Manu Workforce %": "-0.002068464105630635",
-        "Food Supply %": "0.05321179370926654",
-        "Output Gap %": "-0.03416203991871722",
-        "Output Gap % Mean": "0.017279902057941245",
-        "Output Gap % Stdev": "0.039704570626099486",
-        "Output Gap % Strength": "-1.2956176371000347"
+        "Food Manu Workforce": "2521.862",
+        "Food Manu Workforce %": "-0.0019841121616640256",
+        "Food Supply %": "0.05327927526443983",
+        "Output Gap %": "-0.03422952147389051",
+        "Output Gap % Mean": "0.01727427859501014",
+        "Output Gap % Stdev": "0.039712522817006456",
+        "Output Gap % Strength": "-1.296915844561875"
     },
     {
         "": "41",
@@ -832,12 +832,12 @@
         "Food Demand": "19670.0",
         "Food Demand %": "-0.0031462262506988525",
         "Food Manu Workforce": "2522.1213333333335",
-        "Food Manu Workforce %": "-0.0015951543548486935",
-        "Food Supply %": "0.059279899200662636",
-        "Output Gap %": "-0.06242612545136149",
-        "Output Gap % Mean": "0.009591443862091468",
-        "Output Gap % Stdev": "0.04555420798321426",
-        "Output Gap % Strength": "-1.580920237708663"
+        "Food Manu Workforce %": "-0.0015954994666129707",
+        "Food Supply %": "0.05927962311125121",
+        "Output Gap %": "-0.062425849361950066",
+        "Output Gap % Mean": "0.009585843406611314",
+        "Output Gap % Stdev": "0.045560064282714204",
+        "Output Gap % Strength": "-1.5805880413536446"
     },
     {
         "": "42",
@@ -852,12 +852,12 @@
         "Food Demand": "19584.0",
         "Food Demand %": "0.0011868038334082176",
         "Food Manu Workforce": "2527.5099999999998",
-        "Food Manu Workforce %": "-0.00015358375514251676",
-        "Food Supply %": "0.0191080600640698",
-        "Output Gap %": "-0.017921256230661584",
-        "Output Gap % Mean": "0.006664352855677819",
-        "Output Gap % Stdev": "0.04614525517646516",
-        "Output Gap % Strength": "-0.5327873687624219"
+        "Food Manu Workforce %": "-0.00015392886690679397",
+        "Food Supply %": "0.019107783974658378",
+        "Output Gap %": "-0.01792098014125016",
+        "Output Gap % Mean": "0.006658775407648618",
+        "Output Gap % Stdev": "0.04615063561064407",
+        "Output Gap % Strength": "-0.5325984187145142"
     },
     {
         "": "43",
@@ -872,12 +872,12 @@
         "Food Demand": "19713.0",
         "Food Demand %": "0.008982042219727038",
         "Food Manu Workforce": "2500.0686666666666",
-        "Food Manu Workforce %": "-0.0030627810841859504",
-        "Food Supply %": "-0.0017174279412741633",
-        "Output Gap %": "0.010699470161001201",
-        "Output Gap % Mean": "0.004243415984916163",
-        "Output Gap % Stdev": "0.044999468758673666",
-        "Output Gap % Strength": "0.14346956428992577"
+        "Food Manu Workforce %": "-0.0030631261959502276",
+        "Food Supply %": "-0.0017177040306855852",
+        "Output Gap %": "0.010699746250412622",
+        "Output Gap % Mean": "0.004237861544337912",
+        "Output Gap % Stdev": "0.04500466247589996",
+        "Output Gap % Strength": "0.14358256124096155"
     },
     {
         "": "44",
@@ -892,12 +892,12 @@
         "Food Demand": "19694.0",
         "Food Demand %": "-0.002303197711213373",
         "Food Manu Workforce": "2535.28",
-        "Food Manu Workforce %": "0.0014513169485939614",
-        "Food Supply %": "-0.002102956620485097",
-        "Output Gap %": "-0.0002002410907282759",
-        "Output Gap % Mean": "0.0002711995186098157",
-        "Output Gap % Stdev": "0.0428916770177414",
-        "Output Gap % Strength": "-0.010991424027162387"
+        "Food Manu Workforce %": "0.0013666198928630746",
+        "Food Supply %": "-0.002170714265069806",
+        "Output Gap %": "-0.00013248344614356661",
+        "Output Gap % Mean": "0.0002712915484136241",
+        "Output Gap % Stdev": "0.04289650239890513",
+        "Output Gap % Strength": "-0.009412771950551766"
     },
     {
         "": "45",
@@ -915,9 +915,9 @@
         "Food Manu Workforce %": "0.0038262713093189515",
         "Food Supply %": "-0.034953290919318245",
         "Output Gap %": "0.02931246062201172",
-        "Output Gap % Mean": "-0.003063970043001034",
-        "Output Gap % Stdev": "0.03834867696318703",
-        "Output Gap % Strength": "0.8442646064711082"
+        "Output Gap % Mean": "-0.003063878013197225",
+        "Output Gap % Stdev": "0.03835408264016053",
+        "Output Gap % Strength": "0.8441432151816793"
     },
     {
         "": "46",
@@ -935,9 +935,9 @@
         "Food Manu Workforce %": "0.002092227805577329",
         "Food Supply %": "-0.01357628061242391",
         "Output Gap %": "0.004047991245673118",
-        "Output Gap % Mean": "-0.008933544792234878",
-        "Output Gap % Stdev": "0.02984882081515458",
-        "Output Gap % Strength": "0.43490951010423584"
+        "Output Gap % Mean": "-0.00893345276243107",
+        "Output Gap % Stdev": "0.029855785251136958",
+        "Output Gap % Strength": "0.43480497662039663"
     },
     {
         "": "47",
@@ -955,9 +955,9 @@
         "Food Manu Workforce %": "0.0008577178549424025",
         "Food Supply %": "-0.012057641547705767",
         "Output Gap %": "0.01488058295893115",
-        "Output Gap % Mean": "-0.010362788073178334",
-        "Output Gap % Stdev": "0.028066378953433408",
-        "Output Gap % Strength": "0.8994167389385092"
+        "Output Gap % Mean": "-0.010362696043374527",
+        "Output Gap % Stdev": "0.02807379068536303",
+        "Output Gap % Strength": "0.8991760067323893"
     },
     {
         "": "48",
@@ -975,9 +975,9 @@
         "Food Manu Workforce %": "-0.002846071240125314",
         "Food Supply %": "0.017540051919388323",
         "Output Gap %": "-0.0293904614542942",
-        "Output Gap % Mean": "-0.013960304941806495",
-        "Output Gap % Stdev": "0.02745048934392194",
-        "Output Gap % Strength": "-0.562108613772462"
+        "Output Gap % Mean": "-0.013960212912002687",
+        "Output Gap % Stdev": "0.027458080476652075",
+        "Output Gap % Strength": "-0.5619565634026032"
     },
     {
         "": "49",
@@ -995,9 +995,9 @@
         "Food Manu Workforce %": "-0.004041850950356474",
         "Food Supply %": "0.04051418643406177",
         "Output Gap %": "-0.04723944003561926",
-        "Output Gap % Mean": "-0.01765563605816596",
-        "Output Gap % Stdev": "0.028778191772505016",
-        "Output Gap % Strength": "-1.0279938437868765"
+        "Output Gap % Mean": "-0.01765554402836215",
+        "Output Gap % Stdev": "0.028785445661490747",
+        "Output Gap % Strength": "-1.0277379879803121"
     },
     {
         "": "50",
@@ -1015,9 +1015,9 @@
         "Food Manu Workforce %": "-0.0012919194372924547",
         "Food Supply %": "0.04267045763019644",
         "Output Gap %": "-0.033381862300154684",
-        "Output Gap % Mean": "-0.01718216047700834",
-        "Output Gap % Stdev": "0.028438693193945572",
-        "Output Gap % Strength": "-0.5696359432786864"
+        "Output Gap % Mean": "-0.017182068447204532",
+        "Output Gap % Stdev": "0.028446031985932183",
+        "Output Gap % Strength": "-0.5694922181400086"
     },
     {
         "": "51",
@@ -1035,9 +1035,9 @@
         "Food Manu Workforce %": "0.0024998658101221816",
         "Food Supply %": "0.051286190084565364",
         "Output Gap %": "-0.059064244205040445",
-        "Output Gap % Mean": "-0.018737097141579995",
-        "Output Gap % Stdev": "0.030274721686913413",
-        "Output Gap % Strength": "-1.3320402242010474"
+        "Output Gap % Mean": "-0.01873700511177619",
+        "Output Gap % Stdev": "0.03028162067335043",
+        "Output Gap % Strength": "-1.3317397879154649"
     },
     {
         "": "52",
@@ -1055,9 +1055,9 @@
         "Food Manu Workforce %": "0.002985939685248601",
         "Food Supply %": "-0.021081209959200264",
         "Output Gap %": "0.03285816752348569",
-        "Output Gap % Mean": "-0.013152079854729755",
-        "Output Gap % Stdev": "0.033210047718982366",
-        "Output Gap % Strength": "1.3854315346833026"
+        "Output Gap % Mean": "-0.013146364361994838",
+        "Output Gap % Stdev": "0.033212432864771144",
+        "Output Gap % Strength": "1.3851599511783472"
     },
     {
         "": "53",
@@ -1075,9 +1075,9 @@
         "Food Manu Workforce %": "0.0050663758381275514",
         "Food Supply %": "0.0050655701122006794",
         "Output Gap %": "0.002741209978983644",
-        "Output Gap % Mean": "-0.007721468568867661",
-        "Output Gap % Stdev": "0.029546183555256223",
-        "Output Gap % Strength": "0.3541126903339098"
+        "Output Gap % Mean": "-0.007715776083583696",
+        "Output Gap % Stdev": "0.029547764986620532",
+        "Output Gap % Strength": "0.3539010841362231"
     },
     {
         "": "54",
@@ -1095,9 +1095,9 @@
         "Food Manu Workforce %": "0.004815079640443171",
         "Food Supply %": "0.0011449759145145456",
         "Output Gap %": "3.9525227385700436e-05",
-        "Output Gap % Mean": "-0.006224736780697054",
-        "Output Gap % Stdev": "0.029437239052386724",
-        "Output Gap % Strength": "0.2128005957669749"
+        "Output Gap % Mean": "-0.006219067302864042",
+        "Output Gap % Stdev": "0.029438520582924642",
+        "Output Gap % Strength": "0.21259874498856243"
     },
     {
         "": "55",
@@ -1115,9 +1115,9 @@
         "Food Manu Workforce %": "0.004459235492090097",
         "Food Supply %": "0.022183887778053316",
         "Output Gap %": "-0.022035159858127998",
-        "Output Gap % Mean": "-0.008952622615624488",
-        "Output Gap % Stdev": "0.029242412904176986",
-        "Output Gap % Strength": "-0.4473822760581703"
+        "Output Gap % Mean": "-0.008946976145242426",
+        "Output Gap % Stdev": "0.029244263038107583",
+        "Output Gap % Strength": "-0.4475470520775523"
     },
     {
         "": "56",
@@ -1126,18 +1126,18 @@
         "Food Consumption": "26643.0",
         "Food Capex": "973.0",
         "Manufacturing Workforce": "2650.0",
-        "Manufacturing Vacancy Ratio": "1.9666666666666668",
+        "Manufacturing Vacancy Ratio": "2.033333333333333",
         "Food Imports": "11402",
         "Food Exports": "3907",
         "Food Demand": "19148.0",
         "Food Demand %": "-0.005570962127238344",
-        "Food Manu Workforce": "2597.883333333333",
-        "Food Manu Workforce %": "0.006046959371499849",
-        "Food Supply %": "0.07392322050333493",
-        "Output Gap %": "-0.07949418263057327",
-        "Output Gap % Mean": "-0.015560451077278237",
-        "Output Gap % Stdev": "0.0353962665985652",
-        "Output Gap % Strength": "-1.8062281053077673"
+        "Food Manu Workforce": "2596.116666666667",
+        "Food Manu Workforce %": "0.00587566318293703",
+        "Food Supply %": "0.07378618355248467",
+        "Output Gap %": "-0.07935714567972302",
+        "Output Gap % Mean": "-0.01554903133137405",
+        "Output Gap % Stdev": "0.03537377974410037",
+        "Output Gap % Strength": "-1.8038251724850203"
     },
     {
         "": "57",
@@ -1152,12 +1152,12 @@
         "Food Demand": "19206.0",
         "Food Demand %": "-1.5091417834650622e-05",
         "Food Manu Workforce": "2589.940666666667",
-        "Food Manu Workforce %": "0.0019126027948719593",
-        "Food Supply %": "0.0363846585649128",
-        "Output Gap %": "-0.03639974998274745",
-        "Output Gap % Mean": "-0.02103646862767483",
-        "Output Gap % Stdev": "0.03281173506292573",
-        "Output Gap % Strength": "-0.4682252043547592"
+        "Food Manu Workforce %": "0.0019109123632332081",
+        "Food Supply %": "0.0363833062196018",
+        "Output Gap %": "-0.03639839763743645",
+        "Output Gap % Mean": "-0.021024936186328058",
+        "Output Gap % Stdev": "0.03278949864395327",
+        "Output Gap % Strength": "-0.46885320260739693"
     },
     {
         "": "58",
@@ -1172,12 +1172,12 @@
         "Food Demand": "19053.0",
         "Food Demand %": "-0.0064177323878003845",
         "Food Manu Workforce": "2564.98",
-        "Food Manu Workforce %": "-0.0017955152801547025",
-        "Food Supply %": "0.030675617272031917",
-        "Output Gap %": "-0.0370933496598323",
-        "Output Gap % Mean": "-0.024464913703133622",
-        "Output Gap % Stdev": "0.0320939699943122",
-        "Output Gap % Strength": "-0.3934831358955196"
+        "Food Manu Workforce %": "-0.0017972057117934537",
+        "Food Supply %": "0.030674264926720915",
+        "Output Gap %": "-0.0370919973145213",
+        "Output Gap % Mean": "-0.024453268566344263",
+        "Output Gap % Stdev": "0.03207253234740996",
+        "Output Gap % Strength": "-0.3940670668369498"
     },
     {
         "": "59",
@@ -1192,12 +1192,12 @@
         "Food Demand": "19075.0",
         "Food Demand %": "-0.0020246244931026447",
         "Food Manu Workforce": "2573.48",
-        "Food Manu Workforce %": "-0.00045421437465292813",
-        "Food Supply %": "0.01669074977893328",
-        "Output Gap %": "-0.018715374272035925",
-        "Output Gap % Mean": "-0.027264576805714206",
-        "Output Gap % Stdev": "0.029727831685879377",
-        "Output Gap % Strength": "0.2875824454340921"
+        "Food Manu Workforce %": "-0.0004559048062916793",
+        "Food Supply %": "0.01668939743362228",
+        "Output Gap %": "-0.018714021926724923",
+        "Output Gap % Mean": "-0.02725281897348227",
+        "Output Gap % Stdev": "0.029705919106107963",
+        "Output Gap % Strength": "0.28744429742292155"
     },
     {
         "": "60",
@@ -1212,12 +1212,12 @@
         "Food Demand": "20287.0",
         "Food Demand %": "0.014939028351975414",
         "Food Manu Workforce": "2585.037333333333",
-        "Food Manu Workforce %": "-0.0012225257188716032",
-        "Food Supply %": "0.010567870683320659",
-        "Output Gap %": "0.004371157668654755",
-        "Output Gap % Mean": "-0.02445110854546846",
-        "Output Gap % Stdev": "0.031075416782929438",
-        "Output Gap % Strength": "0.927494115861901"
+        "Food Manu Workforce %": "-0.001052919961947535",
+        "Food Supply %": "0.010703555288859913",
+        "Output Gap %": "0.004235473063115501",
+        "Output Gap % Mean": "-0.024450657763698123",
+        "Output Gap % Stdev": "0.03104187151689238",
+        "Output Gap % Strength": "0.9241108678387251"
     },
     {
         "": "61",
@@ -1235,9 +1235,9 @@
         "Food Manu Workforce %": "0.0015149645788018196",
         "Food Supply %": "0.017851863522727628",
         "Output Gap %": "0.005227228994542289",
-        "Output Gap % Mean": "-0.020078886126288335",
-        "Output Gap % Stdev": "0.03126804429009524",
-        "Output Gap % Strength": "0.8093283636817294"
+        "Output Gap % Mean": "-0.020078435344518",
+        "Output Gap % Stdev": "0.031234637064975767",
+        "Output Gap % Strength": "0.8101795543971986"
     },
     {
         "": "62",
@@ -1255,9 +1255,9 @@
         "Food Manu Workforce %": "0.0007736990763834994",
         "Food Supply %": "0.012496878567977078",
         "Output Gap %": "0.020617950630715996",
-        "Output Gap % Mean": "-0.015578901715382442",
-        "Output Gap % Stdev": "0.03301633419655404",
-        "Output Gap % Strength": "1.0963316560406138"
+        "Output Gap % Mean": "-0.01557845093361211",
+        "Output Gap % Stdev": "0.032984630614725625",
+        "Output Gap % Strength": "1.097371742224957"
     },
     {
         "": "63",
@@ -1275,9 +1275,9 @@
         "Food Manu Workforce %": "0.0003655588513544472",
         "Food Supply %": "-0.03093432764208073",
         "Output Gap %": "0.06291889281663454",
-        "Output Gap % Mean": "-0.005413640296909526",
-        "Output Gap % Stdev": "0.03695427127489171",
-        "Output Gap % Strength": "1.8491105562666599"
+        "Output Gap % Mean": "-0.005413189515139194",
+        "Output Gap % Stdev": "0.03692581347367264",
+        "Output Gap % Strength": "1.8505234117724485"
     },
     {
         "": "64",
@@ -1295,9 +1295,9 @@
         "Food Manu Workforce %": "0.000923506965809423",
         "Food Supply %": "-0.007864054966408985",
         "Output Gap %": "0.026867433896439134",
-        "Output Gap % Mean": "-0.005912868099163408",
-        "Output Gap % Stdev": "0.03642694501763252",
-        "Output Gap % Strength": "0.8998916044080881"
+        "Output Gap % Mean": "-0.005912417317393073",
+        "Output Gap % Stdev": "0.036398081674097284",
+        "Output Gap % Strength": "0.9005928253949715"
     },
     {
         "": "65",
@@ -1315,9 +1315,9 @@
         "Food Manu Workforce %": "0.0015316384234847769",
         "Food Supply %": "0.013236481303939797",
         "Output Gap %": "0.010122558711361822",
-        "Output Gap % Mean": "-0.005297755704798558",
-        "Output Gap % Stdev": "0.03664801500641484",
-        "Output Gap % Strength": "0.42076806652314513"
+        "Output Gap % Mean": "-0.005297304923028225",
+        "Output Gap % Stdev": "0.03661931765024197",
+        "Output Gap % Strength": "0.4210854986886452"
     },
     {
         "": "66",
@@ -1335,9 +1335,9 @@
         "Food Manu Workforce %": "0.006151840135808828",
         "Food Supply %": "0.017222150818712947",
         "Output Gap %": "-0.011680542708595417",
-        "Output Gap % Mean": "-0.006274428032796986",
-        "Output Gap % Stdev": "0.0366490155878782",
-        "Output Gap % Strength": "-0.14751050168961494"
+        "Output Gap % Mean": "-0.006273977251026651",
+        "Output Gap % Stdev": "0.03662033213120813",
+        "Output Gap % Strength": "-0.1476383512360678"
     },
     {
         "": "67",
@@ -1355,9 +1355,9 @@
         "Food Manu Workforce %": "0.005776650365860836",
         "Food Supply %": "0.05093249769041859",
         "Output Gap %": "-0.04493352689765974",
-        "Output Gap % Mean": "-0.008182625286091297",
-        "Output Gap % Stdev": "0.03811118236691812",
-        "Output Gap % Strength": "-0.9643075687798537"
+        "Output Gap % Mean": "-0.008182174504320962",
+        "Output Gap % Stdev": "0.03808362482749613",
+        "Output Gap % Strength": "-0.9650171841521908"
     },
     {
         "": "68",
@@ -1375,9 +1375,9 @@
         "Food Manu Workforce %": "0.003818087617407623",
         "Food Supply %": "0.01691175467625168",
         "Output Gap %": "-0.014382181577491285",
-        "Output Gap % Mean": "-0.0027566251983344656",
-        "Output Gap % Stdev": "0.03100862489891284",
-        "Output Gap % Strength": "-0.3749136382879207"
+        "Output Gap % Mean": "-0.0027675941624683187",
+        "Output Gap % Stdev": "0.031005481454624652",
+        "Output Gap % Strength": "-0.3745978733476684"
     },
     {
         "": "69",
@@ -1395,9 +1395,9 @@
         "Food Manu Workforce %": "0.002740986788534544",
         "Food Supply %": "0.011422721623872634",
         "Output Gap %": "-0.02376833104106248",
-        "Output Gap % Mean": "-0.0017040069531940516",
-        "Output Gap % Stdev": "0.029959395057701878",
-        "Output Gap % Strength": "-0.7364742861253533"
+        "Output Gap % Mean": "-0.001715088612770488",
+        "Output Gap % Stdev": "0.029956704325424664",
+        "Output Gap % Strength": "-0.7361705142436215"
     },
     {
         "": "70",
@@ -1415,9 +1415,9 @@
         "Food Manu Workforce %": "-0.00019468972300576426",
         "Food Supply %": "0.01387461773832739",
         "Output Gap %": "-0.007506569444867868",
-        "Output Gap % Mean": "0.0007615580647196509",
-        "Output Gap % Stdev": "0.02793097807490513",
-        "Output Gap % Strength": "-0.2960199777972008"
+        "Output Gap % Mean": "0.0007503637097006313",
+        "Output Gap % Stdev": "0.027929325730776708",
+        "Output Gap % Strength": "-0.29563668074771227"
     },
     {
         "": "71",
@@ -1435,9 +1435,9 @@
         "Food Manu Workforce %": "-0.001983648114960518",
         "Food Supply %": "-0.02347098747791019",
         "Output Gap %": "0.030862654850963407",
-        "Output Gap % Mean": "0.0048930604916362615",
-        "Output Gap % Stdev": "0.02845000125462529",
-        "Output Gap % Strength": "0.9128152272086495"
+        "Output Gap % Mean": "0.004881753441174659",
+        "Output Gap % Stdev": "0.028450254495980775",
+        "Output Gap % Strength": "0.9132045343727636"
     },
     {
         "": "72",
@@ -1455,9 +1455,9 @@
         "Food Manu Workforce %": "0.00043034759508486786",
         "Food Supply %": "0.06320517695624037",
         "Output Gap %": "-0.0601077251462436",
-        "Output Gap % Mean": "-0.00048017974293860084",
+        "Output Gap % Mean": "-0.00048017974293859965",
         "Output Gap % Stdev": "0.034087851086745516",
-        "Output Gap % Strength": "-1.7492315737817266"
+        "Output Gap % Strength": "-1.7492315737817268"
     },
     {
         "": "73",
@@ -1475,9 +1475,9 @@
         "Food Manu Workforce %": "-0.00204296323269762",
         "Food Supply %": "0.0044314838393262335",
         "Output Gap %": "0.0038877892092786526",
-        "Output Gap % Mean": "-0.000591799725043904",
+        "Output Gap % Mean": "-0.0005917997250439026",
         "Output Gap % Stdev": "0.034069651436244956",
-        "Output Gap % Strength": "0.13148326283012546"
+        "Output Gap % Strength": "0.1314832628301254"
     },
     {
         "": "74",
@@ -1486,18 +1486,18 @@
         "Food Consumption": "30725.0",
         "Food Capex": "1085.0",
         "Manufacturing Workforce": "2694.0",
-        "Manufacturing Vacancy Ratio": "2.1666666666666665",
+        "Manufacturing Vacancy Ratio": "2.1333333333333333",
         "Food Imports": "12152",
         "Food Exports": "4592",
         "Food Demand": "23165.0",
         "Food Demand %": "0.005458911072362765",
-        "Food Manu Workforce": "2635.63",
-        "Food Manu Workforce %": "0.00014429357607212423",
-        "Food Supply %": "0.014044563884055172",
-        "Output Gap %": "-0.008585652811692407",
-        "Output Gap % Mean": "-0.0030254333452446043",
-        "Output Gap % Stdev": "0.0334543514559335",
-        "Output Gap % Strength": "-0.16620317610316837"
+        "Food Manu Workforce": "2636.5280000000002",
+        "Food Manu Workforce %": "0.00022971815206943025",
+        "Food Supply %": "0.014112903544853018",
+        "Output Gap %": "-0.008653992472490253",
+        "Output Gap % Mean": "-0.003031128316977757",
+        "Output Gap % Stdev": "0.033455389826467175",
+        "Output Gap % Strength": "-0.168070501783965"
     },
     {
         "": "75",
@@ -1512,12 +1512,12 @@
         "Food Demand": "23106.0",
         "Food Demand %": "0.004182788427244344",
         "Food Manu Workforce": "2618.825",
-        "Food Manu Workforce %": "0.00029409430041937856",
-        "Food Supply %": "0.04008191516282736",
-        "Output Gap %": "-0.035899126735583015",
-        "Output Gap % Mean": "-0.011260268307929401",
-        "Output Gap % Stdev": "0.02735192435732004",
-        "Output Gap % Strength": "-0.900808956100365"
+        "Food Manu Workforce %": "0.00029491193539615823",
+        "Food Supply %": "0.040082569270808784",
+        "Output Gap %": "-0.03589978084356444",
+        "Output Gap % Mean": "-0.011266017788661006",
+        "Output Gap % Stdev": "0.027351377510447635",
+        "Output Gap % Strength": "-0.9006406732346064"
     },
     {
         "": "76",
@@ -1526,18 +1526,18 @@
         "Food Consumption": "32648.0",
         "Food Capex": "999.0",
         "Manufacturing Workforce": "2676.0",
-        "Manufacturing Vacancy Ratio": "2.233333333333333",
+        "Manufacturing Vacancy Ratio": "2.2666666666666666",
         "Food Imports": "11808",
         "Food Exports": "4128",
         "Food Demand": "24968.0",
         "Food Demand %": "0.02918920448680476",
-        "Food Manu Workforce": "2616.236",
-        "Food Manu Workforce %": "-0.0020891735392437605",
-        "Food Supply %": "-0.048218460320782766",
-        "Output Gap %": "0.07740766480758753",
-        "Output Gap % Mean": "-0.007048582398667035",
-        "Output Gap % Stdev": "0.036212537426782744",
-        "Output Gap % Strength": "2.3322377609416245"
+        "Food Manu Workforce": "2615.344",
+        "Food Manu Workforce %": "-0.0021735085967912737",
+        "Food Supply %": "-0.048285928366820774",
+        "Output Gap %": "0.07747513285362553",
+        "Output Gap % Mean": "-0.007048709542228806",
+        "Output Gap % Stdev": "0.03622716181222598",
+        "Output Gap % Strength": "2.3331621404393084"
     },
     {
         "": "77",
@@ -1552,12 +1552,12 @@
         "Food Demand": "24542.0",
         "Food Demand %": "0.02132412148126636",
         "Food Manu Workforce": "2583.0933333333332",
-        "Food Manu Workforce %": "-0.004287061499983397",
-        "Food Supply %": "-0.03657248541491918",
-        "Output Gap %": "0.05789660689618554",
-        "Output Gap % Mean": "-0.0030674117165983925",
-        "Output Gap % Stdev": "0.040628762115340396",
-        "Output Gap % Strength": "1.500513809397246"
+        "Food Manu Workforce %": "-0.004287210683745851",
+        "Food Supply %": "-0.036572604761929146",
+        "Output Gap %": "0.05789672624319551",
+        "Output Gap % Mean": "-0.0030675289145759986",
+        "Output Gap % Stdev": "0.04064182727672561",
+        "Output Gap % Strength": "1.5000372582333166"
     },
     {
         "": "78",
@@ -1572,12 +1572,12 @@
         "Food Demand": "23876.0",
         "Food Demand %": "0.008459797947440839",
         "Food Manu Workforce": "2536.59",
-        "Food Manu Workforce %": "-0.0095089327660495",
-        "Food Supply %": "-0.03655500524353894",
-        "Output Gap %": "0.04501480319097978",
-        "Output Gap % Mean": "0.0016572004416995408",
-        "Output Gap % Stdev": "0.04277585264614446",
-        "Output Gap % Strength": "1.0135999651005954"
+        "Food Manu Workforce %": "-0.00959450652580926",
+        "Food Supply %": "-0.03662346425134675",
+        "Output Gap %": "0.04508326219878759",
+        "Output Gap % Mean": "0.0016627881610392521",
+        "Output Gap % Stdev": "0.04279458679754601",
+        "Output Gap % Strength": "1.0146253834197136"
     },
     {
         "": "79",
@@ -1586,18 +1586,18 @@
         "Food Consumption": "31549.0",
         "Food Capex": "984.0",
         "Manufacturing Workforce": "2556.0",
-        "Manufacturing Vacancy Ratio": "1.7333333333333334",
+        "Manufacturing Vacancy Ratio": "1.7666666666666666",
         "Food Imports": "12588",
         "Food Exports": "4526",
         "Food Demand": "23487.0",
         "Food Demand %": "0.005023406576194239",
-        "Food Manu Workforce": "2511.696",
-        "Food Manu Workforce %": "-0.010368402312197988",
-        "Food Supply %": "-0.016051988570238863",
-        "Output Gap %": "0.021075395146433102",
-        "Output Gap % Mean": "0.007157943945373945",
-        "Output Gap % Stdev": "0.0404191465972087",
-        "Output Gap % Strength": "0.3443281803980562"
+        "Food Manu Workforce": "2510.844",
+        "Food Manu Workforce %": "-0.010453340131374805",
+        "Food Supply %": "-0.016119938825580316",
+        "Output Gap %": "0.021143345401774555",
+        "Output Gap % Mean": "0.00716919418599211",
+        "Output Gap % Stdev": "0.04044027323947803",
+        "Output Gap % Strength": "0.3455503659194072"
     },
     {
         "": "80",
@@ -1612,12 +1612,12 @@
         "Food Demand": "24266.0",
         "Food Demand %": "-0.006831054767344552",
         "Food Manu Workforce": "2483.723",
-        "Food Manu Workforce %": "-0.012905523538299768",
-        "Food Supply %": "-0.024794876960491034",
-        "Output Gap %": "0.017963822193146482",
-        "Output Gap % Mean": "0.009853444259593759",
-        "Output Gap % Stdev": "0.03992764235230629",
-        "Output Gap % Strength": "0.2031268929427348"
+        "Food Manu Workforce %": "-0.012821421414885209",
+        "Food Supply %": "-0.024727595261759383",
+        "Output Gap %": "0.01789654049441483",
+        "Output Gap % Mean": "0.009859087691984287",
+        "Output Gap % Stdev": "0.039946965447565715",
+        "Output Gap % Strength": "0.20120308795371414"
     },
     {
         "": "81",
@@ -1632,12 +1632,12 @@
         "Food Demand": "24531.0",
         "Food Demand %": "0.000164562443091959",
         "Food Manu Workforce": "2479.552",
-        "Food Manu Workforce %": "-0.010158338927855642",
-        "Food Supply %": "0.0698938299584296",
-        "Output Gap %": "-0.06972926751533765",
-        "Output Gap % Mean": "0.0060233662200708275",
-        "Output Gap % Stdev": "0.04529030914562435",
-        "Output Gap % Strength": "-1.6726013834844224"
+        "Food Manu Workforce %": "-0.010158422678226142",
+        "Food Supply %": "0.06989376295813321",
+        "Output Gap %": "-0.06972920051504125",
+        "Output Gap % Mean": "0.006029015235819388",
+        "Output Gap % Stdev": "0.04530785543168416",
+        "Output Gap % Strength": "-1.6720768402973734"
     },
     {
         "": "82",
@@ -1646,18 +1646,18 @@
         "Food Consumption": "32198.0",
         "Food Capex": "1091.0",
         "Manufacturing Workforce": "2537.0",
-        "Manufacturing Vacancy Ratio": "3.1666666666666665",
+        "Manufacturing Vacancy Ratio": "3.1333333333333333",
         "Food Imports": "12528",
         "Food Exports": "3999",
         "Food Demand": "23669.0",
         "Food Demand %": "-0.0018359523002837441",
-        "Food Manu Workforce": "2456.661666666667",
-        "Food Manu Workforce %": "-0.007965508406258481",
-        "Food Supply %": "0.03737975880893709",
-        "Output Gap %": "-0.039215711109220834",
-        "Output Gap % Mean": "0.0033809377480414145",
-        "Output Gap % Stdev": "0.04704259090278937",
-        "Output Gap % Strength": "-0.9054911313300241"
+        "Food Manu Workforce": "2457.5073333333335",
+        "Food Manu Workforce %": "-0.007880328098175432",
+        "Food Supply %": "0.037447903055403534",
+        "Output Gap %": "-0.03928385535568728",
+        "Output Gap % Mean": "0.0033809080765844373",
+        "Output Gap % Stdev": "0.047065441802080596",
+        "Output Gap % Strength": "-0.9064987345000479"
     },
     {
         "": "83",
@@ -1672,12 +1672,12 @@
         "Food Demand": "23664.0",
         "Food Demand %": "0.0021843638322013303",
         "Food Manu Workforce": "2453.433",
-        "Food Manu Workforce %": "-0.005840580101776155",
-        "Food Supply %": "0.027469293896493153",
-        "Output Gap %": "-0.025284930064291822",
-        "Output Gap % Mean": "-0.0012980276615631883",
-        "Output Gap % Stdev": "0.04685260596436934",
-        "Output Gap % Strength": "-0.5119651705386524"
+        "Food Manu Workforce %": "-0.00575734463551103",
+        "Food Supply %": "0.027535882269505253",
+        "Output Gap %": "-0.025351518437303922",
+        "Output Gap % Mean": "-0.0013036063641045066",
+        "Output Gap % Stdev": "0.04687864774009594",
+        "Output Gap % Strength": "-0.5129822047454435"
     },
     {
         "": "84",
@@ -1686,18 +1686,18 @@
         "Food Consumption": "31552.0",
         "Food Capex": "1101.0",
         "Manufacturing Workforce": "2612.0",
-        "Manufacturing Vacancy Ratio": "3.9333333333333336",
+        "Manufacturing Vacancy Ratio": "3.8666666666666667",
         "Food Imports": "12968",
         "Food Exports": "4056",
         "Food Demand": "22640.0",
         "Food Demand %": "-0.016925577526753333",
-        "Food Manu Workforce": "2509.2613333333334",
-        "Food Manu Workforce %": "0.002632491375710949",
-        "Food Supply %": "0.0493878021140297",
-        "Output Gap %": "-0.06631337964078303",
-        "Output Gap % Mean": "-0.001815165536108141",
-        "Output Gap % Stdev": "0.04758918883904752",
-        "Output Gap % Strength": "-1.3553123236207234"
+        "Food Manu Workforce": "2511.0026666666668",
+        "Food Manu Workforce %": "0.002809278035646179",
+        "Food Supply %": "0.04952923144197788",
+        "Output Gap %": "-0.06645480896873121",
+        "Output Gap % Mean": "-0.0018325300159784744",
+        "Output Gap % Stdev": "0.04763219064844801",
+        "Output Gap % Strength": "-1.356693405720115"
     },
     {
         "": "85",
@@ -1706,18 +1706,18 @@
         "Food Consumption": "31637.0",
         "Food Capex": "1156.0",
         "Manufacturing Workforce": "2612.0",
-        "Manufacturing Vacancy Ratio": "3.9",
+        "Manufacturing Vacancy Ratio": "3.8666666666666667",
         "Food Imports": "12658",
         "Food Exports": "4172",
         "Food Demand": "23151.0",
         "Food Demand %": "-0.014013067104137578",
-        "Food Manu Workforce": "2510.132",
-        "Food Manu Workforce %": "0.0031390701431008305",
-        "Food Supply %": "-0.0060803501281315505",
-        "Output Gap %": "-0.007932716976006027",
-        "Output Gap % Mean": "-0.0028002077182151977",
-        "Output Gap % Stdev": "0.04758274790827725",
-        "Output Gap % Strength": "-0.10786491918635083"
+        "Food Manu Workforce": "2511.0026666666668",
+        "Food Manu Workforce %": "0.0032291114872830817",
+        "Food Supply %": "-0.006008317052785749",
+        "Output Gap %": "-0.008004750051351829",
+        "Output Gap % Mean": "-0.002823574954364348",
+        "Output Gap % Stdev": "0.04762607159658982",
+        "Output Gap % Strength": "-0.10878863032991512"
     },
     {
         "": "86",
@@ -1726,18 +1726,18 @@
         "Food Consumption": "31985.0",
         "Food Capex": "1127.0",
         "Manufacturing Workforce": "2617.0",
-        "Manufacturing Vacancy Ratio": "3.6666666666666665",
+        "Manufacturing Vacancy Ratio": "3.6999999999999997",
         "Food Imports": "11614",
         "Food Exports": "4070",
         "Food Demand": "24441.0",
         "Food Demand %": "0.008702019587349591",
-        "Food Manu Workforce": "2521.0433333333335",
-        "Food Manu Workforce %": "0.006533709373368252",
-        "Food Supply %": "0.012029582851764965",
-        "Output Gap %": "-0.0033275632644153737",
-        "Output Gap % Mean": "-0.002362033589275445",
-        "Output Gap % Stdev": "0.04754882624845604",
-        "Output Gap % Strength": "-0.020306067495646753"
+        "Food Manu Workforce": "2520.171",
+        "Food Manu Workforce %": "0.0063645735906059375",
+        "Food Supply %": "0.011894274225555113",
+        "Output Gap %": "-0.0031922546382055217",
+        "Output Gap % Mean": "-0.0023684301348406204",
+        "Output Gap % Stdev": "0.0475913723345574",
+        "Output Gap % Strength": "-0.017310375031289016"
     },
     {
         "": "87",
@@ -1746,18 +1746,18 @@
         "Food Consumption": "32042.0",
         "Food Capex": "1178.0",
         "Manufacturing Workforce": "2621.0",
-        "Manufacturing Vacancy Ratio": "3.3666666666666667",
+        "Manufacturing Vacancy Ratio": "3.4",
         "Food Imports": "11219",
         "Food Exports": "4056",
         "Food Demand": "24879.0",
         "Food Demand %": "0.013235008034149953",
-        "Food Manu Workforce": "2532.759666666667",
-        "Food Manu Workforce %": "0.008024125402949611",
-        "Food Supply %": "0.02135590214372718",
-        "Output Gap %": "-0.008120894109577226",
-        "Output Gap % Mean": "-4.718087044162919e-05",
-        "Output Gap % Stdev": "0.04643071572895562",
-        "Output Gap % Strength": "-0.17388733109923998"
+        "Food Manu Workforce": "2531.886",
+        "Food Manu Workforce %": "0.00794117536091854",
+        "Food Supply %": "0.021289542110102325",
+        "Output Gap %": "-0.008054534075952371",
+        "Output Gap % Mean": "-4.799290420628106e-05",
+        "Output Gap % Stdev": "0.04647354386973416",
+        "Output Gap % Strength": "-0.172281700620648"
     },
     {
         "": "88",
@@ -1766,18 +1766,18 @@
         "Food Consumption": "31908.0",
         "Food Capex": "1226.0",
         "Manufacturing Workforce": "2613.0",
-        "Manufacturing Vacancy Ratio": "3.233333333333333",
+        "Manufacturing Vacancy Ratio": "3.266666666666667",
         "Food Imports": "11147",
         "Food Exports": "4087",
         "Food Demand": "24848.0",
         "Food Demand %": "0.02374162068848415",
-        "Food Manu Workforce": "2528.513",
-        "Food Manu Workforce %": "0.0019161541095485402",
-        "Food Supply %": "0.023706522122377983",
-        "Output Gap %": "3.5098566106166185e-05",
-        "Output Gap % Mean": "-0.00649489472389841",
-        "Output Gap % Stdev": "0.03956100292620548",
-        "Output Gap % Strength": "0.16506136869647114"
+        "Food Manu Workforce": "2527.6420000000003",
+        "Food Manu Workforce %": "0.001655884289640669",
+        "Food Supply %": "0.023498306266451687",
+        "Output Gap %": "0.00024331442203246248",
+        "Output Gap % Mean": "-0.006483977773505703",
+        "Output Gap % Stdev": "0.03960128567216503",
+        "Output Gap % Strength": "0.16987560078804834"
     },
     {
         "": "89",
@@ -1792,12 +1792,12 @@
         "Food Demand": "24560.0",
         "Food Demand %": "0.015201335329473126",
         "Food Manu Workforce": "2498.72",
-        "Food Manu Workforce %": "-0.0011162948668144712",
-        "Food Supply %": "0.008679531400926078",
-        "Output Gap %": "0.006521803928547048",
-        "Output Gap % Mean": "-0.010776128304534949",
-        "Output Gap % Stdev": "0.034402727044464586",
-        "Output Gap % Strength": "0.5028070074423139"
+        "Food Manu Workforce %": "-0.0012046869463176457",
+        "Food Supply %": "0.008608817737323539",
+        "Output Gap %": "0.006592517592149587",
+        "Output Gap % Mean": "-0.010759328494426195",
+        "Output Gap % Stdev": "0.034453732205395354",
+        "Output Gap % Strength": "0.5036274730160738"
     },
     {
         "": "90",
@@ -1806,18 +1806,18 @@
         "Food Consumption": "30931.0",
         "Food Capex": "1138.0",
         "Manufacturing Workforce": "2599.0",
-        "Manufacturing Vacancy Ratio": "2.9",
+        "Manufacturing Vacancy Ratio": "2.9333333333333336",
         "Food Imports": "11389",
         "Food Exports": "3932",
         "Food Demand": "23474.0",
         "Food Demand %": "-0.009783508720150408",
-        "Food Manu Workforce": "2523.629",
-        "Food Manu Workforce %": "0.00028915208940594184",
-        "Food Supply %": "0.002920363557683703",
-        "Output Gap %": "-0.012703872277834111",
-        "Output Gap % Mean": "-0.015586017926936107",
-        "Output Gap % Stdev": "0.029591908615498982",
-        "Output Gap % Strength": "0.09739640948987151"
+        "Food Manu Workforce": "2522.7626666666665",
+        "Food Manu Workforce %": "0.00028799536607171383",
+        "Food Supply %": "0.0029194381790163208",
+        "Output Gap %": "-0.012702946899166729",
+        "Output Gap % Mean": "-0.015574845919255722",
+        "Output Gap % Stdev": "0.02964144597141501",
+        "Output Gap % Strength": "0.09688795286365365"
     },
     {
         "": "91",
@@ -1826,18 +1826,18 @@
         "Food Consumption": "30884.0",
         "Food Capex": "1212.0",
         "Manufacturing Workforce": "2599.0",
-        "Manufacturing Vacancy Ratio": "2.733333333333333",
+        "Manufacturing Vacancy Ratio": "2.8000000000000003",
         "Food Imports": "11511",
         "Food Exports": "3794",
         "Food Demand": "23167.0",
         "Food Demand %": "-0.017533260321097976",
-        "Food Manu Workforce": "2527.960666666667",
-        "Food Manu Workforce %": "-0.0004435906524368205",
-        "Food Supply %": "0.006288865019502254",
-        "Output Gap %": "-0.02382212534060023",
-        "Output Gap % Mean": "-0.01932747796752222",
-        "Output Gap % Stdev": "0.027283500822688437",
-        "Output Gap % Strength": "-0.164738660272671"
+        "Food Manu Workforce": "2526.228",
+        "Food Manu Workforce %": "-0.0005307215630921958",
+        "Food Supply %": "0.006219160290977954",
+        "Output Gap %": "-0.02375242061207593",
+        "Output Gap % Mean": "-0.019316159753743265",
+        "Output Gap % Stdev": "0.027328717023258627",
+        "Output Gap % Strength": "-0.16232964227911253"
     },
     {
         "": "92",
@@ -1846,18 +1846,18 @@
         "Food Consumption": "31261.0",
         "Food Capex": "1182.0",
         "Manufacturing Workforce": "2579.0",
-        "Manufacturing Vacancy Ratio": "2.6999999999999997",
+        "Manufacturing Vacancy Ratio": "2.766666666666667",
         "Food Imports": "11747",
         "Food Exports": "3848",
         "Food Demand": "23362.0",
         "Food Demand %": "-0.015117466354580972",
-        "Food Manu Workforce": "2509.3669999999997",
-        "Food Manu Workforce %": "-0.0018632178098979268",
-        "Food Supply %": "-0.00794673752846733",
-        "Output Gap %": "-0.007170728826113642",
-        "Output Gap % Mean": "-0.021422023885793895",
-        "Output Gap % Stdev": "0.025032312934443742",
-        "Output Gap % Strength": "0.569315951626303"
+        "Food Manu Workforce": "2507.6476666666667",
+        "Food Manu Workforce %": "-0.001950409076518611",
+        "Food Supply %": "-0.008016490541763876",
+        "Output Gap %": "-0.007100975812817096",
+        "Output Gap % Mean": "-0.02139928611267926",
+        "Output Gap % Stdev": "0.025095814916100096",
+        "Output Gap % Strength": "0.5697487946760857"
     },
     {
         "": "93",
@@ -1866,18 +1866,18 @@
         "Food Consumption": "31163.0",
         "Food Capex": "1153.0",
         "Manufacturing Workforce": "2572.0",
-        "Manufacturing Vacancy Ratio": "2.533333333333333",
+        "Manufacturing Vacancy Ratio": "2.6333333333333333",
         "Food Imports": "12741",
         "Food Exports": "3970",
         "Food Demand": "22392.0",
         "Food Demand %": "-0.02259995328320563",
-        "Food Manu Workforce": "2506.842666666667",
-        "Food Manu Workforce %": "0.0008309948040325088",
-        "Food Supply %": "-0.008088190639074089",
-        "Output Gap %": "-0.014511762644131542",
-        "Output Gap % Mean": "-0.01682056514652672",
-        "Output Gap % Stdev": "0.01989258530736995",
-        "Output Gap % Strength": "0.11606347122411464"
+        "Food Manu Workforce": "2504.270666666667",
+        "Food Manu Workforce %": "0.0005734920557316225",
+        "Food Supply %": "-0.0082941928377148",
+        "Output Gap %": "-0.014305760445490832",
+        "Output Gap % Mean": "-0.016780666106883387",
+        "Output Gap % Stdev": "0.019968968791354163",
+        "Output Gap % Strength": "0.1239375797143866"
     },
     {
         "": "94",
@@ -1886,18 +1886,18 @@
         "Food Consumption": "31162.0",
         "Food Capex": "1362.0",
         "Manufacturing Workforce": "2580.0",
-        "Manufacturing Vacancy Ratio": "2.466666666666667",
+        "Manufacturing Vacancy Ratio": "2.533333333333333",
         "Food Imports": "12268",
         "Food Exports": "4001",
         "Food Demand": "22895.0",
         "Food Demand %": "-0.005929548077996227",
-        "Food Manu Workforce": "2516.36",
-        "Food Manu Workforce %": "-0.0007120457038446715",
-        "Food Supply %": "0.03883145578598755",
-        "Output Gap %": "-0.044761003863983774",
-        "Output Gap % Mean": "-0.0172826728760903",
-        "Output Gap % Stdev": "0.02051480060548266",
-        "Output Gap % Strength": "-1.3394393402268694"
+        "Food Manu Workforce": "2514.64",
+        "Food Manu Workforce %": "-0.000796841230578299",
+        "Food Supply %": "0.03876361936460065",
+        "Output Gap %": "-0.044693167442596875",
+        "Output Gap % Mean": "-0.017231442114125858",
+        "Output Gap % Stdev": "0.02057499072535989",
+        "Output Gap % Strength": "-1.3347138618450418"
     },
     {
         "": "95",
@@ -1906,17 +1906,17 @@
         "Food Consumption": "30901.0",
         "Food Capex": "1386.0",
         "Manufacturing Workforce": "2602.0",
-        "Manufacturing Vacancy Ratio": "2.3",
+        "Manufacturing Vacancy Ratio": "2.3333333333333335",
         "Food Imports": "12747",
         "Food Exports": "4170",
         "Food Demand": "22324.0",
         "Food Demand %": "-0.008894959033988237",
-        "Food Manu Workforce": "2542.154",
-        "Food Manu Workforce %": "0.001421473562212755",
-        "Food Supply %": "0.031057227865990456",
-        "Output Gap %": "-0.03995218689997869",
-        "Output Gap % Mean": "-0.018504944279064205",
-        "Output Gap % Stdev": "0.02145051569647653",
-        "Output Gap % Strength": "-0.9998474127331781"
+        "Food Manu Workforce": "2541.286666666667",
+        "Food Manu Workforce %": "0.0015089054013940062",
+        "Food Supply %": "0.031127173337335456",
+        "Output Gap %": "-0.040022132371323696",
+        "Output Gap % Mean": "-0.018453993275294168",
+        "Output Gap % Stdev": "0.021515696223159984",
+        "Output Gap % Strength": "-1.0024374239311435"
     }
 ]

@@ -143,7 +143,7 @@
         "Auto Capex": "3009.0",
         "Retail: Changes in Inventory": "717.0",
         "Manufacturing Workforce": "3099.0",
-        "Manufacturing Vacancy Ratio": "1.7666666666666666",
+        "Manufacturing Vacancy Ratio": "1.8",
         "Total Retail Sales": "99303442.0",
         "Other Sales": "12061862.0",
         "Auto Imports": "9970",
@@ -151,10 +151,10 @@
         "Change in Retail Inventory %": "0.9927797064677778",
         "Average Auto Demand": "11974771.815814843",
         "Auto Demand %": "0.008663491112882893",
-        "Auto Workforce": "3044.2509999999997",
-        "Auto Workforce Change": "-0.030674119107893194",
+        "Auto Workforce": "3043.218",
+        "Auto Workforce Change": "-0.03101162139493674",
         "Auto Capex Change": "0.02289904117315289",
-        "Auto Supply %": "-0.003887538967370152",
+        "Auto Supply %": "-0.004056290110891925",
         "Output Gap %": "-0.0012288449170363425",
         "Output Gap % Mean": "",
         "Output Gap % Stdev": "",
@@ -175,10 +175,10 @@
         "Average Auto Demand": "11983660.796069356",
         "Auto Demand %": "0.006456614323134158",
         "Auto Workforce": "3031.5266666666666",
-        "Auto Workforce Change": "-0.02490089950907337",
+        "Auto Workforce Change": "-0.02490037728529959",
         "Auto Capex Change": "0.01179973533303924",
-        "Auto Supply %": "-0.006550582088017065",
-        "Output Gap %": "0.01034415329050431",
+        "Auto Supply %": "-0.006550320976130175",
+        "Output Gap %": "0.010512904434026082",
         "Output Gap % Mean": "",
         "Output Gap % Stdev": "",
         "Output Gap % Strength": ""
@@ -198,10 +198,10 @@
         "Average Auto Demand": "11703097.839649402",
         "Auto Demand %": "-0.0031046834813425552",
         "Auto Workforce": "2987.244",
-        "Auto Workforce Change": "-0.024167932753913157",
+        "Auto Workforce Change": "-0.024167410530139377",
         "Auto Capex Change": "-0.02125340599455039",
-        "Auto Supply %": "-0.022710669374231773",
-        "Output Gap %": "0.00344589860667451",
+        "Auto Supply %": "-0.022710408262344883",
+        "Output Gap %": "0.00344563749478762",
         "Output Gap % Mean": "",
         "Output Gap % Stdev": "",
         "Output Gap % Strength": ""
@@ -221,10 +221,10 @@
         "Average Auto Demand": "11667097.34952944",
         "Auto Demand %": "-0.008581988621598388",
         "Auto Workforce": "2970.5499999999997",
-        "Auto Workforce Change": "-0.02437560133667016",
+        "Auto Workforce Change": "-0.024037576825852836",
         "Auto Capex Change": "-0.01703786191536749",
-        "Auto Supply %": "-0.020706731626018826",
-        "Output Gap %": "0.014128680752633386",
+        "Auto Supply %": "-0.020537719370610164",
+        "Output Gap %": "0.014128419640746495",
         "Output Gap % Mean": "",
         "Output Gap % Stdev": "",
         "Output Gap % Strength": ""
@@ -247,7 +247,7 @@
         "Auto Workforce Change": "-0.022509859791463138",
         "Auto Capex Change": "0.00430497337713831",
         "Auto Supply %": "-0.009102443207162414",
-        "Output Gap %": "0.014204434678231348",
+        "Output Gap %": "0.014035422422822685",
         "Output Gap % Mean": "",
         "Output Gap % Stdev": "",
         "Output Gap % Strength": ""
@@ -317,9 +317,9 @@
         "Auto Capex Change": "-0.0017663943475381139",
         "Auto Supply %": "-0.007211627382097352",
         "Output Gap %": "0.0030081019177704924",
-        "Output Gap % Mean": "0.010962316176667496",
-        "Output Gap % Stdev": "0.009299119243814732",
-        "Output Gap % Strength": "-0.8553728638535003"
+        "Output Gap % Mean": "0.01096223784310143",
+        "Output Gap % Stdev": "0.009291676892997824",
+        "Output Gap % Strength": "-0.8560495610135935"
     },
     {
         "": "26",
@@ -340,9 +340,9 @@
         "Auto Capex Change": "0.009511170095111598",
         "Auto Supply %": "-0.0009430956528399537",
         "Output Gap %": "0.015439857793425863",
-        "Output Gap % Mean": "0.012359036722036584",
-        "Output Gap % Stdev": "0.008748008946608151",
-        "Output Gap % Strength": "0.3521739735512959"
+        "Output Gap % Mean": "0.012358958388470518",
+        "Output Gap % Stdev": "0.008740111237088377",
+        "Output Gap % Strength": "0.35250116633317535"
     },
     {
         "": "27",
@@ -363,9 +363,9 @@
         "Auto Capex Change": "0.00471078001752856",
         "Auto Supply %": "-0.008229441725036923",
         "Output Gap %": "0.005902934381225966",
-        "Output Gap % Mean": "0.010295050184291495",
-        "Output Gap % Stdev": "0.007353386703077356",
-        "Output Gap % Strength": "-0.5972915583546627"
+        "Output Gap % Mean": "0.010294971850725428",
+        "Output Gap % Stdev": "0.00734396491168934",
+        "Output Gap % Strength": "-0.5980471751041028"
     },
     {
         "": "28",
@@ -386,9 +386,9 @@
         "Auto Capex Change": "0.01875477047214047",
         "Auto Supply %": "-0.004969501555497469",
         "Output Gap %": "0.039975391766001324",
-        "Output Gap % Mean": "0.014415473852595262",
-        "Output Gap % Stdev": "0.010878083318113338",
-        "Output Gap % Strength": "2.3496710924107074"
+        "Output Gap % Mean": "0.014415395519029196",
+        "Output Gap % Stdev": "0.010871749562789372",
+        "Output Gap % Strength": "2.3510471888035456"
     },
     {
         "": "29",
@@ -409,9 +409,9 @@
         "Auto Capex Change": "0.018409504441828206",
         "Auto Supply %": "-0.006072869957745752",
         "Output Gap %": "0.016206314848511837",
-        "Output Gap % Mean": "0.015001690008396015",
-        "Output Gap % Stdev": "0.010791916916647869",
-        "Output Gap % Strength": "0.11162287936608731"
+        "Output Gap % Mean": "0.01498473656047777",
+        "Output Gap % Stdev": "0.010793469785865414",
+        "Output Gap % Strength": "0.1131775334780465"
     },
     {
         "": "30",
@@ -432,9 +432,9 @@
         "Auto Capex Change": "0.004098791382028288",
         "Auto Supply %": "-0.010558050761859727",
         "Output Gap %": "0.016653692017820465",
-        "Output Gap % Mean": "0.01632246934951061",
-        "Output Gap % Stdev": "0.009999652503197658",
-        "Output Gap % Strength": "0.03312341785916431"
+        "Output Gap % Mean": "0.016305542012781053",
+        "Output Gap % Stdev": "0.01000377842399754",
+        "Output Gap % Strength": "0.03480185088908537"
     },
     {
         "": "31",
@@ -455,9 +455,9 @@
         "Auto Capex Change": "0.01737492149884856",
         "Auto Supply %": "-0.025095149816150797",
         "Output Gap %": "-0.011258072843289297",
-        "Output Gap % Mean": "0.01378379398991834",
-        "Output Gap % Stdev": "0.013297294315801336",
-        "Output Gap % Strength": "-1.8832302450770066"
+        "Output Gap % Mean": "0.013766892764377476",
+        "Output Gap % Stdev": "0.013296807665562757",
+        "Output Gap % Strength": "-1.8820280955464697"
     },
     {
         "": "32",
@@ -479,8 +479,8 @@
         "Auto Supply %": "-0.038369222140126336",
         "Output Gap %": "0.011278825919284566",
         "Output Gap % Mean": "0.013491233114023662",
-        "Output Gap % Stdev": "0.013319177205462348",
-        "Output Gap % Strength": "-0.16610689689088018"
+        "Output Gap % Stdev": "0.01331917720546235",
+        "Output Gap % Strength": "-0.16610689689088015"
     },
     {
         "": "33",
@@ -548,8 +548,8 @@
         "Auto Supply %": "-0.03782358846950412",
         "Output Gap %": "0.047154012605885066",
         "Output Gap % Mean": "0.020496202659348286",
-        "Output Gap % Stdev": "0.017944334617555926",
-        "Output Gap % Strength": "1.4855836404463827"
+        "Output Gap % Stdev": "0.01794433461755593",
+        "Output Gap % Strength": "1.4855836404463825"
     },
     {
         "": "36",
@@ -594,7 +594,7 @@
         "Auto Supply %": "-0.004959500440797127",
         "Output Gap %": "0.01920737860839511",
         "Output Gap % Mean": "0.02388572038938156",
-        "Output Gap % Stdev": "0.017599091458072622",
+        "Output Gap % Stdev": "0.017599091458072626",
         "Output Gap % Strength": "-0.2658285964438532"
     },
     {
@@ -649,7 +649,7 @@
         "Auto Capex": "2550.0",
         "Retail: Changes in Inventory": "2830.0",
         "Manufacturing Workforce": "2562.0",
-        "Manufacturing Vacancy Ratio": "1.5999999999999999",
+        "Manufacturing Vacancy Ratio": "1.5666666666666667",
         "Total Retail Sales": "102024678.0",
         "Other Sales": "11990784.0",
         "Auto Imports": "10044",
@@ -657,10 +657,10 @@
         "Change in Retail Inventory %": "0.9722616130187639",
         "Average Auto Demand": "11658178.993199585",
         "Auto Demand %": "-0.009866219759844178",
-        "Auto Workforce": "2521.008",
-        "Auto Workforce Change": "-0.006822239712276801",
+        "Auto Workforce": "2521.862",
+        "Auto Workforce Change": "-0.006484831936410362",
         "Auto Capex Change": "-0.028116326776879474",
-        "Auto Supply %": "-0.017469283244578138",
+        "Auto Supply %": "-0.01730057935664492",
         "Output Gap %": "-0.006872142474801982",
         "Output Gap % Mean": "0.017418212087475966",
         "Output Gap % Stdev": "0.019772181605670087",
@@ -681,13 +681,13 @@
         "Average Auto Demand": "11814343.665667405",
         "Auto Demand %": "-0.014002793736997829",
         "Auto Workforce": "2522.1213333333335",
-        "Auto Workforce Change": "-0.0027508962539444237",
+        "Auto Workforce Change": "-0.0027522767010015325",
         "Auto Capex Change": "-0.022597467097094648",
-        "Auto Supply %": "-0.012674181675519536",
-        "Output Gap %": "0.003466489507580309",
-        "Output Gap % Mean": "0.018890668322562927",
-        "Output Gap % Stdev": "0.01785463668662338",
-        "Output Gap % Strength": "-0.8638752546859914"
+        "Auto Supply %": "-0.01267487189904809",
+        "Output Gap %": "0.00329778561964709",
+        "Output Gap % Mean": "0.018873797933769604",
+        "Output Gap % Stdev": "0.017870902214593327",
+        "Output Gap % Strength": "-0.8715851123287547"
     },
     {
         "": "42",
@@ -704,13 +704,13 @@
         "Average Auto Demand": "11722750.17177828",
         "Auto Demand %": "-0.007621253413725178",
         "Auto Workforce": "2527.5099999999998",
-        "Auto Workforce Change": "-0.001394062116086614",
+        "Auto Workforce Change": "-0.0013954425631437228",
         "Auto Capex Change": "0.007748983739837456",
-        "Auto Supply %": "0.003177460811875421",
-        "Output Gap %": "0.005052928261794358",
-        "Output Gap % Mean": "0.018268078556813904",
-        "Output Gap % Stdev": "0.018253642516113982",
-        "Output Gap % Strength": "-0.7239733266033589"
+        "Auto Supply %": "0.0031767705883468667",
+        "Output Gap %": "0.005053618485322912",
+        "Output Gap % Mean": "0.01825127719037344",
+        "Output Gap % Stdev": "0.018268858606318394",
+        "Output Gap % Strength": "-0.722412876986526"
     },
     {
         "": "43",
@@ -727,13 +727,13 @@
         "Average Auto Demand": "11960635.849707542",
         "Auto Demand %": "0.008645067691857652",
         "Auto Workforce": "2500.0686666666666",
-        "Auto Workforce Change": "-0.008278878694400804",
+        "Auto Workforce Change": "-0.008617666917324351",
         "Auto Capex Change": "0.028362536241018477",
-        "Auto Supply %": "0.010041828773308836",
-        "Output Gap %": "0.005467606879982231",
-        "Output Gap % Mean": "0.016601768101467424",
-        "Output Gap % Stdev": "0.01861876420003489",
-        "Output Gap % Strength": "-0.5980075316418867"
+        "Auto Supply %": "0.009872434661847063",
+        "Output Gap %": "0.0054682971035107854",
+        "Output Gap % Mean": "0.016585035757379813",
+        "Output Gap % Stdev": "0.018631966907928937",
+        "Output Gap % Strength": "-0.5966486903289978"
     },
     {
         "": "44",
@@ -753,10 +753,10 @@
         "Auto Workforce Change": "0.005363645501493819",
         "Auto Capex Change": "0.05540573670017168",
         "Auto Supply %": "0.03038469110083275",
-        "Output Gap %": "-0.005805074883181753",
-        "Output Gap % Mean": "0.011873424746032247",
-        "Output Gap % Stdev": "0.017573891519731873",
-        "Output Gap % Strength": "-1.0059524726987574"
+        "Output Gap %": "-0.005635680771719979",
+        "Output Gap % Mean": "0.011873631813090813",
+        "Output Gap % Stdev": "0.017564045230834453",
+        "Output Gap % Strength": "-0.9968838245800248"
     },
     {
         "": "45",
@@ -777,9 +777,9 @@
         "Auto Capex Change": "0.03844367015098715",
         "Auto Supply %": "0.0258060970774443",
         "Output Gap %": "-0.03160964306250239",
-        "Output Gap % Mean": "0.0039970591791935",
-        "Output Gap % Stdev": "0.017654904666993727",
-        "Output Gap % Strength": "-2.0168164548780307"
+        "Output Gap % Mean": "0.003997266246252067",
+        "Output Gap % Stdev": "0.01764520628459811",
+        "Output Gap % Strength": "-2.017936698186096"
     },
     {
         "": "46",
@@ -800,9 +800,9 @@
         "Auto Capex Change": "0.030086120120791815",
         "Auto Supply %": "0.02465604678187916",
         "Output Gap %": "-0.025898514494863762",
-        "Output Gap % Mean": "-0.002195851356951822",
-        "Output Gap % Stdev": "0.015949007956095294",
-        "Output Gap % Strength": "-1.4861528192324591"
+        "Output Gap % Mean": "-0.0021956442898932557",
+        "Output Gap % Stdev": "0.015938360971903067",
+        "Output Gap % Strength": "-1.487158575888393"
     },
     {
         "": "47",
@@ -823,9 +823,9 @@
         "Auto Capex Change": "0.020412595005428802",
         "Auto Supply %": "0.004879659968210881",
         "Output Gap %": "-0.027782417426309602",
-        "Output Gap % Mean": "-0.006894830960422293",
-        "Output Gap % Stdev": "0.015864382574343108",
-        "Output Gap % Strength": "-1.3166340617420589"
+        "Output Gap % Mean": "-0.0068946238933637275",
+        "Output Gap % Stdev": "0.01585374695089675",
+        "Output Gap % Strength": "-1.3175303981854196"
     },
     {
         "": "48",
@@ -846,9 +846,9 @@
         "Auto Capex Change": "0.019791444988295437",
         "Auto Supply %": "-0.0007671398539939034",
         "Output Gap %": "-0.0003273710496458455",
-        "Output Gap % Mean": "-0.00811147184542375",
-        "Output Gap % Stdev": "0.014691188782882503",
-        "Output Gap % Strength": "0.529848258763619"
+        "Output Gap % Mean": "-0.008111264778365183",
+        "Output Gap % Stdev": "0.014679722259237372",
+        "Output Gap % Strength": "0.5302480245374697"
     },
     {
         "": "49",
@@ -869,9 +869,9 @@
         "Auto Capex Change": "0.02034641068447418",
         "Auto Supply %": "0.00448930983232021",
         "Output Gap %": "0.005358773583175269",
-        "Output Gap % Mean": "-0.007894936515877317",
-        "Output Gap % Stdev": "0.014890926771263165",
-        "Output Gap % Strength": "0.8900527349734796"
+        "Output Gap % Mean": "-0.007894729448818751",
+        "Output Gap % Stdev": "0.01487961082228494",
+        "Output Gap % Strength": "0.8907157042134781"
     },
     {
         "": "50",
@@ -892,9 +892,9 @@
         "Auto Capex Change": "0.014827691993046344",
         "Auto Supply %": "0.01272755813353671",
         "Output Gap %": "0.008314893787323826",
-        "Output Gap % Mean": "-0.006376232889664736",
-        "Output Gap % Stdev": "0.015756145836993626",
-        "Output Gap % Strength": "0.9324061118103818"
+        "Output Gap % Mean": "-0.006376025822606169",
+        "Output Gap % Stdev": "0.01574542952485466",
+        "Output Gap % Strength": "0.9330275548685357"
     },
     {
         "": "51",
@@ -915,9 +915,9 @@
         "Auto Capex Change": "0.0027206771463119672",
         "Auto Supply %": "0.006725575139147455",
         "Output Gap %": "0.0038773414106219213",
-        "Output Gap % Mean": "-0.006335147699360574",
-        "Output Gap % Stdev": "0.015785172038421762",
-        "Output Gap % Strength": "0.6469672351447848"
+        "Output Gap % Mean": "-0.006318070243508686",
+        "Output Gap % Stdev": "0.01578600745247781",
+        "Output Gap % Strength": "0.6458511871873157"
     },
     {
         "": "52",
@@ -938,9 +938,9 @@
         "Auto Capex Change": "0.02874083006732997",
         "Auto Supply %": "0.017763133956733512",
         "Output Gap %": "0.039103958631974856",
-        "Output Gap % Mean": "-0.002930044662342525",
-        "Output Gap % Stdev": "0.021243617995136087",
-        "Output Gap % Strength": "1.9786649950089217"
+        "Output Gap % Mean": "-0.0029130362288434923",
+        "Output Gap % Stdev": "0.02124116840743392",
+        "Output Gap % Strength": "1.9780924502304387"
     },
     {
         "": "53",
@@ -961,9 +961,9 @@
         "Auto Capex Change": "0.022174465175344382",
         "Auto Supply %": "0.018119927628595323",
         "Output Gap %": "0.0005586000129930713",
-        "Output Gap % Mean": "-0.003420945349041441",
-        "Output Gap % Stdev": "0.02108412252834359",
-        "Output Gap % Strength": "0.18874607452526285"
+        "Output Gap % Mean": "-0.003404005937895264",
+        "Output Gap % Stdev": "0.02108206218837937",
+        "Output Gap % Strength": "0.18796102181467622"
     },
     {
         "": "54",
@@ -985,8 +985,8 @@
         "Auto Supply %": "0.029343986892456764",
         "Output Gap %": "-0.0010723998274444306",
         "Output Gap % Mean": "-0.002947677843467709",
-        "Output Gap % Stdev": "0.021077776016524517",
-        "Output Gap % Strength": "0.08896944414596214"
+        "Output Gap % Stdev": "0.021077776016524507",
+        "Output Gap % Strength": "0.08896944414596218"
     },
     {
         "": "55",
@@ -1008,8 +1008,8 @@
         "Auto Supply %": "0.03485276654213998",
         "Output Gap %": "-0.03667329269337564",
         "Output Gap % Mean": "-0.0034540428065550333",
-        "Output Gap % Stdev": "0.02188809561853134",
-        "Output Gap % Strength": "-1.5176857075996988"
+        "Output Gap % Stdev": "0.021888095618531334",
+        "Output Gap % Strength": "-1.5176857075996992"
     },
     {
         "": "56",
@@ -1017,7 +1017,7 @@
         "Auto Capex": "4141.0",
         "Retail: Changes in Inventory": "-725.0",
         "Manufacturing Workforce": "2650.0",
-        "Manufacturing Vacancy Ratio": "1.9666666666666668",
+        "Manufacturing Vacancy Ratio": "2.033333333333333",
         "Total Retail Sales": "110009932.0",
         "Other Sales": "13200559.0",
         "Auto Imports": "13785",
@@ -1025,14 +1025,14 @@
         "Change in Retail Inventory %": "1.0065903140454628",
         "Average Auto Demand": "13287554.82938566",
         "Auto Demand %": "0.010354385645191163",
-        "Auto Workforce": "2597.883333333333",
-        "Auto Workforce Change": "0.010707771979626246",
+        "Auto Workforce": "2596.116666666667",
+        "Auto Workforce Change": "0.010022587225374968",
         "Auto Capex Change": "0.04577618590023591",
-        "Auto Supply %": "0.02824197893993108",
+        "Auto Supply %": "0.02789938656280544",
         "Output Gap %": "-0.024498380896948814",
         "Output Gap % Mean": "-0.003314029446763539",
-        "Output Gap % Stdev": "0.02173249586101177",
-        "Output Gap % Strength": "-0.9747776594859558"
+        "Output Gap % Stdev": "0.02173249586101176",
+        "Output Gap % Strength": "-0.9747776594859563"
     },
     {
         "": "57",
@@ -1049,13 +1049,13 @@
         "Average Auto Demand": "13203757.3575495",
         "Auto Demand %": "0.006093033386125546",
         "Auto Workforce": "2589.940666666667",
-        "Auto Workforce Change": "0.0024554826995614176",
+        "Auto Workforce Change": "0.002448720973006413",
         "Auto Capex Change": "0.06490685824074838",
-        "Auto Supply %": "0.0336811704701549",
-        "Output Gap %": "-0.022148945553805532",
-        "Output Gap % Mean": "-0.0027506822595131314",
-        "Output Gap % Stdev": "0.021091311642074406",
-        "Output Gap % Strength": "-0.9197276880398185"
+        "Auto Supply %": "0.033677789606877395",
+        "Output Gap %": "-0.021806353176679893",
+        "Output Gap % Mean": "-0.002716423021800568",
+        "Output Gap % Stdev": "0.021056551050716583",
+        "Output Gap % Strength": "-0.906602895645138"
     },
     {
         "": "58",
@@ -1072,13 +1072,13 @@
         "Average Auto Demand": "13071283.887332393",
         "Auto Demand %": "-0.010035201283645915",
         "Auto Workforce": "2564.98",
-        "Auto Workforce Change": "-0.005130723493668166",
+        "Auto Workforce Change": "-0.00513748522022317",
         "Auto Capex Change": "0.037652965171007136",
-        "Auto Supply %": "0.016261120838669485",
-        "Output Gap %": "-0.04371637175380081",
-        "Output Gap % Mean": "-0.007089582329928628",
-        "Output Gap % Stdev": "0.02469288152340431",
-        "Output Gap % Strength": "-1.4832934499425157"
+        "Auto Supply %": "0.016257739975391983",
+        "Output Gap %": "-0.04371299089052331",
+        "Output Gap % Mean": "-0.007054985005888315",
+        "Output Gap % Stdev": "0.024669335184832025",
+        "Output Gap % Strength": "-1.4859746162585774"
     },
     {
         "": "59",
@@ -1095,13 +1095,13 @@
         "Average Auto Demand": "13087793.27780154",
         "Auto Demand %": "-0.005025482845883704",
         "Auto Workforce": "2573.48",
-        "Auto Workforce Change": "-0.009381038625262184",
+        "Auto Workforce Change": "-0.00870261559756591",
         "Auto Capex Change": "0.031372845479286315",
-        "Auto Supply %": "0.010995903427012066",
-        "Output Gap %": "-0.02128660368455319",
-        "Output Gap % Mean": "-0.009754120056701473",
-        "Output Gap % Stdev": "0.02463791526802708",
-        "Output Gap % Strength": "-0.46807871130304435"
+        "Auto Supply %": "0.011335114940860203",
+        "Output Gap %": "-0.021283222821275687",
+        "Output Gap % Mean": "-0.00971918464633341",
+        "Output Gap % Stdev": "0.02461830086639818",
+        "Output Gap % Strength": "-0.46973340027402843"
     },
     {
         "": "60",
@@ -1121,10 +1121,10 @@
         "Auto Workforce Change": "-0.001832742075348004",
         "Auto Capex Change": "0.023895037748295822",
         "Auto Supply %": "0.011031147836473909",
-        "Output Gap %": "0.0018480000288693867",
-        "Output Gap % Mean": "-0.010400809432546919",
-        "Output Gap % Stdev": "0.024191779311912392",
-        "Output Gap % Strength": "0.5063211475058723"
+        "Output Gap %": "0.00150878851502125",
+        "Output Gap % Mean": "-0.010399795173563669",
+        "Output Gap % Stdev": "0.024154028252491792",
+        "Output Gap % Strength": "0.4930268178913966"
     },
     {
         "": "61",
@@ -1145,9 +1145,9 @@
         "Auto Capex Change": "0.00021476125706931803",
         "Auto Supply %": "0.007956081696228412",
         "Output Gap %": "0.01777730318236283",
-        "Output Gap % Mean": "-0.009010813255372827",
-        "Output Gap % Stdev": "0.02546893362902935",
-        "Output Gap % Strength": "1.0517957613742694"
+        "Output Gap % Mean": "-0.009009798996389576",
+        "Output Gap % Stdev": "0.025433016766029035",
+        "Output Gap % Strength": "1.0532412424833546"
     },
     {
         "": "62",
@@ -1168,9 +1168,9 @@
         "Auto Capex Change": "-0.004795304895505281",
         "Auto Supply %": "-0.0025071872925138683",
         "Output Gap %": "0.01957895356595492",
-        "Output Gap % Mean": "-0.01096331376197482",
-        "Output Gap % Stdev": "0.021863770470404276",
-        "Output Gap % Strength": "1.3969350514941166"
+        "Output Gap % Mean": "-0.01096229950299157",
+        "Output Gap % Stdev": "0.021822021482023807",
+        "Output Gap % Strength": "1.3995611311310125"
     },
     {
         "": "63",
@@ -1191,9 +1191,9 @@
         "Auto Capex Change": "-0.050845019777058575",
         "Auto Supply %": "-0.02693686006070828",
         "Output Gap %": "0.017743449284177447",
-        "Output Gap % Mean": "-0.009244828834856384",
-        "Output Gap % Stdev": "0.023485248267666767",
-        "Output Gap % Strength": "1.149158731959834"
+        "Output Gap % Mean": "-0.009243814575873133",
+        "Output Gap % Stdev": "0.023446304085397825",
+        "Output Gap % Strength": "1.1510242194998246"
     },
     {
         "": "64",
@@ -1214,9 +1214,9 @@
         "Auto Capex Change": "-0.031671465373541485",
         "Auto Supply %": "-0.017935018950429538",
         "Output Gap %": "0.019296364846309477",
-        "Output Gap % Mean": "-0.007207952367480992",
-        "Output Gap % Stdev": "0.025100541072469736",
-        "Output Gap % Strength": "1.055926130726337"
+        "Output Gap % Mean": "-0.007206938108497742",
+        "Output Gap % Stdev": "0.025064015246321538",
+        "Output Gap % Strength": "1.0574244666842403"
     },
     {
         "": "65",
@@ -1237,9 +1237,9 @@
         "Auto Capex Change": "0.0017214397496088107",
         "Auto Supply %": "0.010225299636700713",
         "Output Gap %": "0.022795790004359107",
-        "Output Gap % Mean": "-0.001261044097707518",
-        "Output Gap % Stdev": "0.02437825888250207",
-        "Output Gap % Strength": "0.9868151051318044"
+        "Output Gap % Mean": "-0.0012600298387242675",
+        "Output Gap % Stdev": "0.02434037387737091",
+        "Output Gap % Strength": "0.9883093811244993"
     },
     {
         "": "66",
@@ -1260,9 +1260,9 @@
         "Auto Capex Change": "0.028354944539915605",
         "Auto Supply %": "0.025640499994105337",
         "Output Gap %": "-0.007649320750546992",
-        "Output Gap % Mean": "0.000423861916932664",
-        "Output Gap % Stdev": "0.023144816385269974",
-        "Output Gap % Strength": "-0.3488116964547475"
+        "Output Gap % Mean": "0.00042487617591591473",
+        "Output Gap % Stdev": "0.023104826816732253",
+        "Output Gap % Strength": "-0.3494593138701072"
     },
     {
         "": "67",
@@ -1283,9 +1283,9 @@
         "Auto Capex Change": "0.023623243448537723",
         "Auto Supply %": "0.020003558352192696",
         "Output Gap %": "-0.004837852749291532",
-        "Output Gap % Mean": "0.0021549711973840643",
-        "Output Gap % Stdev": "0.021881827417795922",
-        "Output Gap % Strength": "-0.31957220999689057"
+        "Output Gap % Mean": "0.002121726218654751",
+        "Output Gap % Stdev": "0.021881430373258355",
+        "Output Gap % Strength": "-0.3180586848861442"
     },
     {
         "": "68",
@@ -1306,9 +1306,9 @@
         "Auto Capex Change": "0.004971801721579183",
         "Auto Supply %": "0.0049595129849764885",
         "Output Gap %": "-0.019972109645309228",
-        "Output Gap % Mean": "0.0045293974082332225",
-        "Output Gap % Stdev": "0.01712171442754635",
-        "Output Gap % Strength": "-1.4310194903217803"
+        "Output Gap % Mean": "0.004495814343176159",
+        "Output Gap % Stdev": "0.017127386461756523",
+        "Output Gap % Strength": "-1.428584801488507"
     },
     {
         "": "69",
@@ -1329,9 +1329,9 @@
         "Auto Capex Change": "-0.00398729971202838",
         "Auto Supply %": "0.0005492232113335493",
         "Output Gap %": "-0.0033496739745411674",
-        "Output Gap % Mean": "0.006323090379234425",
-        "Output Gap % Stdev": "0.01491389528495696",
-        "Output Gap % Strength": "-0.6485739754074924"
+        "Output Gap % Mean": "0.006289169227849611",
+        "Output Gap % Stdev": "0.0149255858455155",
+        "Output Gap % Strength": "-0.6457932909405254"
     },
     {
         "": "70",
@@ -1353,8 +1353,8 @@
         "Auto Supply %": "0.00011342338598735457",
         "Output Gap %": "0.0038776721205227016",
         "Output Gap % Mean": "0.006526057588399757",
-        "Output Gap % Stdev": "0.01485993918438318",
-        "Output Gap % Strength": "-0.1782231700288743"
+        "Output Gap % Stdev": "0.014859939184383171",
+        "Output Gap % Strength": "-0.17822317002887442"
     },
     {
         "": "71",
@@ -1376,8 +1376,8 @@
         "Auto Supply %": "0.005622156388659594",
         "Output Gap %": "0.018250816247149877",
         "Output Gap % Mean": "0.006573408894878461",
-        "Output Gap % Stdev": "0.014900474078215356",
-        "Output Gap % Strength": "0.78369367920608"
+        "Output Gap % Stdev": "0.014900474078215346",
+        "Output Gap % Strength": "0.7836936792060806"
     },
     {
         "": "72",
@@ -1399,8 +1399,8 @@
         "Auto Supply %": "0.008107625031199883",
         "Output Gap %": "0.017953852810537557",
         "Output Gap % Mean": "0.006410898819336724",
-        "Output Gap % Stdev": "0.014750982513716317",
-        "Output Gap % Strength": "0.7825210273598742"
+        "Output Gap % Stdev": "0.014750982513716307",
+        "Output Gap % Strength": "0.7825210273598747"
     },
     {
         "": "73",
@@ -1422,8 +1422,8 @@
         "Auto Supply %": "0.004298539004987723",
         "Output Gap %": "-0.0002333648701691917",
         "Output Gap % Mean": "0.00461321740390206",
-        "Output Gap % Stdev": "0.014305112999294321",
-        "Output Gap % Strength": "-0.3388006983454333"
+        "Output Gap % Stdev": "0.01430511299929431",
+        "Output Gap % Strength": "-0.3388006983454336"
     },
     {
         "": "74",
@@ -1431,7 +1431,7 @@
         "Auto Capex": "4344.0",
         "Retail: Changes in Inventory": "-404.0",
         "Manufacturing Workforce": "2694.0",
-        "Manufacturing Vacancy Ratio": "2.1666666666666665",
+        "Manufacturing Vacancy Ratio": "2.1333333333333333",
         "Total Retail Sales": "125825029.0",
         "Other Sales": "15520703.0",
         "Auto Imports": "15805",
@@ -1439,14 +1439,14 @@
         "Change in Retail Inventory %": "1.0032108079228022",
         "Average Auto Demand": "15570536.996159859",
         "Auto Demand %": "0.008699696284893199",
-        "Auto Workforce": "2635.63",
-        "Auto Workforce Change": "0.007552461856959236",
+        "Auto Workforce": "2636.5280000000002",
+        "Auto Workforce Change": "0.00789416016094846",
         "Auto Capex Change": "-0.03369994359842077",
-        "Auto Supply %": "-0.013073740870730766",
+        "Auto Supply %": "-0.012902891718736154",
         "Output Gap %": "0.0044011572799054766",
         "Output Gap % Mean": "0.0031236966472616605",
-        "Output Gap % Stdev": "0.013349946945959094",
-        "Output Gap % Strength": "0.09569031531099018"
+        "Output Gap % Stdev": "0.013349946945959082",
+        "Output Gap % Strength": "0.09569031531099026"
     },
     {
         "": "75",
@@ -1463,13 +1463,13 @@
         "Average Auto Demand": "15376486.58746736",
         "Auto Demand %": "-0.0034283522841050593",
         "Auto Workforce": "2618.825",
-        "Auto Workforce Change": "-0.00736808285228685",
+        "Auto Workforce Change": "-0.0073648123123797316",
         "Auto Capex Change": "-0.03399970815701148",
-        "Auto Supply %": "-0.020683895504649163",
-        "Output Gap %": "0.009645388586625706",
-        "Output Gap % Mean": "0.0018086565054883205",
-        "Output Gap % Stdev": "0.011748463985163519",
-        "Output Gap % Strength": "0.6670431207887225"
+        "Auto Supply %": "-0.020682260234695604",
+        "Output Gap %": "0.009474539434631094",
+        "Output Gap % Mean": "0.0017915715902888593",
+        "Output Gap % Stdev": "0.011735918874808024",
+        "Output Gap % Strength": "0.654654137123789"
     },
     {
         "": "76",
@@ -1477,7 +1477,7 @@
         "Auto Capex": "4378.0",
         "Retail: Changes in Inventory": "-797.0",
         "Manufacturing Workforce": "2676.0",
-        "Manufacturing Vacancy Ratio": "2.233333333333333",
+        "Manufacturing Vacancy Ratio": "2.2666666666666666",
         "Total Retail Sales": "131020801.0",
         "Other Sales": "15080350.0",
         "Auto Imports": "13280",
@@ -1485,14 +1485,14 @@
         "Change in Retail Inventory %": "1.0060830035682655",
         "Average Auto Demand": "15172083.822860694",
         "Auto Demand %": "-0.002944848408822698",
-        "Auto Workforce": "2616.236",
-        "Auto Workforce Change": "-0.004480173751609473",
+        "Auto Workforce": "2615.344",
+        "Auto Workforce Change": "-0.004817513981799526",
         "Auto Capex Change": "-0.02031722054380669",
-        "Auto Supply %": "-0.012398697147708082",
-        "Output Gap %": "0.017739047095826466",
-        "Output Gap % Mean": "0.004347493290125666",
-        "Output Gap % Stdev": "0.01221158258235432",
-        "Output Gap % Strength": "1.0966272156281802"
+        "Auto Supply %": "-0.012567367262803109",
+        "Output Gap %": "0.017737411825872906",
+        "Output Gap % Mean": "0.004330244847930849",
+        "Output Gap % Stdev": "0.01220326404451571",
+        "Output Gap % Strength": "1.0986541739189355"
     },
     {
         "": "77",
@@ -1509,13 +1509,13 @@
         "Average Auto Demand": "9534969.89608516",
         "Auto Demand %": "-0.1324336681748276",
         "Auto Workforce": "2583.0933333333332",
-        "Auto Workforce Change": "-0.020032768208294027",
+        "Auto Workforce Change": "-0.02037506324733307",
         "Auto Capex Change": "-0.02351399275306454",
-        "Auto Supply %": "-0.021773380480679283",
-        "Output Gap %": "-0.12003497102711952",
-        "Output Gap % Mean": "-0.0071722185376571325",
-        "Output Gap % Stdev": "0.04136785384316651",
-        "Output Gap % Strength": "-2.728271882736455"
+        "Auto Supply %": "-0.021944528000198804",
+        "Output Gap %": "-0.11986630091202449",
+        "Output Gap % Mean": "-0.007172599968342447",
+        "Output Gap % Stdev": "0.04130893158270491",
+        "Output Gap % Strength": "-2.728071064197271"
     },
     {
         "": "78",
@@ -1532,13 +1532,13 @@
         "Average Auto Demand": "15906974.917205844",
         "Auto Demand %": "0.09447969184198013",
         "Auto Workforce": "2536.59",
-        "Auto Workforce Change": "-0.031659646408916275",
+        "Auto Workforce Change": "-0.03166351368387321",
         "Auto Capex Change": "-0.01002684351807992",
-        "Auto Supply %": "-0.020843244963498098",
-        "Output Gap %": "0.11625307232265941",
-        "Output Gap % Mean": "0.006450299659139731",
-        "Output Gap % Stdev": "0.05638747809740864",
-        "Output Gap % Strength": "1.9472900077892614"
+        "Auto Supply %": "-0.020845178600976566",
+        "Output Gap %": "0.11642421984217893",
+        "Output Gap % Mean": "0.006467032980406369",
+        "Output Gap % Stdev": "0.05638144001755576",
+        "Output Gap % Strength": "1.9502372913415242"
     },
     {
         "": "79",
@@ -1546,7 +1546,7 @@
         "Auto Capex": "4054.0",
         "Retail: Changes in Inventory": "1052.0",
         "Manufacturing Workforce": "2556.0",
-        "Manufacturing Vacancy Ratio": "1.7333333333333334",
+        "Manufacturing Vacancy Ratio": "1.7666666666666666",
         "Total Retail Sales": "129750452.0",
         "Other Sales": "15698927.0",
         "Auto Imports": "15320",
@@ -1554,14 +1554,14 @@
         "Change in Retail Inventory %": "0.9918921284374408",
         "Average Auto Demand": "15571642.116214007",
         "Auto Demand %": "0.09188380444597843",
-        "Auto Workforce": "2511.696",
-        "Auto Workforce Change": "-0.04048499794410376",
+        "Auto Workforce": "2510.844",
+        "Auto Workforce Change": "-0.04048413845071386",
         "Auto Capex Change": "-0.025839381130871697",
-        "Auto Supply %": "-0.03316218953748773",
-        "Output Gap %": "0.11272704940947653",
-        "Output Gap % Mean": "0.0180579719975415",
-        "Output Gap % Stdev": "0.0653769043986819",
-        "Output Gap % Strength": "1.4480507800525915"
+        "Auto Supply %": "-0.03316175979079278",
+        "Output Gap %": "0.112728983046955",
+        "Output Gap % Mean": "0.018074898682555983",
+        "Output Gap % Stdev": "0.06536870627533066",
+        "Output Gap % Strength": "1.4480030240421065"
     },
     {
         "": "80",
@@ -1578,13 +1578,13 @@
         "Average Auto Demand": "11910387.004040146",
         "Auto Demand %": "0.13735776578007353",
         "Auto Workforce": "2483.723",
-        "Auto Workforce Change": "-0.03895402190487496",
+        "Auto Workforce Change": "-0.03895435690635696",
         "Auto Capex Change": "0.010478919361440742",
-        "Auto Supply %": "-0.014237551271717108",
-        "Output Gap %": "0.17051995531756126",
-        "Output Gap % Mean": "0.03472220031724536",
-        "Output Gap % Stdev": "0.08078357028859351",
-        "Output Gap % Strength": "1.6810070972994653"
+        "Auto Supply %": "-0.014237718772458108",
+        "Output Gap %": "0.1705195255708663",
+        "Output Gap % Mean": "0.03473908402759034",
+        "Output Gap % Stdev": "0.08077297549574083",
+        "Output Gap % Strength": "1.6810132437232757"
     },
     {
         "": "81",
@@ -1601,13 +1601,13 @@
         "Average Auto Demand": "16876814.86778429",
         "Auto Demand %": "0.053592932122997615",
         "Auto Workforce": "2479.552",
-        "Auto Workforce Change": "-0.0226303928555186",
+        "Auto Workforce Change": "-0.0226307278570006",
         "Auto Capex Change": "0.008668881147208873",
-        "Auto Supply %": "-0.006980755854154863",
-        "Output Gap %": "0.06783048339471473",
-        "Output Gap % Mean": "0.03968016703200185",
-        "Output Gap % Stdev": "0.08118080276139185",
-        "Output Gap % Strength": "0.3467607538379834"
+        "Auto Supply %": "-0.006980923354895863",
+        "Output Gap %": "0.06783065089545573",
+        "Output Gap % Mean": "0.03969706749242093",
+        "Output Gap % Stdev": "0.08116912039885578",
+        "Output Gap % Strength": "0.3466045124647105"
     },
     {
         "": "82",
@@ -1615,7 +1615,7 @@
         "Auto Capex": "4308.0",
         "Retail: Changes in Inventory": "423.0",
         "Manufacturing Workforce": "2537.0",
-        "Manufacturing Vacancy Ratio": "3.1666666666666665",
+        "Manufacturing Vacancy Ratio": "3.1333333333333333",
         "Total Retail Sales": "130696090.0",
         "Other Sales": "16597867.0",
         "Auto Imports": "12436",
@@ -1623,14 +1623,14 @@
         "Change in Retail Inventory %": "0.9967634838961135",
         "Average Auto Demand": "16544147.736164333",
         "Auto Demand %": "0.05404939137878343",
-        "Auto Workforce": "2456.661666666667",
-        "Auto Workforce Change": "-0.022048070785158247",
+        "Auto Workforce": "2457.5073333333335",
+        "Auto Workforce Change": "-0.02137146555107572",
         "Auto Capex Change": "0.02040160642570288",
-        "Auto Supply %": "-0.0008232321797276843",
-        "Output Gap %": "0.061030147232938294",
-        "Output Gap % Mean": "0.04398779647424191",
-        "Output Gap % Stdev": "0.081042606656876",
-        "Output Gap % Strength": "0.21028877847983726"
+        "Auto Supply %": "-0.0004849295626864203",
+        "Output Gap %": "0.06103031473367929",
+        "Output Gap % Mean": "0.0440047136847351",
+        "Output Gap % Stdev": "0.08102991001468264",
+        "Output Gap % Strength": "0.21011501858831075"
     },
     {
         "": "83",
@@ -1647,13 +1647,13 @@
         "Average Auto Demand": "16919003.46964061",
         "Auto Demand %": "0.13997644337507079",
         "Auto Workforce": "2453.433",
-        "Auto Workforce Change": "-0.01222522419800931",
+        "Auto Workforce Change": "-0.012227831333217143",
         "Auto Capex Change": "0.012358312342569233",
-        "Auto Supply %": "6.654407227996151e-05",
-        "Output Gap %": "0.14079967555479847",
-        "Output Gap % Mean": "0.05809110051673868",
-        "Output Gap % Stdev": "0.08468184497477006",
-        "Output Gap % Strength": "0.976697839574726"
+        "Auto Supply %": "6.524050467604514e-05",
+        "Output Gap %": "0.1404613729377572",
+        "Output Gap % Mean": "0.05807418746552774",
+        "Output Gap % Stdev": "0.08462991029458644",
+        "Output Gap % Strength": "0.9734996195251735"
     },
     {
         "": "84",
@@ -1661,7 +1661,7 @@
         "Auto Capex": "4243.0",
         "Retail: Changes in Inventory": "3372.0",
         "Manufacturing Workforce": "2612.0",
-        "Manufacturing Vacancy Ratio": "3.9333333333333336",
+        "Manufacturing Vacancy Ratio": "3.8666666666666667",
         "Total Retail Sales": "127082289.0",
         "Other Sales": "16868092.0",
         "Auto Imports": "13921",
@@ -1669,14 +1669,14 @@
         "Change in Retail Inventory %": "0.9734660114597086",
         "Average Auto Demand": "16420514.240175419",
         "Auto Demand %": "-0.008838952065535977",
-        "Auto Workforce": "2509.2613333333334",
-        "Auto Workforce Change": "0.012209299309391408",
+        "Auto Workforce": "2511.0026666666668",
+        "Auto Workforce Change": "0.012916445949132327",
         "Auto Capex Change": "0.0010885623201928318",
-        "Auto Supply %": "0.00664893081479212",
-        "Output Gap %": "-0.008905496137815938",
-        "Output Gap % Mean": "0.05676043517496654",
-        "Output Gap % Stdev": "0.08571746941809578",
-        "Output Gap % Strength": "-0.7660740775312689"
+        "Auto Supply %": "0.007002504134662579",
+        "Output Gap %": "-0.008904192570212022",
+        "Output Gap % Mean": "0.056743652480515994",
+        "Output Gap % Stdev": "0.08566575968240338",
+        "Output Gap % Strength": "-0.7663253707678583"
     },
     {
         "": "85",
@@ -1684,7 +1684,7 @@
         "Auto Capex": "4482.0",
         "Retail: Changes in Inventory": "2539.0",
         "Manufacturing Workforce": "2612.0",
-        "Manufacturing Vacancy Ratio": "3.9",
+        "Manufacturing Vacancy Ratio": "3.8666666666666667",
         "Total Retail Sales": "124135053.0",
         "Other Sales": "16143115.0",
         "Auto Imports": "13656",
@@ -1692,14 +1692,14 @@
         "Change in Retail Inventory %": "0.9795464702464017",
         "Average Auto Demand": "15812931.317031741",
         "Auto Demand %": "-0.014602274530333284",
-        "Auto Workforce": "2510.132",
-        "Auto Workforce Change": "0.021787921341918648",
+        "Auto Workforce": "2511.0026666666668",
+        "Auto Workforce Change": "0.021807030484833456",
         "Auto Capex Change": "0.013514563106796107",
-        "Auto Supply %": "0.017651242224357377",
-        "Output Gap %": "-0.021251205345125403",
-        "Output Gap % Mean": "0.05367077578179143",
-        "Output Gap % Stdev": "0.08812736336369831",
-        "Output Gap % Strength": "-0.850155709500994"
+        "Auto Supply %": "0.01766079679581478",
+        "Output Gap %": "-0.021604778664995862",
+        "Output Gap % Mean": "0.05363572067055329",
+        "Output Gap % Stdev": "0.08810039516315349",
+        "Output Gap % Strength": "-0.8540313490786389"
     },
     {
         "": "86",
@@ -1707,7 +1707,7 @@
         "Auto Capex": "4586.0",
         "Retail: Changes in Inventory": "-1554.0",
         "Manufacturing Workforce": "2617.0",
-        "Manufacturing Vacancy Ratio": "3.6666666666666665",
+        "Manufacturing Vacancy Ratio": "3.6999999999999997",
         "Total Retail Sales": "122132839.0",
         "Other Sales": "15734142.0",
         "Auto Imports": "13660",
@@ -1715,14 +1715,14 @@
         "Change in Retail Inventory %": "1.0127238506262841",
         "Average Auto Demand": "15934340.872540744",
         "Auto Demand %": "-0.019595621237198452",
-        "Auto Workforce": "2521.0433333333335",
-        "Auto Workforce Change": "0.02744908711541938",
+        "Auto Workforce": "2520.171",
+        "Auto Workforce Change": "0.027116207353392152",
         "Auto Capex Change": "0.02007816690934172",
-        "Auto Supply %": "0.02376362701238055",
-        "Output Gap %": "-0.037246863461555826",
-        "Output Gap % Mean": "0.048172184726053204",
-        "Output Gap % Stdev": "0.09223790045563642",
-        "Output Gap % Strength": "-0.9260732059777635"
+        "Auto Supply %": "0.023597187131366937",
+        "Output Gap %": "-0.03725641803301323",
+        "Output Gap % Mean": "0.04813633768466469",
+        "Output Gap % Stdev": "0.09221073498549076",
+        "Output Gap % Strength": "-0.926060894440483"
     },
     {
         "": "87",
@@ -1730,7 +1730,7 @@
         "Auto Capex": "4440.0",
         "Retail: Changes in Inventory": "-1071.0",
         "Manufacturing Workforce": "2621.0",
-        "Manufacturing Vacancy Ratio": "3.3666666666666667",
+        "Manufacturing Vacancy Ratio": "3.4",
         "Total Retail Sales": "120947689.0",
         "Other Sales": "15487842.0",
         "Auto Imports": "14267",
@@ -1738,14 +1738,14 @@
         "Change in Retail Inventory %": "1.0088550679128727",
         "Average Auto Demand": "15624987.892733842",
         "Auto Demand %": "-0.01624594045723471",
-        "Auto Workforce": "2532.759666666667",
-        "Auto Workforce Change": "0.009341311910945338",
+        "Auto Workforce": "2531.886",
+        "Auto Workforce Change": "0.008299757967872301",
         "Auto Capex Change": "0.014799789647659933",
-        "Auto Supply %": "0.012070550779302636",
-        "Output Gap %": "-0.04000956746961526",
-        "Output Gap % Mean": "0.05617472508180362",
-        "Output Gap % Stdev": "0.07846615701933546",
-        "Output Gap % Strength": "-1.225806082585609"
+        "Auto Supply %": "0.011549773807766117",
+        "Output Gap %": "-0.039843127588601646",
+        "Output Gap % Mean": "0.05613865501700697",
+        "Output Gap % Stdev": "0.07845770674313415",
+        "Output Gap % Strength": "-1.223356972691634"
     },
     {
         "": "88",
@@ -1753,7 +1753,7 @@
         "Auto Capex": "4544.0",
         "Retail: Changes in Inventory": "-894.0",
         "Manufacturing Workforce": "2613.0",
-        "Manufacturing Vacancy Ratio": "3.233333333333333",
+        "Manufacturing Vacancy Ratio": "3.266666666666667",
         "Total Retail Sales": "120700965.0",
         "Other Sales": "15208073.0",
         "Auto Imports": "15842",
@@ -1761,14 +1761,14 @@
         "Change in Retail Inventory %": "1.0074067344863398",
         "Average Auto Demand": "15320715.158759873",
         "Auto Demand %": "-0.010403278722281861",
-        "Auto Workforce": "2528.513",
-        "Auto Workforce Change": "0.007317635175182247",
+        "Auto Workforce": "2527.6420000000003",
+        "Auto Workforce Change": "0.006623537158562676",
         "Auto Capex Change": "0.004589872668048667",
-        "Auto Supply %": "0.005953753921615457",
-        "Output Gap %": "-0.022473829501584497",
-        "Output Gap % Mean": "0.04230203489937924",
-        "Output Gap % Stdev": "0.07892620475857676",
-        "Output Gap % Strength": "-0.8207142938027141"
+        "Auto Supply %": "0.005606704913305671",
+        "Output Gap %": "-0.02195305253004798",
+        "Output Gap % Mean": "0.04230092777978428",
+        "Output Gap % Stdev": "0.07884559047554189",
+        "Output Gap % Strength": "-0.8149343536182155"
     },
     {
         "": "89",
@@ -1785,13 +1785,13 @@
         "Average Auto Demand": "15257900.74350107",
         "Auto Demand %": "-0.014329222552183421",
         "Auto Workforce": "2498.72",
-        "Auto Workforce Change": "-0.008812095618812243",
+        "Auto Workforce Change": "-0.008470011662860877",
         "Auto Capex Change": "0.007590272660280117",
-        "Auto Supply %": "-0.000610911479266063",
-        "Output Gap %": "-0.020282976473798876",
-        "Output Gap % Mean": "0.029001032311051694",
-        "Output Gap % Stdev": "0.07692142199790751",
-        "Output Gap % Strength": "-0.6407058983671836"
+        "Auto Supply %": "-0.0004398695012903797",
+        "Output Gap %": "-0.01993592746548909",
+        "Output Gap % Mean": "0.02903443672853987",
+        "Output Gap % Stdev": "0.07681359946932843",
+        "Output Gap % Strength": "-0.637522060316712"
     },
     {
         "": "90",
@@ -1799,7 +1799,7 @@
         "Auto Capex": "4543.0",
         "Retail: Changes in Inventory": "-564.0",
         "Manufacturing Workforce": "2599.0",
-        "Manufacturing Vacancy Ratio": "2.9",
+        "Manufacturing Vacancy Ratio": "2.9333333333333336",
         "Total Retail Sales": "119593375.0",
         "Other Sales": "14986642.0",
         "Auto Imports": "16931",
@@ -1807,14 +1807,14 @@
         "Change in Retail Inventory %": "1.0047159802957313",
         "Average Auto Demand": "15057318.70837118",
         "Auto Demand %": "-0.012239848635067477",
-        "Auto Workforce": "2523.629",
-        "Auto Workforce Change": "-0.003490806138755298",
+        "Auto Workforce": "2522.7626666666665",
+        "Auto Workforce Change": "-0.0034965126259951518",
         "Auto Capex Change": "0.007533094419659214",
-        "Auto Supply %": "0.002021144140451958",
-        "Output Gap %": "-0.011628937155801414",
-        "Output Gap % Mean": "0.010786143063715427",
-        "Output Gap % Stdev": "0.05921478175689401",
-        "Output Gap % Strength": "-0.3785385938183787"
+        "Auto Supply %": "0.0020182908968320312",
+        "Output Gap %": "-0.011799979133777097",
+        "Output Gap % Mean": "0.01080248625807553",
+        "Output Gap % Stdev": "0.05909346696870299",
+        "Output Gap % Strength": "-0.3824867037133448"
     },
     {
         "": "91",
@@ -1822,7 +1822,7 @@
         "Auto Capex": "4613.0",
         "Retail: Changes in Inventory": "1265.0",
         "Manufacturing Workforce": "2599.0",
-        "Manufacturing Vacancy Ratio": "2.733333333333333",
+        "Manufacturing Vacancy Ratio": "2.8000000000000003",
         "Total Retail Sales": "118742560.0",
         "Other Sales": "15058320.0",
         "Auto Imports": "17686",
@@ -1830,14 +1830,14 @@
         "Change in Retail Inventory %": "0.989346700963833",
         "Average Auto Demand": "14897899.214057706",
         "Auto Demand %": "-0.009277861546835742",
-        "Auto Workforce": "2527.960666666667",
-        "Auto Workforce Change": "-9.766713699610463e-05",
+        "Auto Workforce": "2526.228",
+        "Auto Workforce Change": "-0.0004466654430591577",
         "Auto Capex Change": "0.0050087108013936454",
-        "Auto Supply %": "0.0024555218321987704",
-        "Output Gap %": "-0.0112990056872877",
-        "Output Gap % Mean": "0.0028731941555151844",
-        "Output Gap % Stdev": "0.05594150003348386",
-        "Output Gap % Strength": "-0.2533396464935709"
+        "Auto Supply %": "0.002281022679167244",
+        "Output Gap %": "-0.011296152443667773",
+        "Output Gap % Mean": "0.0028898059241631796",
+        "Output Gap % Stdev": "0.05581554315115492",
+        "Output Gap % Strength": "-0.2541578486374977"
     },
     {
         "": "92",
@@ -1845,7 +1845,7 @@
         "Auto Capex": "4720.0",
         "Retail: Changes in Inventory": "-39.0",
         "Manufacturing Workforce": "2579.0",
-        "Manufacturing Vacancy Ratio": "2.6999999999999997",
+        "Manufacturing Vacancy Ratio": "2.766666666666667",
         "Total Retail Sales": "120560238.0",
         "Other Sales": "16206346.0",
         "Auto Imports": "16369",
@@ -1853,14 +1853,14 @@
         "Change in Retail Inventory %": "1.0003234897396271",
         "Average Auto Demand": "16211588.586647848",
         "Auto Demand %": "0.021481962080812433",
-        "Auto Workforce": "2509.3669999999997",
-        "Auto Workforce Change": "0.004329943402848424",
+        "Auto Workforce": "2507.6476666666667",
+        "Auto Workforce Change": "0.0036406486377588143",
         "Auto Capex Change": "0.002239075478512209",
-        "Auto Supply %": "0.0032845094406803166",
-        "Output Gap %": "0.019026440248613663",
-        "Output Gap % Mean": "-0.0013271765429172786",
-        "Output Gap % Stdev": "0.05256459292254793",
-        "Output Gap % Strength": "0.38721153650940054"
+        "Auto Supply %": "0.0029398620581355117",
+        "Output Gap %": "0.01920093940164519",
+        "Output Gap % Mean": "-0.0012931316090402309",
+        "Output Gap % Stdev": "0.05243952957873364",
+        "Output Gap % Strength": "0.39081340308202533"
     },
     {
         "": "93",
@@ -1868,7 +1868,7 @@
         "Auto Capex": "4703.0",
         "Retail: Changes in Inventory": "-680.0",
         "Manufacturing Workforce": "2572.0",
-        "Manufacturing Vacancy Ratio": "2.533333333333333",
+        "Manufacturing Vacancy Ratio": "2.6333333333333333",
         "Total Retail Sales": "119943469.0",
         "Other Sales": "16100731.0",
         "Auto Imports": "15922",
@@ -1876,14 +1876,14 @@
         "Change in Retail Inventory %": "1.0056693374442922",
         "Average Auto Demand": "16192011.477138776",
         "Auto Demand %": "0.025461465374134296",
-        "Auto Workforce": "2506.842666666667",
-        "Auto Workforce Change": "-0.006644724760305976",
+        "Auto Workforce": "2504.270666666667",
+        "Auto Workforce Change": "-0.007328024904221242",
         "Auto Capex Change": "0.011530700490054668",
-        "Auto Supply %": "0.0024429878648743464",
-        "Output Gap %": "0.02217695593345398",
-        "Output Gap % Mean": "-0.013189448505051726",
-        "Output Gap % Stdev": "0.020582071640799435",
-        "Output Gap % Strength": "1.7183112106363279"
+        "Auto Supply %": "0.002101337792916713",
+        "Output Gap %": "0.022521603315998784",
+        "Output Gap % Mean": "-0.013087108571216071",
+        "Output Gap % Stdev": "0.0206315870999043",
+        "Output Gap % Strength": "1.725931781921907"
     },
     {
         "": "94",
@@ -1891,7 +1891,7 @@
         "Auto Capex": "4591.0",
         "Retail: Changes in Inventory": "-2732.0",
         "Manufacturing Workforce": "2580.0",
-        "Manufacturing Vacancy Ratio": "2.466666666666667",
+        "Manufacturing Vacancy Ratio": "2.533333333333333",
         "Total Retail Sales": "121560744.0",
         "Other Sales": "16583577.0",
         "Auto Imports": "16507",
@@ -1899,14 +1899,14 @@
         "Change in Retail Inventory %": "1.0224743606373452",
         "Average Auto Demand": "16956282.290155184",
         "Auto Demand %": "0.04472413034783477",
-        "Auto Workforce": "2516.36",
-        "Auto Workforce Change": "-0.004564626344386702",
+        "Auto Workforce": "2514.64",
+        "Auto Workforce Change": "-0.004560991295939565",
         "Auto Capex Change": "-0.0015673981191222097",
-        "Auto Supply %": "-0.003066012231754456",
-        "Output Gap %": "0.04228114248296042",
-        "Output Gap % Mean": "-0.008070784642974093",
-        "Output Gap % Stdev": "0.027099040730435456",
-        "Output Gap % Strength": "1.858070461858943"
+        "Auto Supply %": "-0.0030641947075308873",
+        "Output Gap %": "0.042622792554918056",
+        "Output Gap % Mean": "-0.007934410058703068",
+        "Output Gap % Stdev": "0.027185688134163707",
+        "Output Gap % Strength": "1.859699205115463"
     },
     {
         "": "95",
@@ -1914,7 +1914,7 @@
         "Auto Capex": "4695.0",
         "Retail: Changes in Inventory": "528.0",
         "Manufacturing Workforce": "2602.0",
-        "Manufacturing Vacancy Ratio": "2.3",
+        "Manufacturing Vacancy Ratio": "2.3333333333333335",
         "Total Retail Sales": "120624585.0",
         "Other Sales": "17013861.0",
         "Auto Imports": "16276",
@@ -1922,13 +1922,13 @@
         "Change in Retail Inventory %": "0.9956227828680199",
         "Average Auto Demand": "16939387.63614967",
         "Auto Demand %": "0.014998840320782284",
-        "Auto Workforce": "2542.154",
-        "Auto Workforce Change": "0.013041098351446623",
+        "Auto Workforce": "2541.286666666667",
+        "Auto Workforce Change": "0.013390592468591311",
         "Auto Capex Change": "-0.0017839303553589536",
-        "Auto Supply %": "0.005628583998043835",
-        "Output Gap %": "0.018064852552536738",
-        "Output Gap % Mean": "-0.004139178853207879",
-        "Output Gap % Stdev": "0.027816851162672834",
-        "Output Gap % Strength": "0.7982223176841812"
+        "Auto Supply %": "0.005803331056616179",
+        "Output Gap %": "0.01806303502831317",
+        "Output Gap % Mean": "-0.0039676286893721635",
+        "Output Gap % Stdev": "0.027855159870802886",
+        "Output Gap % Strength": "0.7909006381534844"
     }
 ]
