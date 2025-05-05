@@ -2594,19 +2594,28 @@
     {
         "": "288",
         "Date": "2025-01-31",
-        "Inventory/Sold": "9.0",
-        "Output Gap %": "0.02575222193750611",
-        "Output Gap % Mean": "0.005375259986375119",
-        "Output Gap % Stdev": "0.015563991687586919",
-        "Output Gap Z-score": "1.309237524675798"
+        "Inventory/Sold": "9.1",
+        "Output Gap %": "0.027784742262709366",
+        "Output Gap % Mean": "0.00560109557806437",
+        "Output Gap % Stdev": "0.01590757681152064",
+        "Output Gap Z-score": "1.3945333690659334"
     },
     {
         "": "289",
         "Date": "2025-02-28",
         "Inventory/Sold": "8.9",
-        "Output Gap %": "0.017571256161603672",
-        "Output Gap % Mean": "0.007941932214084",
-        "Output Gap % Stdev": "0.015445292053347362",
-        "Output Gap Z-score": "0.6234471911738806"
+        "Output Gap %": "0.017792624675655122",
+        "Output Gap % Mean": "0.008192364307334523",
+        "Output Gap % Stdev": "0.015766796122252305",
+        "Output Gap Z-score": "0.6088910070176763"
+    },
+    {
+        "": "290",
+        "Date": "2025-03-31",
+        "Inventory/Sold": "8.3",
+        "Output Gap %": "0.014686750920288353",
+        "Output Gap % Mean": "0.00917590969004877",
+        "Output Gap % Stdev": "0.015877058033130977",
+        "Output Gap Z-score": "0.3470946077503779"
     }
 ]
