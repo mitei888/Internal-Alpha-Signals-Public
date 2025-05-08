@@ -58661,7 +58661,52 @@
         "Exports % Strength": "-0.43263603071590945",
         "Brazil": "27.12",
         "Brazil %": "0.008928571428571397",
-        "Exports Signal Return": "-0.003908400719963038",
-        "Exports Signal Cum Returns": "0.3028098589271561"
+        "Exports Signal Return": "-0.006540588959938173",
+        "Exports Signal Cum Returns": "0.3020096789535546"
+    },
+    {
+        "": "3911",
+        "Date": "2025-05-05",
+        "US Exports": "3368.0",
+        "China Exports": "10074.974",
+        "Exports": "13442.974",
+        "Exports %": "-0.041152080507146804",
+        "Exports % Mean": "-0.003530569399141731",
+        "Exports % Stdev": "0.08695880240429917",
+        "Exports % Strength": "-0.43263603071590945",
+        "Brazil": "26.71",
+        "Brazil %": "-0.015117994100295018",
+        "Exports Signal Return": "-0.0016197530165327993",
+        "Exports Signal Cum Returns": "0.3015204978650474"
+    },
+    {
+        "": "3912",
+        "Date": "2025-05-06",
+        "US Exports": "3368.0",
+        "China Exports": "10074.974",
+        "Exports": "13442.974",
+        "Exports %": "-0.041152080507146804",
+        "Exports % Mean": "-0.003530569399141731",
+        "Exports % Stdev": "0.08695880240429917",
+        "Exports % Strength": "-0.43263603071590945",
+        "Brazil": "26.61",
+        "Brazil %": "-0.003743916136278558",
+        "Exports Signal Return": "-0.003414264053000408",
+        "Exports Signal Cum Returns": "0.300491027267944"
+    },
+    {
+        "": "3913",
+        "Date": "2025-05-07",
+        "US Exports": "3368.0",
+        "China Exports": "10074.974",
+        "Exports": "13442.974",
+        "Exports %": "-0.041152080507146804",
+        "Exports % Mean": "-0.003530569399141731",
+        "Exports % Stdev": "0.08695880240429917",
+        "Exports % Strength": "-0.43263603071590945",
+        "Brazil": "26.4",
+        "Brazil %": "-0.007891770011273946",
+        "Exports Signal Return": "0.0172890535002002",
+        "Exports Signal Cum Returns": "0.3056862327147096"
     }
 ]
