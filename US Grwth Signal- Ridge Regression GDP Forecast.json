@@ -1999,5 +1999,28 @@
         "Housing Cost QoQ %": "0.01016712731520553",
         "Ann. Nominal GDP F/C": "0.04856816973712652",
         "Actual Nom GDP Ann Return": "0.03459017927382013"
+    },
+    {
+        "": "87",
+        "Date": "2025-06-30",
+        "Motor Vehicle and Parts Dealers QoQ %": "0.01198178943670225",
+        "Building M and Garden Equip QoQ %": "0.004005740313221429",
+        "Grocery Stores QoQ %": "-0.005549053899459588",
+        "Health and Personal Care QoQ %": "0.01562826951245033",
+        "Gas Stations QoQ %": "-0.04957990341086294",
+        "Clothing and Access Stores QoQ %": "-0.002906365322472682",
+        "Gen Merchandise Stores QoQ %": "-0.005179734854623863",
+        "Nonstore Retail QoQ %": "0.01547583729237867",
+        "Residential QoQ %": "-0.02597876647428721",
+        "Nonresidential QoQ %": "-0.002744519153690672",
+        "Business Inventories QoQ %": "0.0276036005369086",
+        "Balance-Services QoQ %": "0.02495132901585273",
+        "Exports-Total QoQ %": "0.06973597628148731",
+        "Imports-Services QoQ %": "0.01904708785922438",
+        "IP QoQ %": "0.002328271830810413",
+        "Job Openings QoQ %": "-0.0126291618828932",
+        "Housing Cost QoQ %": "0.01011237051530389",
+        "Ann. Nominal GDP F/C": "0.04948896965851768",
+        "Actual Nom GDP Ann Return": ""
     }
 ]

@@ -1922,21 +1922,21 @@
     {
         "": "96",
         "Date": "2025-03-31",
-        "Food Manufacturing": "8375.0",
-        "Food Consumption": "",
-        "Food Capex": "",
+        "Food Manufacturing": "8383.0",
+        "Food Consumption": "30930.0",
+        "Food Capex": "1351.0",
         "Manufacturing Workforce": "2590.0",
         "Manufacturing Vacancy Ratio": "2.3000000000000003",
         "Food Imports": "12656",
         "Food Exports": "4377",
-        "Food Demand": "",
-        "Food Demand %": "-0.010999245303250527",
+        "Food Demand": "22651.0",
+        "Food Demand %": "-0.007337267163132266",
         "Food Manu Workforce": "2530.43",
         "Food Manu Workforce %": "0.002183619527354047",
-        "Food Supply %": "0.036617439687608444",
-        "Output Gap %": "-0.04761668499085897",
-        "Output Gap % Mean": "-0.017004209119405606",
-        "Output Gap % Stdev": "0.01829137052899848",
-        "Output Gap % Strength": "-1.6736020859082945"
+        "Food Supply %": "0.03156693463710339",
+        "Output Gap %": "-0.038904201800235655",
+        "Output Gap % Mean": "-0.01627816885352033",
+        "Output Gap % Stdev": "0.017099912229833522",
+        "Output Gap % Strength": "-1.3231666129397206"
     }
 ]

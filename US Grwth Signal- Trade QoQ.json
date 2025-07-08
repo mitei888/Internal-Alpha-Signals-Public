@@ -1103,5 +1103,18 @@
         "Imports-Total QoQ %": "0.18027023767147266",
         "Imports-Goods QoQ %": "0.22359519689892537",
         "Imports-Services QoQ %": "0.01498647251299623"
+    },
+    {
+        "": "98",
+        "Date": "2025-06-30",
+        "Balance-Total QoQ %": "-0.5283883905336313",
+        "Balance-Goods QoQ %": "-0.4390065460146323",
+        "Balance-Services QoQ %": "0.02495132901585273",
+        "Exports-Total QoQ %": "0.06973597628148731",
+        "Exports-Goods QoQ %": "0.09716622508927553",
+        "Exports-Services QoQ %": "0.02058088887971432",
+        "Imports-Total QoQ %": "-0.12506543556404215",
+        "Imports-Goods QoQ %": "-0.15643516270033997",
+        "Imports-Services QoQ %": "0.019047087859224376"
     }
 ]
