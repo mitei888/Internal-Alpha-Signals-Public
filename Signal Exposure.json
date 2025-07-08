@@ -1,1370 +1,5132 @@
 [
     {
         "Date": "2025-01-02",
-        "EWZ Relative Portfolio Exposure": "-0.0038895860553688952",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.09919615795715771",
-        "KRE Relative Portfolio Exposure": "0.08357993504150127",
-        "SOXX Relative Portfolio Exposure": "0.20613944803363166",
-        "SPY Relative Portfolio Exposure": "-0.23360374971254444",
-        "TIP Relative Portfolio Exposure": "-0.10098247360791836",
-        "TLT Relative Portfolio Exposure": "0.2726086495918777"
+        "Exposure": "-0.0038895860553688952",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-07",
-        "EWZ Relative Portfolio Exposure": "-0.003924243351501568",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.09796595659227708",
-        "KRE Relative Portfolio Exposure": "0.08280136424564263",
-        "SOXX Relative Portfolio Exposure": "0.21611466154935333",
-        "SPY Relative Portfolio Exposure": "-0.23360106946711948",
-        "TIP Relative Portfolio Exposure": "-0.09983159165912475",
-        "TLT Relative Portfolio Exposure": "0.005858748718697042"
+        "Exposure": "-0.003924243351501568",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-09",
-        "EWZ Relative Portfolio Exposure": "-0.005355748104943162",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.13347694932841844",
-        "KRE Relative Portfolio Exposure": "0.11249201613069382",
-        "SOXX Relative Portfolio Exposure": "0.2867754345940823",
-        "SPY Relative Portfolio Exposure": "-0.3167224366862775",
-        "TIP Relative Portfolio Exposure": "-0.13712798915130298",
-        "TLT Relative Portfolio Exposure": "0.008049426004281789"
+        "Exposure": "-0.005355748104943162",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-14",
-        "EWZ Relative Portfolio Exposure": "-0.0032721700644373526",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.036279468008294666",
-        "KRE Relative Portfolio Exposure": "0.06863979478327112",
-        "SOXX Relative Portfolio Exposure": "0.17362163065150774",
-        "SPY Relative Portfolio Exposure": "-0.19294049400869967",
-        "TIP Relative Portfolio Exposure": "0.3858258777847351",
-        "TLT Relative Portfolio Exposure": "0.13942056469905437"
+        "Exposure": "-0.0032721700644373526",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-15",
-        "EWZ Relative Portfolio Exposure": "0.008183217443092607",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.035957077133047244",
-        "KRE Relative Portfolio Exposure": "0.07102748669471283",
-        "SOXX Relative Portfolio Exposure": "0.1734117857175503",
-        "SPY Relative Portfolio Exposure": "-0.1916179327637379",
-        "TIP Relative Portfolio Exposure": "0.3806405522792841",
-        "TLT Relative Portfolio Exposure": "0.13916194796857498"
+        "Exposure": "0.008183217443092607",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-21",
-        "EWZ Relative Portfolio Exposure": "0.08593630510482315",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.04406264445667865",
-        "KRE Relative Portfolio Exposure": "0.0",
-        "SOXX Relative Portfolio Exposure": "0.1502717282519027",
-        "SPY Relative Portfolio Exposure": "-0.23623284012907733",
-        "TIP Relative Portfolio Exposure": "0.31192377717154207",
-        "TLT Relative Portfolio Exposure": "-0.0840884571864193"
+        "Exposure": "0.08593630510482315",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-23",
-        "EWZ Relative Portfolio Exposure": "0.0959564209524395",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0479915285729054",
-        "KRE Relative Portfolio Exposure": "0.0",
-        "SOXX Relative Portfolio Exposure": "0.16613832007577348",
-        "SPY Relative Portfolio Exposure": "-0.2595715670743122",
-        "TIP Relative Portfolio Exposure": "0.33909215284704586",
-        "TLT Relative Portfolio Exposure": "-0.09125001047752362"
+        "Exposure": "0.0959564209524395",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-28",
-        "EWZ Relative Portfolio Exposure": "0.003534688278095721",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "0.020040011343510633",
-        "SOXX Relative Portfolio Exposure": "0.23051593228118744",
-        "SPY Relative Portfolio Exposure": "-0.31029709753215695",
-        "TIP Relative Portfolio Exposure": "0.2960787910404581",
-        "TLT Relative Portfolio Exposure": "-0.06535052563893812"
+        "Exposure": "0.003534688278095721",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-29",
-        "EWZ Relative Portfolio Exposure": "0.003526781919187827",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "0.02008494172808035",
-        "SOXX Relative Portfolio Exposure": "0.17158936539605904",
-        "SPY Relative Portfolio Exposure": "-0.30962994321433235",
-        "TIP Relative Portfolio Exposure": "0.2957230744478188",
-        "TLT Relative Portfolio Exposure": "-0.13865704434964635"
+        "Exposure": "0.003526781919187827",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-01-31",
-        "EWZ Relative Portfolio Exposure": "0.04190732494984587",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "0.20512355042325192",
-        "SOXX Relative Portfolio Exposure": "0.1519293438371581",
-        "SPY Relative Portfolio Exposure": "-0.2679030679649655",
-        "TIP Relative Portfolio Exposure": "0.2139761217399814",
-        "TLT Relative Portfolio Exposure": "-0.11916083573910065"
+        "Exposure": "0.04190732494984587",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-01",
-        "EWZ Relative Portfolio Exposure": "0.042022819437083705",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "0.2057790752413746",
-        "SOXX Relative Portfolio Exposure": "0.15060315279706374",
-        "SPY Relative Portfolio Exposure": "-0.2662182127175776",
-        "TIP Relative Portfolio Exposure": "0.2160819691707648",
-        "TLT Relative Portfolio Exposure": "-0.11929452390751033"
+        "Exposure": "0.042022819437083705",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-04",
-        "EWZ Relative Portfolio Exposure": "0.049183211709826334",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "0.23705795032977434",
-        "SOXX Relative Portfolio Exposure": "0.17519446618098145",
-        "SPY Relative Portfolio Exposure": "-0.31220744137706524",
-        "TIP Relative Portfolio Exposure": "0.2534483102261669",
-        "TLT Relative Portfolio Exposure": "-0.13940991584710535"
+        "Exposure": "0.049183211709826334",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-07",
-        "EWZ Relative Portfolio Exposure": "0.10801594552422528",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "-0.00288820688087956",
-        "SOXX Relative Portfolio Exposure": "0.15513822101503236",
-        "SPY Relative Portfolio Exposure": "-0.18662141391245007",
-        "TIP Relative Portfolio Exposure": "0.30618226743488997",
-        "TLT Relative Portfolio Exposure": "-0.24146500658750517"
+        "Exposure": "0.10801594552422528",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-10",
-        "EWZ Relative Portfolio Exposure": "0.10671683454390823",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.16838464414397938",
-        "KRE Relative Portfolio Exposure": "0.0464065275770374",
-        "SOXX Relative Portfolio Exposure": "0.1540145654469366",
-        "SPY Relative Portfolio Exposure": "-0.1851517071614068",
-        "TIP Relative Portfolio Exposure": "0.2688694070639636",
-        "TLT Relative Portfolio Exposure": "-0.23884095820674733"
+        "Exposure": "0.10671683454390823",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-11",
-        "EWZ Relative Portfolio Exposure": "0.09164029053257737",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.1442123695012494",
-        "KRE Relative Portfolio Exposure": "0.039529571020169366",
-        "SOXX Relative Portfolio Exposure": "0.13185645752142608",
-        "SPY Relative Portfolio Exposure": "-0.15870220973911417",
-        "TIP Relative Portfolio Exposure": "0.230028419216954",
-        "TLT Relative Portfolio Exposure": "-0.2040304947714159"
+        "Exposure": "0.09164029053257737",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-12",
-        "EWZ Relative Portfolio Exposure": "0.007418250843745643",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.10167090065178827",
-        "KRE Relative Portfolio Exposure": "0.040074905519262245",
-        "SOXX Relative Portfolio Exposure": "0.09293312176500924",
-        "SPY Relative Portfolio Exposure": "-0.13634199929935856",
-        "TIP Relative Portfolio Exposure": "0.24137922769927703",
-        "TLT Relative Portfolio Exposure": "0.30107022911720377"
+        "Exposure": "0.007418250843745643",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-13",
-        "EWZ Relative Portfolio Exposure": "0.039950495117761095",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.06620459352362254",
-        "KRE Relative Portfolio Exposure": "0.051485491160679575",
-        "SOXX Relative Portfolio Exposure": "0.12254940147418522",
-        "SPY Relative Portfolio Exposure": "-0.15648034143960557",
-        "TIP Relative Portfolio Exposure": "0.38243779660876737",
-        "TLT Relative Portfolio Exposure": "0.394974644345234"
+        "Exposure": "0.039950495117761095",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-14",
-        "EWZ Relative Portfolio Exposure": "0.025359715039402125",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.06624770927373186",
-        "KRE Relative Portfolio Exposure": "0.10281677159195628",
-        "SOXX Relative Portfolio Exposure": "0.12199768322763568",
-        "SPY Relative Portfolio Exposure": "-0.15696278660789545",
-        "TIP Relative Portfolio Exposure": "0.28818190353281187",
-        "TLT Relative Portfolio Exposure": "0.23432218102714822"
+        "Exposure": "0.025359715039402125",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-18",
-        "EWZ Relative Portfolio Exposure": "0.033135912914935554",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.10017463010725267",
-        "KRE Relative Portfolio Exposure": "0.1516523105959562",
-        "SOXX Relative Portfolio Exposure": "-0.046930309366739656",
-        "SPY Relative Portfolio Exposure": "-0.2226177931834023",
-        "TIP Relative Portfolio Exposure": "0.37613557158178584",
-        "TLT Relative Portfolio Exposure": "0.06935347224992784"
+        "Exposure": "0.033135912914935554",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-19",
-        "EWZ Relative Portfolio Exposure": "0.053553024439921125",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.0979451930705032",
-        "KRE Relative Portfolio Exposure": "0.14899729698488656",
-        "SOXX Relative Portfolio Exposure": "-0.04628833641195859",
-        "SPY Relative Portfolio Exposure": "-0.21777937344043327",
-        "TIP Relative Portfolio Exposure": "0.36793105920784536",
-        "TLT Relative Portfolio Exposure": "0.06750571644445193"
+        "Exposure": "0.053553024439921125",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-20",
-        "EWZ Relative Portfolio Exposure": "0.011955878006657901",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.08768912347335711",
-        "KRE Relative Portfolio Exposure": "0.1604277026908473",
-        "SOXX Relative Portfolio Exposure": "-0.04192669470833678",
-        "SPY Relative Portfolio Exposure": "-0.1938908535072254",
-        "TIP Relative Portfolio Exposure": "0.3910550581535383",
-        "TLT Relative Portfolio Exposure": "-0.06862028648259792"
+        "Exposure": "0.011955878006657901",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-21",
-        "EWZ Relative Portfolio Exposure": "0.012448227740252607",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.09171515113661774",
-        "KRE Relative Portfolio Exposure": "0.1683283215894674",
-        "SOXX Relative Portfolio Exposure": "-0.04405439669077103",
-        "SPY Relative Portfolio Exposure": "-0.20371463430798126",
-        "TIP Relative Portfolio Exposure": "0.40953758617187797",
-        "TLT Relative Portfolio Exposure": "-0.07171521788570363"
+        "Exposure": "0.012448227740252607",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-24",
-        "EWZ Relative Portfolio Exposure": "0.012813108183299051",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.09721264794668506",
-        "KRE Relative Portfolio Exposure": "0.20402707037239387",
-        "SOXX Relative Portfolio Exposure": "-0.04436398975797295",
-        "SPY Relative Portfolio Exposure": "-0.18058043188724707",
-        "TIP Relative Portfolio Exposure": "0.3842230485892036",
-        "TLT Relative Portfolio Exposure": "-0.07677970326319845"
+        "Exposure": "0.012813108183299051",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-25",
-        "EWZ Relative Portfolio Exposure": "0.01233889471426122",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.04931338251037042",
-        "KRE Relative Portfolio Exposure": "0.23272821820926023",
-        "SOXX Relative Portfolio Exposure": "-0.041939266042111956",
-        "SPY Relative Portfolio Exposure": "-0.1443285792929112",
-        "TIP Relative Portfolio Exposure": "0.21663970246941314",
-        "TLT Relative Portfolio Exposure": "-0.30271171285215354"
+        "Exposure": "0.01233889471426122",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-26",
-        "EWZ Relative Portfolio Exposure": "0.012199304570606986",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.049017684713557705",
-        "KRE Relative Portfolio Exposure": "0.2333020985633221",
-        "SOXX Relative Portfolio Exposure": "-0.04238910745125492",
-        "SPY Relative Portfolio Exposure": "-0.14560410111314886",
-        "TIP Relative Portfolio Exposure": "0.21572287831444054",
-        "TLT Relative Portfolio Exposure": "-0.3017648252736688"
+        "Exposure": "0.012199304570606986",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-27",
-        "EWZ Relative Portfolio Exposure": "0.049475877392895246",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.04908076845641346",
-        "KRE Relative Portfolio Exposure": "0.2042189152126934",
-        "SOXX Relative Portfolio Exposure": "-0.08355396222846315",
-        "SPY Relative Portfolio Exposure": "-0.14480023477416878",
-        "TIP Relative Portfolio Exposure": "0.1656349797911894",
-        "TLT Relative Portfolio Exposure": "-0.3032355058881225"
+        "Exposure": "0.049475877392895246",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-28",
-        "EWZ Relative Portfolio Exposure": "0.057221873413360415",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.05701221032494379",
-        "KRE Relative Portfolio Exposure": "0.23655691276202218",
-        "SOXX Relative Portfolio Exposure": "-0.09366613476463335",
-        "SPY Relative Portfolio Exposure": "-0.16629116196416913",
-        "TIP Relative Portfolio Exposure": "0.1925494804888663",
-        "TLT Relative Portfolio Exposure": "-0.35303637484586925"
+        "Exposure": "0.057221873413360415",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-02",
-        "EWZ Relative Portfolio Exposure": "0.055980098225869766",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.05698558658715829",
-        "KRE Relative Portfolio Exposure": "0.18399702253362155",
-        "SOXX Relative Portfolio Exposure": "-0.09442434378319658",
-        "SPY Relative Portfolio Exposure": "-0.16783573293121334",
-        "TIP Relative Portfolio Exposure": "0.1934089927058291",
-        "TLT Relative Portfolio Exposure": "-0.24736822323311136"
+        "Exposure": "0.055980098225869766",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-03",
-        "EWZ Relative Portfolio Exposure": "0.05660238441186707",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.05724123303447716",
-        "KRE Relative Portfolio Exposure": "0.1841999369646705",
-        "SOXX Relative Portfolio Exposure": "-0.09357093442654983",
-        "SPY Relative Portfolio Exposure": "-0.16758052791663705",
-        "TIP Relative Portfolio Exposure": "0.1935065681624012",
-        "TLT Relative Portfolio Exposure": "-0.2472984150833972"
+        "Exposure": "0.05660238441186707",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-04",
-        "EWZ Relative Portfolio Exposure": "0.02218538157174177",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "-0.06323176403376464",
-        "KRE Relative Portfolio Exposure": "0.19198298435435304",
-        "SOXX Relative Portfolio Exposure": "0.05582916072471",
-        "SPY Relative Portfolio Exposure": "-0.17934273704435394",
-        "TIP Relative Portfolio Exposure": "0.21382913705033485",
-        "TLT Relative Portfolio Exposure": "-0.2735988352207417"
+        "Exposure": "0.02218538157174177",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-05",
-        "EWZ Relative Portfolio Exposure": "0.017458948879373045",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.23288424764097548",
-        "KRE Relative Portfolio Exposure": "0.24596930739329598",
-        "SOXX Relative Portfolio Exposure": "0.04399851642767344",
-        "SPY Relative Portfolio Exposure": "-0.13919159758582322",
-        "TIP Relative Portfolio Exposure": "0.1643333317277356",
-        "TLT Relative Portfolio Exposure": "-0.15616405034512323"
+        "Exposure": "0.017458948879373045",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-06",
-        "EWZ Relative Portfolio Exposure": "-0.017633322541505077",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0888948151005559",
-        "IGIL Relative Portfolio Exposure": "0.23674843854709846",
-        "KRE Relative Portfolio Exposure": "0.2149021207418611",
-        "SOXX Relative Portfolio Exposure": "-0.06997951192726636",
-        "SPY Relative Portfolio Exposure": "-0.14232420554595004",
-        "TIP Relative Portfolio Exposure": "0.08598298958572172",
-        "TLT Relative Portfolio Exposure": "0.14353459601004132"
+        "Exposure": "-0.017633322541505077",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-07",
-        "EWZ Relative Portfolio Exposure": "-0.0189231513549893",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.1499647984762037",
-        "IGIL Relative Portfolio Exposure": "0.1313304599219023",
-        "KRE Relative Portfolio Exposure": "0.22777580242786707",
-        "SOXX Relative Portfolio Exposure": "-0.07379469272972246",
-        "SPY Relative Portfolio Exposure": "-0.15097262112464596",
-        "TIP Relative Portfolio Exposure": "0.09233100837714799",
-        "TLT Relative Portfolio Exposure": "0.15490772838351818"
+        "Exposure": "-0.0189231513549893",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-09",
-        "EWZ Relative Portfolio Exposure": "-0.019981942892666592",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.15163232870473362",
-        "IGIL Relative Portfolio Exposure": "0.13839672944175613",
-        "KRE Relative Portfolio Exposure": "0.10237005767026748",
-        "SOXX Relative Portfolio Exposure": "-0.07874095586314388",
-        "SPY Relative Portfolio Exposure": "-0.15929482535607936",
-        "TIP Relative Portfolio Exposure": "0.09703132622776833",
-        "TLT Relative Portfolio Exposure": "0.2525518338435847"
+        "Exposure": "-0.019981942892666592",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-10",
-        "EWZ Relative Portfolio Exposure": "-0.019956516274907337",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.1425721300980422",
-        "IGIL Relative Portfolio Exposure": "0.14066813561771432",
-        "KRE Relative Portfolio Exposure": "0.10170232064088026",
-        "SOXX Relative Portfolio Exposure": "-0.07771738840109729",
-        "SPY Relative Portfolio Exposure": "-0.15912721027977078",
-        "TIP Relative Portfolio Exposure": "0.09897622340501804",
-        "TLT Relative Portfolio Exposure": "0.25928035643946284"
+        "Exposure": "-0.019956516274907337",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-11",
-        "EWZ Relative Portfolio Exposure": "-0.10065694308742713",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.24441373428671748",
-        "KRE Relative Portfolio Exposure": "0.04308028750184604",
-        "SOXX Relative Portfolio Exposure": "-0.13141111218694468",
-        "SPY Relative Portfolio Exposure": "-0.27284214685519187",
-        "TIP Relative Portfolio Exposure": "0.06985680655436921",
-        "TLT Relative Portfolio Exposure": "0.1377389695275037"
+        "Exposure": "-0.10065694308742713",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-12",
-        "EWZ Relative Portfolio Exposure": "-0.07097941994677857",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.04769744520636351",
-        "IGIL Relative Portfolio Exposure": "0.25147230865136666",
-        "KRE Relative Portfolio Exposure": "0.030336629693606013",
-        "SOXX Relative Portfolio Exposure": "-0.09376227209939063",
-        "SPY Relative Portfolio Exposure": "-0.1907355432952801",
-        "TIP Relative Portfolio Exposure": "0.11678438728068129",
-        "TLT Relative Portfolio Exposure": "0.19823199382653328"
+        "Exposure": "-0.07097941994677857",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-13",
-        "EWZ Relative Portfolio Exposure": "-0.06673385425944255",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.008908388955198005",
-        "IGIL Relative Portfolio Exposure": "0.2319623063633572",
-        "KRE Relative Portfolio Exposure": "0.02863474239940357",
-        "SOXX Relative Portfolio Exposure": "-0.08848980644194385",
-        "SPY Relative Portfolio Exposure": "-0.17737397484148523",
-        "TIP Relative Portfolio Exposure": "0.10768812129075113",
-        "TLT Relative Portfolio Exposure": "0.2902088054484184"
+        "Exposure": "-0.06673385425944255",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-14",
-        "EWZ Relative Portfolio Exposure": "-0.05766326352064645",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.016302167225869475",
-        "IGIL Relative Portfolio Exposure": "0.19356778442031186",
-        "KRE Relative Portfolio Exposure": "-0.0014772575291499993",
-        "SOXX Relative Portfolio Exposure": "-0.07384411007987075",
-        "SPY Relative Portfolio Exposure": "0.6060038664024219",
-        "TIP Relative Portfolio Exposure": "-0.005789823971377838",
-        "TLT Relative Portfolio Exposure": "0.04535146253517374"
+        "Exposure": "-0.05766326352064645",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-17",
-        "EWZ Relative Portfolio Exposure": "0.06830367331698146",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.059723885163504874",
-        "IGIL Relative Portfolio Exposure": "0.29092249632241113",
-        "KRE Relative Portfolio Exposure": "-0.07181849501869153",
-        "SOXX Relative Portfolio Exposure": "-0.11214638682578691",
-        "SPY Relative Portfolio Exposure": "-0.2232730560793244",
-        "TIP Relative Portfolio Exposure": "-0.0086660171801447",
-        "TLT Relative Portfolio Exposure": "0.16514599009315506"
+        "Exposure": "0.06830367331698146",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-18",
-        "EWZ Relative Portfolio Exposure": "0.08400469239570349",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.07172744728172567",
-        "IGIL Relative Portfolio Exposure": "0.3543337825949952",
-        "KRE Relative Portfolio Exposure": "-0.08762339615758227",
-        "SOXX Relative Portfolio Exposure": "-0.029240612675162588",
-        "SPY Relative Portfolio Exposure": "-0.27094000885011693",
-        "TIP Relative Portfolio Exposure": "-0.010561750798271863",
-        "TLT Relative Portfolio Exposure": "0.09156830924644198"
+        "Exposure": "0.08400469239570349",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-19",
-        "EWZ Relative Portfolio Exposure": "0.08436749515071276",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.0724160226607962",
-        "IGIL Relative Portfolio Exposure": "0.3541365189814957",
-        "KRE Relative Portfolio Exposure": "-0.08788707703439144",
-        "SOXX Relative Portfolio Exposure": "-0.029052426183072137",
-        "SPY Relative Portfolio Exposure": "-0.269967228824779",
-        "TIP Relative Portfolio Exposure": "-0.010541907848148032",
-        "TLT Relative Portfolio Exposure": "0.09163132331660458"
+        "Exposure": "0.08436749515071276",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-20",
-        "EWZ Relative Portfolio Exposure": "0.08671737678821488",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.07667996046016291",
-        "IGIL Relative Portfolio Exposure": "0.3645362112738035",
-        "KRE Relative Portfolio Exposure": "-0.09193952602684531",
-        "SOXX Relative Portfolio Exposure": "-0.030200357284106204",
-        "SPY Relative Portfolio Exposure": "-0.28181439739120234",
-        "TIP Relative Portfolio Exposure": "-0.010907114547224811",
-        "TLT Relative Portfolio Exposure": "0.09493966313919973"
+        "Exposure": "0.08671737678821488",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-21",
-        "EWZ Relative Portfolio Exposure": "0.07663535084650924",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.1616172760995648",
-        "IGIL Relative Portfolio Exposure": "0.14217063070348746",
-        "KRE Relative Portfolio Exposure": "-0.1103126388645555",
-        "SOXX Relative Portfolio Exposure": "-0.035876690396528965",
-        "SPY Relative Portfolio Exposure": "-0.33961609880093774",
-        "TIP Relative Portfolio Exposure": "0.04012151273780129",
-        "TLT Relative Portfolio Exposure": "-0.09364980155061506"
+        "Exposure": "0.07663535084650924",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-24",
-        "EWZ Relative Portfolio Exposure": "-0.023269576244319985",
-        "GLD Relative Portfolio Exposure": "0.0",
-        "IBIT Relative Portfolio Exposure": "0.22061361795061465",
-        "IGIL Relative Portfolio Exposure": "0.10272244531332557",
-        "KRE Relative Portfolio Exposure": "0.04375154108985874",
-        "SOXX Relative Portfolio Exposure": "-0.02727156645179471",
-        "SPY Relative Portfolio Exposure": "-0.2527162809538906",
-        "TIP Relative Portfolio Exposure": "0.029003311141639367",
-        "TLT Relative Portfolio Exposure": "0.30065078023177993"
+        "Exposure": "-0.023269576244319985",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-25",
-        "EWZ Relative Portfolio Exposure": "0.03563257960548086",
-        "GLD Relative Portfolio Exposure": "0.09946348495624643",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "0.04432806912925306",
-        "SOXX Relative Portfolio Exposure": "-0.027333452984456788",
-        "SPY Relative Portfolio Exposure": "-0.2564049350298853",
-        "TIP Relative Portfolio Exposure": "0.1174294128885637",
-        "TLT Relative Portfolio Exposure": "0.4194076200545378"
+        "Exposure": "0.03563257960548086",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-26",
-        "EWZ Relative Portfolio Exposure": "0.056705491978463994",
-        "GLD Relative Portfolio Exposure": "0.029520228644103825",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "0.03513093595609614",
-        "SOXX Relative Portfolio Exposure": "-0.02125695546978533",
-        "SPY Relative Portfolio Exposure": "-0.20278264769221466",
-        "TIP Relative Portfolio Exposure": "0.1942314827029717",
-        "TLT Relative Portfolio Exposure": "0.46037190388091614"
+        "Exposure": "0.056705491978463994",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-28",
-        "EWZ Relative Portfolio Exposure": "0.13755545750609993",
-        "GLD Relative Portfolio Exposure": "0.029875606327746048",
-        "IBIT Relative Portfolio Exposure": "0.1277436429863101",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "0.034695847880312464",
-        "SOXX Relative Portfolio Exposure": "-0.020688356634994496",
-        "SPY Relative Portfolio Exposure": "-0.20086895054386245",
-        "TIP Relative Portfolio Exposure": "0.1943922698091792",
-        "TLT Relative Portfolio Exposure": "0.6060041592908787"
+        "Exposure": "0.13755545750609993",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-31",
-        "EWZ Relative Portfolio Exposure": "0.16702075428973462",
-        "GLD Relative Portfolio Exposure": "0.10970149305408884",
-        "IBIT Relative Portfolio Exposure": "0.004932528303350145",
-        "IGIL Relative Portfolio Exposure": "0.34755523732295907",
-        "KRE Relative Portfolio Exposure": "-0.03516512509287875",
-        "SOXX Relative Portfolio Exposure": "-0.019177168688590093",
-        "SPY Relative Portfolio Exposure": "-0.19115607300668172",
-        "TIP Relative Portfolio Exposure": "0.3464666602496941",
-        "TLT Relative Portfolio Exposure": "-0.11007854789912243"
+        "Exposure": "0.16702075428973462",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-01",
-        "EWZ Relative Portfolio Exposure": "0.08594640110901726",
-        "GLD Relative Portfolio Exposure": "0.08597943336149198",
-        "IBIT Relative Portfolio Exposure": "0.0039129681374141705",
-        "IGIL Relative Portfolio Exposure": "0.27260462018324777",
-        "KRE Relative Portfolio Exposure": "-0.02753779756102844",
-        "SOXX Relative Portfolio Exposure": "-0.015252507202114065",
-        "SPY Relative Portfolio Exposure": "-0.15193482357528104",
-        "TIP Relative Portfolio Exposure": "0.15875490068663767",
-        "TLT Relative Portfolio Exposure": "-0.19807654818376763"
+        "Exposure": "0.08594640110901726",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-03",
-        "EWZ Relative Portfolio Exposure": "0.035015283963171474",
-        "GLD Relative Portfolio Exposure": "0.02643604932523906",
-        "IBIT Relative Portfolio Exposure": "0.017066888013574855",
-        "IGIL Relative Portfolio Exposure": "0.3132719320277133",
-        "KRE Relative Portfolio Exposure": "0.0",
-        "SOXX Relative Portfolio Exposure": "-0.01623499935678712",
-        "SPY Relative Portfolio Exposure": "-0.19917178684537776",
-        "TIP Relative Portfolio Exposure": "0.006819281684360126",
-        "TLT Relative Portfolio Exposure": "-0.3571222043211654"
+        "Exposure": "0.035015283963171474",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-04",
-        "EWZ Relative Portfolio Exposure": "0.0",
-        "GLD Relative Portfolio Exposure": "0.02771860353550757",
-        "IBIT Relative Portfolio Exposure": "0.018560178308541696",
-        "IGIL Relative Portfolio Exposure": "0.3356997901379682",
-        "KRE Relative Portfolio Exposure": "0.0",
-        "SOXX Relative Portfolio Exposure": "-0.015615185900172935",
-        "SPY Relative Portfolio Exposure": "0.0",
-        "TIP Relative Portfolio Exposure": "-0.21285021653871072",
-        "TLT Relative Portfolio Exposure": "-0.38955602557909885"
+        "Exposure": "0.0",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-07",
-        "EWZ Relative Portfolio Exposure": "-0.047587756402941675",
-        "GLD Relative Portfolio Exposure": "0.09989837423820921",
-        "IBIT Relative Portfolio Exposure": "0.019621176648181343",
-        "IGIL Relative Portfolio Exposure": "0.35535999879809027",
-        "KRE Relative Portfolio Exposure": "0.0",
-        "SOXX Relative Portfolio Exposure": "-0.0178462135013813",
-        "SPY Relative Portfolio Exposure": "-0.1473913371639437",
-        "TIP Relative Portfolio Exposure": "-0.18889192148524567",
-        "TLT Relative Portfolio Exposure": "-0.12340286405077211"
+        "Exposure": "-0.047587756402941675",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-08",
-        "EWZ Relative Portfolio Exposure": "-0.030354420877309937",
-        "GLD Relative Portfolio Exposure": "0.11573955832327432",
-        "IBIT Relative Portfolio Exposure": "0.07100273023301801",
-        "IGIL Relative Portfolio Exposure": "0.23004279780923748",
-        "KRE Relative Portfolio Exposure": "0.0",
-        "SOXX Relative Portfolio Exposure": "-0.01170381035497197",
-        "SPY Relative Portfolio Exposure": "-0.12110416171241253",
-        "TIP Relative Portfolio Exposure": "-0.0837478312233903",
-        "TLT Relative Portfolio Exposure": "0.3363049210186726"
+        "Exposure": "-0.030354420877309937",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-09",
-        "EWZ Relative Portfolio Exposure": "0.02831554711646147",
-        "GLD Relative Portfolio Exposure": "0.055973379876851644",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.38682415621188004",
-        "KRE Relative Portfolio Exposure": "0.0",
-        "SOXX Relative Portfolio Exposure": "-0.018519064865504888",
-        "SPY Relative Portfolio Exposure": "-0.19576521643011371",
-        "TIP Relative Portfolio Exposure": "-0.3146026354991883",
-        "TLT Relative Portfolio Exposure": "0.0"
+        "Exposure": "0.02831554711646147",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-10",
-        "EWZ Relative Portfolio Exposure": "-0.00405340628303262",
-        "GLD Relative Portfolio Exposure": "0.11500226750233634",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.2794866621972238",
-        "KRE Relative Portfolio Exposure": "-0.013804509266975781",
-        "SOXX Relative Portfolio Exposure": "-0.014134659854981003",
-        "SPY Relative Portfolio Exposure": "-0.19078208319120465",
-        "TIP Relative Portfolio Exposure": "0.0",
-        "TLT Relative Portfolio Exposure": "0.38273613072502194"
+        "Exposure": "-0.00405340628303262",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-14",
-        "EWZ Relative Portfolio Exposure": "0.0578997325049616",
-        "GLD Relative Portfolio Exposure": "0.1302027938030539",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.32745460323546355",
-        "KRE Relative Portfolio Exposure": "0.00475391547034337",
-        "SOXX Relative Portfolio Exposure": "-0.01011491323582899",
-        "SPY Relative Portfolio Exposure": "-0.13497660733790873",
-        "TIP Relative Portfolio Exposure": "-0.07462922157049683",
-        "TLT Relative Portfolio Exposure": "0.259968212841943"
+        "Exposure": "0.0578997325049616",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-15",
-        "EWZ Relative Portfolio Exposure": "0.05980319919103647",
-        "GLD Relative Portfolio Exposure": "0.13530263479327126",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.3383937766188476",
-        "KRE Relative Portfolio Exposure": "0.005087102550935365",
-        "SOXX Relative Portfolio Exposure": "-0.01040127077591528",
-        "SPY Relative Portfolio Exposure": "-0.13918492331435908",
-        "TIP Relative Portfolio Exposure": "-0.0773777260253688",
-        "TLT Relative Portfolio Exposure": "0.2707590882689598"
+        "Exposure": "0.05980319919103647",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-16",
-        "EWZ Relative Portfolio Exposure": "-0.022746231475622672",
-        "GLD Relative Portfolio Exposure": "0.14640205055405703",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.356570966252786",
-        "KRE Relative Portfolio Exposure": "0.01806590787749256",
-        "SOXX Relative Portfolio Exposure": "0.038420684629711814",
-        "SPY Relative Portfolio Exposure": "-0.14379794824149375",
-        "TIP Relative Portfolio Exposure": "-0.15341755202338125",
-        "TLT Relative Portfolio Exposure": "0.10958411406217325"
+        "Exposure": "-0.022746231475622672",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-17",
-        "EWZ Relative Portfolio Exposure": "-0.023927042317697208",
-        "GLD Relative Portfolio Exposure": "0.20377557866596627",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.37336095216603665",
-        "KRE Relative Portfolio Exposure": "0.035471477836168025",
-        "SOXX Relative Portfolio Exposure": "0.03941438785694489",
-        "SPY Relative Portfolio Exposure": "-0.12550608864148102",
-        "TIP Relative Portfolio Exposure": "-0.1485514717002523",
-        "TLT Relative Portfolio Exposure": "-0.026520743224691997"
+        "Exposure": "-0.023927042317697208",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-21",
-        "EWZ Relative Portfolio Exposure": "-0.05121359864044596",
-        "GLD Relative Portfolio Exposure": "0.16792318529348865",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.41793789829549566",
-        "KRE Relative Portfolio Exposure": "0.017131746880177552",
-        "SOXX Relative Portfolio Exposure": "0.04318768631928159",
-        "SPY Relative Portfolio Exposure": "-0.13735211011089607",
-        "TIP Relative Portfolio Exposure": "-0.12945310500045895",
-        "TLT Relative Portfolio Exposure": "0.03580091164908897"
+        "Exposure": "-0.05121359864044596",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-22",
-        "EWZ Relative Portfolio Exposure": "-0.057463703877161876",
-        "GLD Relative Portfolio Exposure": "0.17191733850734287",
-        "IBIT Relative Portfolio Exposure": "0.0",
-        "IGIL Relative Portfolio Exposure": "0.3619204328772622",
-        "KRE Relative Portfolio Exposure": "0.015073554009299836",
-        "SOXX Relative Portfolio Exposure": "0.03848162613320844",
-        "SPY Relative Portfolio Exposure": "-0.109765455123273",
-        "TIP Relative Portfolio Exposure": "-0.11149077543237547",
-        "TLT Relative Portfolio Exposure": "0.13388711404007625"
+        "Exposure": "-0.057463703877161876",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-23",
-        "EWZ Relative Portfolio Exposure": "-0.06422476597307572",
-        "GLD Relative Portfolio Exposure": "0.17928975783899456",
-        "IBIT Relative Portfolio Exposure": "0.16808386352584256",
-        "IGIL Relative Portfolio Exposure": "0.3927119361070144",
-        "KRE Relative Portfolio Exposure": "0.0171281061460612",
-        "SOXX Relative Portfolio Exposure": "0.04343751799134958",
-        "SPY Relative Portfolio Exposure": "-0.12194636307925887",
-        "TIP Relative Portfolio Exposure": "-0.12191814581634702",
-        "TLT Relative Portfolio Exposure": "0.14775833188644005"
+        "Exposure": "-0.06422476597307572",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-24",
-        "EWZ Relative Portfolio Exposure": "0.002422667422235211",
-        "GLD Relative Portfolio Exposure": "0.1818699681170198",
-        "IBIT Relative Portfolio Exposure": "0.1690936790654001",
-        "IGIL Relative Portfolio Exposure": "0.3976904391765035",
-        "KRE Relative Portfolio Exposure": "0.017209537177677064",
-        "SOXX Relative Portfolio Exposure": "0.04556005146281637",
-        "SPY Relative Portfolio Exposure": "-0.12398779198813774",
-        "TIP Relative Portfolio Exposure": "-0.06015071122691616",
-        "TLT Relative Portfolio Exposure": "0.0020151543632940046"
+        "Exposure": "0.002422667422235211",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-25",
-        "EWZ Relative Portfolio Exposure": "0.0022482161915451777",
-        "GLD Relative Portfolio Exposure": "0.16443220838234807",
-        "IBIT Relative Portfolio Exposure": "0.15850446602566662",
-        "IGIL Relative Portfolio Exposure": "0.36399932540975405",
-        "KRE Relative Portfolio Exposure": "0.015860394091943644",
-        "SOXX Relative Portfolio Exposure": "0.04202542586643991",
-        "SPY Relative Portfolio Exposure": "-0.11436185497271023",
-        "TIP Relative Portfolio Exposure": "-0.055102612741521804",
-        "TLT Relative Portfolio Exposure": "-0.08346549631807056"
+        "Exposure": "0.0022482161915451777",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-28",
-        "EWZ Relative Portfolio Exposure": "0.02665671338557874",
-        "GLD Relative Portfolio Exposure": "0.22310615062445657",
-        "IBIT Relative Portfolio Exposure": "0.10832002967345222",
-        "IGIL Relative Portfolio Exposure": "0.3250480655872762",
-        "KRE Relative Portfolio Exposure": "0.029078678450307684",
-        "SOXX Relative Portfolio Exposure": "0.03712927988756893",
-        "SPY Relative Portfolio Exposure": "-0.10207406620423051",
-        "TIP Relative Portfolio Exposure": "-0.07384849950559778",
-        "TLT Relative Portfolio Exposure": "-0.07473851668153135"
+        "Exposure": "0.02665671338557874",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-29",
-        "EWZ Relative Portfolio Exposure": "0.05732469979573521",
-        "GLD Relative Portfolio Exposure": "0.1861061364716202",
-        "IBIT Relative Portfolio Exposure": "0.11988942087074464",
-        "IGIL Relative Portfolio Exposure": "0.31581448046489524",
-        "KRE Relative Portfolio Exposure": "0.013141373162936702",
-        "SOXX Relative Portfolio Exposure": "0.040902298080398296",
-        "SPY Relative Portfolio Exposure": "-0.1120674601724271",
-        "TIP Relative Portfolio Exposure": "0.0",
-        "TLT Relative Portfolio Exposure": "-0.15475413098124255"
+        "Exposure": "0.05732469979573521",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-01",
-        "EWZ Relative Portfolio Exposure": "0.016529524897478345",
-        "GLD Relative Portfolio Exposure": "0.2228535156337155",
-        "IBIT Relative Portfolio Exposure": "0.07248749436632917",
-        "IGIL Relative Portfolio Exposure": "0.4046587668842788",
-        "KRE Relative Portfolio Exposure": "0.018375807120959934",
-        "SOXX Relative Portfolio Exposure": "0.05723614340090764",
-        "SPY Relative Portfolio Exposure": "-0.14125788156127428",
-        "TIP Relative Portfolio Exposure": "0.0",
-        "TLT Relative Portfolio Exposure": "-0.06660114502965207"
+        "Exposure": "0.016529524897478345",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-06",
-        "EWZ Relative Portfolio Exposure": "0.0425284259948312",
-        "GLD Relative Portfolio Exposure": "0.18557680540177915",
-        "IBIT Relative Portfolio Exposure": "0.04537035156743499",
-        "IGIL Relative Portfolio Exposure": "0.2605706458596645",
-        "KRE Relative Portfolio Exposure": "0.004006442943950233",
-        "SOXX Relative Portfolio Exposure": "0.036888423960519987",
-        "SPY Relative Portfolio Exposure": "-0.09062802529662395",
-        "TIP Relative Portfolio Exposure": "0.05288652047780435",
-        "TLT Relative Portfolio Exposure": "0.1466522731361118"
+        "Exposure": "0.0425284259948312",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-07",
-        "EWZ Relative Portfolio Exposure": "0.06652739149204193",
-        "GLD Relative Portfolio Exposure": "0.34397288097209544",
-        "IBIT Relative Portfolio Exposure": "0.010959144533378627",
-        "IGIL Relative Portfolio Exposure": "0.10868615669872543",
-        "KRE Relative Portfolio Exposure": "-0.01425220979030877",
-        "SOXX Relative Portfolio Exposure": "0.05809275103854837",
-        "SPY Relative Portfolio Exposure": "-0.12718484391697274",
-        "TIP Relative Portfolio Exposure": "0.1331736764258367",
-        "TLT Relative Portfolio Exposure": "0.1371506620524688"
+        "Exposure": "0.06652739149204193",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-08",
-        "EWZ Relative Portfolio Exposure": "0.06132988750608252",
-        "GLD Relative Portfolio Exposure": "0.36306276667738274",
-        "IBIT Relative Portfolio Exposure": "0.010009494371551408",
-        "IGIL Relative Portfolio Exposure": "0.09536527061460731",
-        "KRE Relative Portfolio Exposure": "-0.01274772616681323",
-        "SOXX Relative Portfolio Exposure": "0.08652362147103966",
-        "SPY Relative Portfolio Exposure": "-0.11324421049734744",
-        "TIP Relative Portfolio Exposure": "0.1503000296464566",
-        "TLT Relative Portfolio Exposure": "0.10741724322978755"
+        "Exposure": "0.06132988750608252",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-09",
-        "EWZ Relative Portfolio Exposure": "0.048146847060188847",
-        "GLD Relative Portfolio Exposure": "0.2955748749692226",
-        "IBIT Relative Portfolio Exposure": "0.08391686257043518",
-        "IGIL Relative Portfolio Exposure": "0.15543827031740332",
-        "KRE Relative Portfolio Exposure": "-0.009997561331340577",
-        "SOXX Relative Portfolio Exposure": "0.06847189571594137",
-        "SPY Relative Portfolio Exposure": "-0.0886199252559818",
-        "TIP Relative Portfolio Exposure": "0.17980849001714125",
-        "TLT Relative Portfolio Exposure": "0.07002507672788692"
+        "Exposure": "0.048146847060188847",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-12",
-        "EWZ Relative Portfolio Exposure": "0.08128848137535817",
-        "GLD Relative Portfolio Exposure": "0.15030303724928368",
-        "IBIT Relative Portfolio Exposure": "0.09809191977077364",
-        "IGIL Relative Portfolio Exposure": "0.18012813753581663",
-        "KRE Relative Portfolio Exposure": "0.008125616045845272",
-        "SOXX Relative Portfolio Exposure": "0.08536848137535816",
-        "SPY Relative Portfolio Exposure": "-0.10618681948424068",
-        "TIP Relative Portfolio Exposure": "0.2090902005730659",
-        "TLT Relative Portfolio Exposure": "0.08141730659025788"
+        "Exposure": "0.08128848137535817",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-13",
-        "EWZ Relative Portfolio Exposure": "0.005679568522062912",
-        "GLD Relative Portfolio Exposure": "0.14799044071353853",
-        "IBIT Relative Portfolio Exposure": "0.0963872208807878",
-        "IGIL Relative Portfolio Exposure": "0.088416872046065",
-        "KRE Relative Portfolio Exposure": "0.008019644392202657",
-        "SOXX Relative Portfolio Exposure": "0.08628365744224485",
-        "SPY Relative Portfolio Exposure": "-0.10571848725214633",
-        "TIP Relative Portfolio Exposure": "0.1681064045733672",
-        "TLT Relative Portfolio Exposure": "0.20506186592463718"
+        "Exposure": "0.005679568522062912",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-14",
-        "EWZ Relative Portfolio Exposure": "-0.003245933765946577",
-        "GLD Relative Portfolio Exposure": "0.25771116584439646",
-        "IBIT Relative Portfolio Exposure": "0.05053625487071167",
-        "IGIL Relative Portfolio Exposure": "0.07497159545832348",
-        "KRE Relative Portfolio Exposure": "0.006776294217674106",
-        "SOXX Relative Portfolio Exposure": "0.0736323880403535",
-        "SPY Relative Portfolio Exposure": "-0.08953416551650514",
-        "TIP Relative Portfolio Exposure": "0.25413619691782124",
-        "TLT Relative Portfolio Exposure": "0.18945581473375983"
+        "Exposure": "-0.003245933765946577",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-15",
-        "EWZ Relative Portfolio Exposure": "0.05128674491224292",
-        "GLD Relative Portfolio Exposure": "0.18490463037854868",
-        "IBIT Relative Portfolio Exposure": "0.005810572918883861",
-        "IGIL Relative Portfolio Exposure": "0.09862047723624673",
-        "KRE Relative Portfolio Exposure": "0.008870113512011038",
-        "SOXX Relative Portfolio Exposure": "0.026561259675315085",
-        "SPY Relative Portfolio Exposure": "-0.10283041310559146",
-        "TIP Relative Portfolio Exposure": "0.33424967634177305",
-        "TLT Relative Portfolio Exposure": "0.18686636233194187"
+        "Exposure": "0.05128674491224292",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-19",
-        "EWZ Relative Portfolio Exposure": "-0.014085321608006011",
-        "GLD Relative Portfolio Exposure": "0.3742242917115432",
-        "IBIT Relative Portfolio Exposure": "0.004712784312972104",
-        "IGIL Relative Portfolio Exposure": "0.0790238873126243",
-        "KRE Relative Portfolio Exposure": "-0.009410959995165143",
-        "SOXX Relative Portfolio Exposure": "0.02113528672739855",
-        "SPY Relative Portfolio Exposure": "-0.0830066403231029",
-        "TIP Relative Portfolio Exposure": "0.303744452222373",
-        "TLT Relative Portfolio Exposure": "0.11065637578681485"
+        "Exposure": "-0.014085321608006011",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-20",
-        "EWZ Relative Portfolio Exposure": "0.03045856124892163",
-        "GLD Relative Portfolio Exposure": "0.3688650696113017",
-        "IBIT Relative Portfolio Exposure": "0.005282623459096252",
-        "IGIL Relative Portfolio Exposure": "0.0875300065916392",
-        "KRE Relative Portfolio Exposure": "-0.010453279955763074",
-        "SOXX Relative Portfolio Exposure": "0.023356530079536454",
-        "SPY Relative Portfolio Exposure": "-0.09215257926429503",
-        "TIP Relative Portfolio Exposure": "0.32513055236960897",
-        "TLT Relative Portfolio Exposure": "0.05677057570308047"
+        "Exposure": "0.03045856124892163",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-21",
-        "EWZ Relative Portfolio Exposure": "0.029922158927783656",
-        "GLD Relative Portfolio Exposure": "0.35381756496530287",
-        "IBIT Relative Portfolio Exposure": "0.005450975792503168",
-        "IGIL Relative Portfolio Exposure": "0.08645190711939892",
-        "KRE Relative Portfolio Exposure": "-0.010127961164368694",
-        "SOXX Relative Portfolio Exposure": "0.02323896937825177",
-        "SPY Relative Portfolio Exposure": "-0.0905807313366992",
-        "TIP Relative Portfolio Exposure": "0.32047908190774965",
-        "TLT Relative Portfolio Exposure": "0.07993043058113398"
+        "Exposure": "0.029922158927783656",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-22",
-        "EWZ Relative Portfolio Exposure": "0.024625060372804566",
-        "GLD Relative Portfolio Exposure": "0.3357152471101488",
-        "IBIT Relative Portfolio Exposure": "0.05802642753483442",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "-0.00862724283660135",
-        "SOXX Relative Portfolio Exposure": "0.019608668097401395",
-        "SPY Relative Portfolio Exposure": "-0.07771257842753332",
-        "TIP Relative Portfolio Exposure": "0.25395071827693494",
-        "TLT Relative Portfolio Exposure": "0.2217340573437413"
+        "Exposure": "0.024625060372804566",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-23",
-        "EWZ Relative Portfolio Exposure": "0.030211719838519523",
-        "GLD Relative Portfolio Exposure": "0.40077547247329504",
-        "IBIT Relative Portfolio Exposure": "0.028593565789003607",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "-0.010053901253974491",
-        "SOXX Relative Portfolio Exposure": "0.022551891679468403",
-        "SPY Relative Portfolio Exposure": "-0.09049471258618842",
-        "TIP Relative Portfolio Exposure": "0.25686760923153873",
-        "TLT Relative Portfolio Exposure": "0.16045112714801185"
+        "Exposure": "0.030211719838519523",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-25",
-        "EWZ Relative Portfolio Exposure": "0.030211719838519523",
-        "GLD Relative Portfolio Exposure": "0.40077547247329504",
-        "IBIT Relative Portfolio Exposure": "0.028593565789003607",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "-0.010053901253974491",
-        "SOXX Relative Portfolio Exposure": "0.022551891679468403",
-        "SPY Relative Portfolio Exposure": "-0.09049471258618842",
-        "TIP Relative Portfolio Exposure": "0.25686760923153873",
-        "TLT Relative Portfolio Exposure": "0.16045112714801185"
+        "Exposure": "0.030211719838519523",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-26",
-        "EWZ Relative Portfolio Exposure": "0.030211719838519523",
-        "GLD Relative Portfolio Exposure": "0.40077547247329504",
-        "IBIT Relative Portfolio Exposure": "0.028593565789003607",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "-0.010053901253974491",
-        "SOXX Relative Portfolio Exposure": "0.022551891679468403",
-        "SPY Relative Portfolio Exposure": "-0.09049471258618842",
-        "TIP Relative Portfolio Exposure": "0.25686760923153873",
-        "TLT Relative Portfolio Exposure": "0.16045112714801185"
+        "Exposure": "0.030211719838519523",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-27",
-        "EWZ Relative Portfolio Exposure": "0.03901598084170102",
-        "GLD Relative Portfolio Exposure": "0.45317272247049867",
-        "IBIT Relative Portfolio Exposure": "0.03754761907478377",
-        "IGIL Relative Portfolio Exposure": "0.0",
-        "KRE Relative Portfolio Exposure": "-0.013054386431287628",
-        "SOXX Relative Portfolio Exposure": "0.02990831581073079",
-        "SPY Relative Portfolio Exposure": "-0.11758731162013811",
-        "TIP Relative Portfolio Exposure": "0.2856976201586561",
-        "TLT Relative Portfolio Exposure": "0.02689999965772453"
+        "Exposure": "0.03901598084170102",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-29",
-        "EWZ Relative Portfolio Exposure": "0.05375817364024643",
-        "GLD Relative Portfolio Exposure": "0.44202765673680744",
-        "IBIT Relative Portfolio Exposure": "0.0841775603539976",
-        "IGIL Relative Portfolio Exposure": "0.0688146264288684",
-        "KRE Relative Portfolio Exposure": "-0.009874567357275148",
-        "SOXX Relative Portfolio Exposure": "0.02245152511622633",
-        "SPY Relative Portfolio Exposure": "-0.0889110632346827",
-        "TIP Relative Portfolio Exposure": "0.13880010151242717",
-        "TLT Relative Portfolio Exposure": "-0.0911849416033564"
+        "Exposure": "0.05375817364024643",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-30",
-        "EWZ Relative Portfolio Exposure": "-0.08359098153945643",
-        "GLD Relative Portfolio Exposure": "0.4774634444020396",
-        "IBIT Relative Portfolio Exposure": "0.09462270561104227",
-        "IGIL Relative Portfolio Exposure": "0.07733430246470156",
-        "KRE Relative Portfolio Exposure": "-0.011082739509586164",
-        "SOXX Relative Portfolio Exposure": "0.025089635339219866",
-        "SPY Relative Portfolio Exposure": "-0.08590125208889998",
-        "TIP Relative Portfolio Exposure": "0.02381740748775447",
-        "TLT Relative Portfolio Exposure": "-0.12109777448795682"
+        "Exposure": "-0.08359098153945643",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-02",
-        "EWZ Relative Portfolio Exposure": "-0.06258035578169488",
-        "GLD Relative Portfolio Exposure": "0.34944620050987096",
-        "IBIT Relative Portfolio Exposure": "0.147787886291557",
-        "IGIL Relative Portfolio Exposure": "0.180098290707501",
-        "KRE Relative Portfolio Exposure": "-0.009897144599430559",
-        "SOXX Relative Portfolio Exposure": "0.02294353086939779",
-        "SPY Relative Portfolio Exposure": "-0.0777843966806398",
-        "TIP Relative Portfolio Exposure": "0.07908617135928277",
-        "TLT Relative Portfolio Exposure": "-0.06775396833089972"
+        "Exposure": "-0.06258035578169488",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-03",
-        "EWZ Relative Portfolio Exposure": "-0.0654163337303442",
-        "GLD Relative Portfolio Exposure": "0.3601384192754483",
-        "IBIT Relative Portfolio Exposure": "0.10618532868981391",
-        "IGIL Relative Portfolio Exposure": "0.18621568243151562",
-        "KRE Relative Portfolio Exposure": "-0.010476015564287663",
-        "SOXX Relative Portfolio Exposure": "0.02435129384879871",
-        "SPY Relative Portfolio Exposure": "-0.08169149469334908",
-        "TIP Relative Portfolio Exposure": "0.1636146171266556",
-        "TLT Relative Portfolio Exposure": "-0.0019430232308460535"
+        "Exposure": "-0.0654163337303442",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-04",
-        "EWZ Relative Portfolio Exposure": "-0.0713774308453316",
-        "GLD Relative Portfolio Exposure": "0.391595057497333",
-        "IBIT Relative Portfolio Exposure": "0.11325736856746578",
-        "IGIL Relative Portfolio Exposure": "0.20200406851751107",
-        "KRE Relative Portfolio Exposure": "-0.011276869188317414",
-        "SOXX Relative Portfolio Exposure": "0.026655608442000895",
-        "SPY Relative Portfolio Exposure": "-0.07383069650509701",
-        "TIP Relative Portfolio Exposure": "0.03227761381497386",
-        "TLT Relative Portfolio Exposure": "-0.07651866532465869"
+        "Exposure": "-0.0713774308453316",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-05",
-        "EWZ Relative Portfolio Exposure": "-0.07020911208094409",
-        "GLD Relative Portfolio Exposure": "0.4160762862790379",
-        "IBIT Relative Portfolio Exposure": "0.10921531596766934",
-        "IGIL Relative Portfolio Exposure": "0.20011130790457365",
-        "KRE Relative Portfolio Exposure": "-0.02215638882908977",
-        "SOXX Relative Portfolio Exposure": "0.026451650781846293",
-        "SPY Relative Portfolio Exposure": "-0.07253728203221324",
-        "TIP Relative Portfolio Exposure": "-0.013291386969880817",
-        "TLT Relative Portfolio Exposure": "-0.06977219797639783"
+        "Exposure": "-0.07020911208094409",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-06",
-        "EWZ Relative Portfolio Exposure": "-0.07305607856784292",
-        "GLD Relative Portfolio Exposure": "0.4400149229462333",
-        "IBIT Relative Portfolio Exposure": "0.11572577642630391",
-        "IGIL Relative Portfolio Exposure": "0.2061443432865231",
-        "KRE Relative Portfolio Exposure": "-0.023526941591304775",
-        "SOXX Relative Portfolio Exposure": "0.02756008815986295",
-        "SPY Relative Portfolio Exposure": "-0.07587654579890697",
-        "TIP Relative Portfolio Exposure": "0.03559269575982668",
-        "TLT Relative Portfolio Exposure": "-0.0021606865973605735"
+        "Exposure": "-0.07305607856784292",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-07",
-        "EWZ Relative Portfolio Exposure": "-0.07314675328949867",
-        "GLD Relative Portfolio Exposure": "0.44018998959412003",
-        "IBIT Relative Portfolio Exposure": "0.11589896928619713",
-        "IGIL Relative Portfolio Exposure": "0.20607034982492298",
-        "KRE Relative Portfolio Exposure": "-0.023495514837873353",
-        "SOXX Relative Portfolio Exposure": "0.027550263438396432",
-        "SPY Relative Portfolio Exposure": "-0.07590722309852165",
-        "TIP Relative Portfolio Exposure": "0.03558076709817732",
-        "TLT Relative Portfolio Exposure": "-0.00216042271671954"
+        "Exposure": "-0.07314675328949867",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-09",
-        "EWZ Relative Portfolio Exposure": "-0.07712067080407205",
-        "GLD Relative Portfolio Exposure": "0.4691803207397399",
-        "IBIT Relative Portfolio Exposure": "0.03148179118388511",
-        "IGIL Relative Portfolio Exposure": "0.21892697870531014",
-        "KRE Relative Portfolio Exposure": "-0.02508911599669387",
-        "SOXX Relative Portfolio Exposure": "0.02987624023509067",
-        "SPY Relative Portfolio Exposure": "-0.08057873924118455",
-        "TIP Relative Portfolio Exposure": "0.03777165312690509",
-        "TLT Relative Portfolio Exposure": "-0.029825773159622794"
+        "Exposure": "-0.07712067080407205",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-11",
-        "EWZ Relative Portfolio Exposure": "-0.05953879281643341",
-        "GLD Relative Portfolio Exposure": "0.4772969622055264",
-        "IBIT Relative Portfolio Exposure": "0.027570721029535755",
-        "IGIL Relative Portfolio Exposure": "0.1913343468380809",
-        "KRE Relative Portfolio Exposure": "-0.021821926403049145",
-        "SOXX Relative Portfolio Exposure": "0.026590431852434707",
-        "SPY Relative Portfolio Exposure": "-0.07056862868305969",
-        "TIP Relative Portfolio Exposure": "-0.09917637889946888",
-        "TLT Relative Portfolio Exposure": "-0.026258666919261313"
+        "Exposure": "-0.05953879281643341",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-12",
-        "EWZ Relative Portfolio Exposure": "-0.029053717076330927",
-        "GLD Relative Portfolio Exposure": "0.4296338370919855",
-        "IBIT Relative Portfolio Exposure": "0.02657682850901723",
-        "IGIL Relative Portfolio Exposure": "0.18872184107813128",
-        "KRE Relative Portfolio Exposure": "-0.021198422242399685",
-        "SOXX Relative Portfolio Exposure": "0.02597739257066485",
-        "SPY Relative Portfolio Exposure": "-0.06914549753182883",
-        "TIP Relative Portfolio Exposure": "-0.16715659982868014",
-        "TLT Relative Portfolio Exposure": "-0.07000026152199376"
+        "Exposure": "-0.029053717076330927",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-13",
-        "EWZ Relative Portfolio Exposure": "-0.03128215753477155",
-        "GLD Relative Portfolio Exposure": "0.4771296725315252",
-        "IBIT Relative Portfolio Exposure": "0.028082784157019508",
-        "IGIL Relative Portfolio Exposure": "0.20299208167451346",
-        "KRE Relative Portfolio Exposure": "-0.022234903235026363",
-        "SOXX Relative Portfolio Exposure": "0.027351675418378647",
-        "SPY Relative Portfolio Exposure": "-0.07375124303320377",
-        "TIP Relative Portfolio Exposure": "-0.08597388777270702",
-        "TLT Relative Portfolio Exposure": "-0.051206292331739914"
+        "Exposure": "-0.03128215753477155",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-15",
-        "EWZ Relative Portfolio Exposure": "-0.03075026368959628",
-        "GLD Relative Portfolio Exposure": "0.47724650673125824",
-        "IBIT Relative Portfolio Exposure": "0.028335747602057273",
-        "IGIL Relative Portfolio Exposure": "0.20308749349433736",
-        "KRE Relative Portfolio Exposure": "-0.02231813333491646",
-        "SOXX Relative Portfolio Exposure": "0.02726886840058655",
-        "SPY Relative Portfolio Exposure": "-0.07386524422702834",
-        "TIP Relative Portfolio Exposure": "-0.08597097138695779",
-        "TLT Relative Portfolio Exposure": "-0.0511567711332617"
+        "Exposure": "-0.03075026368959628",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-16",
-        "EWZ Relative Portfolio Exposure": "-0.02986299407329295",
-        "GLD Relative Portfolio Exposure": "0.44910394812399235",
-        "IBIT Relative Portfolio Exposure": "0.027300665007768017",
-        "IGIL Relative Portfolio Exposure": "0.193371764354973",
-        "KRE Relative Portfolio Exposure": "-0.02140942190239429",
-        "SOXX Relative Portfolio Exposure": "0.02681967051407461",
-        "SPY Relative Portfolio Exposure": "-0.07088210115680586",
-        "TIP Relative Portfolio Exposure": "-0.11232278300407836",
-        "TLT Relative Portfolio Exposure": "-0.0688568982666114"
+        "Exposure": "-0.02986299407329295",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-17",
-        "EWZ Relative Portfolio Exposure": "0.03915021710781687",
-        "GLD Relative Portfolio Exposure": "0.5808715634502183",
-        "IBIT Relative Portfolio Exposure": "0.08085243956205264",
-        "IGIL Relative Portfolio Exposure": "0.13741469841369933",
-        "KRE Relative Portfolio Exposure": "-0.023025678213187937",
-        "SOXX Relative Portfolio Exposure": "0.029343022080854767",
-        "SPY Relative Portfolio Exposure": "-0.07740833067580204",
-        "TIP Relative Portfolio Exposure": "-0.014070788364199463",
-        "TLT Relative Portfolio Exposure": "-0.017851115878874464"
+        "Exposure": "0.03915021710781687",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-18",
-        "EWZ Relative Portfolio Exposure": "0.03375844111225534",
-        "GLD Relative Portfolio Exposure": "0.5522470024984001",
-        "IBIT Relative Portfolio Exposure": "0.06947434800835589",
-        "IGIL Relative Portfolio Exposure": "0.1187420951492587",
-        "KRE Relative Portfolio Exposure": "-0.020133170867604373",
-        "SOXX Relative Portfolio Exposure": "0.08078902092443474",
-        "SPY Relative Portfolio Exposure": "-0.06651645410536003",
-        "TIP Relative Portfolio Exposure": "-0.021846760045891523",
-        "TLT Relative Portfolio Exposure": "-0.036595731803378495"
+        "Exposure": "0.03375844111225534",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-19",
-        "EWZ Relative Portfolio Exposure": "0.03374664260724942",
-        "GLD Relative Portfolio Exposure": "0.5525816964643719",
-        "IBIT Relative Portfolio Exposure": "0.07014654459837129",
-        "IGIL Relative Portfolio Exposure": "0.11826574934029496",
-        "KRE Relative Portfolio Exposure": "-0.020082267923662366",
-        "SOXX Relative Portfolio Exposure": "0.08052544487744781",
-        "SPY Relative Portfolio Exposure": "-0.06633614957061137",
-        "TIP Relative Portfolio Exposure": "-0.021810529645575283",
-        "TLT Relative Portfolio Exposure": "-0.036504752830806064"
+        "Exposure": "0.03374664260724942",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-20",
-        "EWZ Relative Portfolio Exposure": "-0.01563196159520953",
-        "GLD Relative Portfolio Exposure": "0.5311365919500393",
-        "IBIT Relative Portfolio Exposure": "0.07366241228683156",
-        "IGIL Relative Portfolio Exposure": "0.12499026842269657",
-        "KRE Relative Portfolio Exposure": "-0.021338652324275852",
-        "SOXX Relative Portfolio Exposure": "0.08375675465263194",
-        "SPY Relative Portfolio Exposure": "-0.06975031821085304",
-        "TIP Relative Portfolio Exposure": "-0.02302608437910661",
-        "TLT Relative Portfolio Exposure": "0.05662816557657367"
+        "Exposure": "-0.01563196159520953",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-23",
-        "EWZ Relative Portfolio Exposure": "-0.027683905647049444",
-        "GLD Relative Portfolio Exposure": "0.3266610952643843",
-        "IBIT Relative Portfolio Exposure": "0.07893603181111153",
-        "IGIL Relative Portfolio Exposure": "0.0879886029991007",
-        "KRE Relative Portfolio Exposure": "-0.015192135128383308",
-        "SOXX Relative Portfolio Exposure": "0.059463807290998844",
-        "SPY Relative Portfolio Exposure": "-0.03938811084024211",
-        "TIP Relative Portfolio Exposure": "-0.016151980368804105",
-        "TLT Relative Portfolio Exposure": "-0.041286963655180545"
+        "Exposure": "-0.027683905647049444",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-24",
-        "EWZ Relative Portfolio Exposure": "-0.021855352162470577",
-        "GLD Relative Portfolio Exposure": "0.30189922043512857",
-        "IBIT Relative Portfolio Exposure": "0.03230091923790722",
-        "IGIL Relative Portfolio Exposure": "0.1330246949418099",
-        "KRE Relative Portfolio Exposure": "-0.011969108363880815",
-        "SOXX Relative Portfolio Exposure": "0.04816736351161211",
-        "SPY Relative Portfolio Exposure": "-0.03107932032281582",
-        "TIP Relative Portfolio Exposure": "-0.09676600009932777",
-        "TLT Relative Portfolio Exposure": "-0.05819625523382995"
+        "Exposure": "-0.021855352162470577",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-25",
-        "EWZ Relative Portfolio Exposure": "-0.02407127103374695",
-        "GLD Relative Portfolio Exposure": "0.2813328818046459",
-        "IBIT Relative Portfolio Exposure": "0.00789336505567989",
-        "IGIL Relative Portfolio Exposure": "0.14882373874183313",
-        "KRE Relative Portfolio Exposure": "-0.013314578786892836",
-        "SOXX Relative Portfolio Exposure": "0.054323206639815096",
-        "SPY Relative Portfolio Exposure": "-0.03475897434252829",
-        "TIP Relative Portfolio Exposure": "-0.03475897434252829",
-        "TLT Relative Portfolio Exposure": "-0.04133367739309505"
+        "Exposure": "-0.02407127103374695",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-26",
-        "EWZ Relative Portfolio Exposure": "-0.015784031280263504",
-        "GLD Relative Portfolio Exposure": "0.2711164080323782",
-        "IBIT Relative Portfolio Exposure": "0.007718913128579626",
-        "IGIL Relative Portfolio Exposure": "0.14690315184583103",
-        "KRE Relative Portfolio Exposure": "-0.013349935023819027",
-        "SOXX Relative Portfolio Exposure": "0.053657850809421904",
-        "SPY Relative Portfolio Exposure": "-0.034332652753127725",
-        "TIP Relative Portfolio Exposure": "-0.08787407318605996",
-        "TLT Relative Portfolio Exposure": "-0.040713458217448255"
+        "Exposure": "-0.015784031280263504",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-27",
-        "EWZ Relative Portfolio Exposure": "-0.016130070148032832",
-        "GLD Relative Portfolio Exposure": "0.27194214906662967",
-        "IBIT Relative Portfolio Exposure": "0.007831166253106772",
-        "IGIL Relative Portfolio Exposure": "0.1496485314032419",
-        "KRE Relative Portfolio Exposure": "-0.013630883728508202",
-        "SOXX Relative Portfolio Exposure": "0.05476657506125264",
-        "SPY Relative Portfolio Exposure": "-0.03524712663371311",
-        "TIP Relative Portfolio Exposure": "-0.06291529848784946",
-        "TLT Relative Portfolio Exposure": "-0.06011116546851128"
+        "Exposure": "-0.016130070148032832",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-30",
-        "EWZ Relative Portfolio Exposure": "-0.024685035841431373",
-        "GLD Relative Portfolio Exposure": "0.40427543109505937",
-        "IBIT Relative Portfolio Exposure": "0.017021337582410905",
-        "IGIL Relative Portfolio Exposure": "0.23398205350834467",
-        "KRE Relative Portfolio Exposure": "-0.020326437138615032",
-        "SOXX Relative Portfolio Exposure": "0.08169591757850493",
-        "SPY Relative Portfolio Exposure": "-0.03964900189244811",
-        "TIP Relative Portfolio Exposure": "-0.10356934067210465",
-        "TLT Relative Portfolio Exposure": "-0.07550968502621555"
+        "Exposure": "-0.024685035841431373",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-07-01",
-        "EWZ Relative Portfolio Exposure": "-0.027017617288272063",
-        "GLD Relative Portfolio Exposure": "0.4327980172691279",
-        "IBIT Relative Portfolio Exposure": "0.01822938416912146",
-        "IGIL Relative Portfolio Exposure": "0.2572133002878188",
-        "KRE Relative Portfolio Exposure": "-0.02307430267051176",
-        "SOXX Relative Portfolio Exposure": "0.08932048674879246",
-        "SPY Relative Portfolio Exposure": "-0.04345177040937461",
-        "TIP Relative Portfolio Exposure": "-0.038576821906135594",
-        "TLT Relative Portfolio Exposure": "-0.07031478011000365"
+        "Exposure": "-0.027017617288272063",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-07-02",
-        "EWZ Relative Portfolio Exposure": "-0.015595511897064578",
-        "GLD Relative Portfolio Exposure": "0.47710317753344744",
-        "IBIT Relative Portfolio Exposure": "0.020850191335375034",
-        "IGIL Relative Portfolio Exposure": "0.28057178569305913",
-        "KRE Relative Portfolio Exposure": "-0.0032076623687713086",
-        "SOXX Relative Portfolio Exposure": "0.09958058791791657",
-        "SPY Relative Portfolio Exposure": "-0.047840147418162414",
-        "TIP Relative Portfolio Exposure": "0.028172471222506077",
-        "TLT Relative Portfolio Exposure": "-0.02699252900519756"
+        "Exposure": "-0.015595511897064578",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-07-03",
-        "EWZ Relative Portfolio Exposure": "0.0005328225798974821",
-        "GLD Relative Portfolio Exposure": "0.523922206812603",
-        "IBIT Relative Portfolio Exposure": "0.04661315899073114",
-        "IGIL Relative Portfolio Exposure": "0.11830988168648254",
-        "KRE Relative Portfolio Exposure": "-0.01149631523463554",
-        "SOXX Relative Portfolio Exposure": "0.07065325575320225",
-        "SPY Relative Portfolio Exposure": "-0.0340871927521586",
-        "TIP Relative Portfolio Exposure": "0.1709655141447034",
-        "TLT Relative Portfolio Exposure": "0.02372069407639814"
+        "Exposure": "0.0005328225798974821",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-07-04",
-        "EWZ Relative Portfolio Exposure": "0.0005326877833481908",
-        "GLD Relative Portfolio Exposure": "0.5237896619313613",
-        "IBIT Relative Portfolio Exposure": "0.04660136652318082",
-        "IGIL Relative Portfolio Exposure": "0.11823215264203872",
-        "KRE Relative Portfolio Exposure": "-0.011493406830071506",
-        "SOXX Relative Portfolio Exposure": "0.07063538148242049",
-        "SPY Relative Portfolio Exposure": "-0.034078569176260405",
-        "TIP Relative Portfolio Exposure": "0.1709220805538063",
-        "TLT Relative Portfolio Exposure": "0.023714693077512342"
+        "Exposure": "0.0005326877833481908",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-07-05",
-        "EWZ Relative Portfolio Exposure": "0.0005326876865361051",
-        "GLD Relative Portfolio Exposure": "0.5237895667364437",
-        "IBIT Relative Portfolio Exposure": "0.046601358053725304",
-        "IGIL Relative Portfolio Exposure": "0.11823231289685777",
-        "KRE Relative Portfolio Exposure": "-0.011493404741229372",
-        "SOXX Relative Portfolio Exposure": "0.07063536864495956",
-        "SPY Relative Portfolio Exposure": "-0.034078562982731174",
-        "TIP Relative Portfolio Exposure": "0.17092204948997564",
-        "TLT Relative Portfolio Exposure": "0.023714688767541344"
+        "Exposure": "0.0005326876865361051",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-07-07",
-        "EWZ Relative Portfolio Exposure": "0.010391748379027153",
-        "GLD Relative Portfolio Exposure": "0.5005796856538536",
-        "IBIT Relative Portfolio Exposure": "0.043676751488690935",
-        "IGIL Relative Portfolio Exposure": "0.151418463784537",
-        "KRE Relative Portfolio Exposure": "-0.010806601075154132",
-        "SOXX Relative Portfolio Exposure": "0.06611221384513735",
-        "SPY Relative Portfolio Exposure": "-0.03218069155044096",
-        "TIP Relative Portfolio Exposure": "0.16260875166044966",
-        "TLT Relative Portfolio Exposure": "0.022354777316214713"
+        "Exposure": "0.010391748379027153",
+        "Ticker": "EWZ"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "0.09946348495624643",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "0.029520228644103825",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "0.029875606327746048",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "0.10970149305408884",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "0.08597943336149198",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "0.02643604932523906",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "0.02771860353550757",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "0.09989837423820921",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "0.11573955832327432",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "0.055973379876851644",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "0.11500226750233634",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "0.1302027938030539",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "0.13530263479327126",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "0.14640205055405703",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "0.20377557866596627",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "0.16792318529348865",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "0.17191733850734287",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "0.17928975783899456",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "0.1818699681170198",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "0.16443220838234807",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "0.22310615062445657",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "0.1861061364716202",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "0.2228535156337155",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "0.18557680540177915",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "0.34397288097209544",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "0.36306276667738274",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "0.2955748749692226",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "0.15030303724928368",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "0.14799044071353853",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "0.25771116584439646",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "0.18490463037854868",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "0.3742242917115432",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "0.3688650696113017",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "0.35381756496530287",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "0.3357152471101488",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "0.40077547247329504",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "0.40077547247329504",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "0.40077547247329504",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "0.45317272247049867",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "0.44202765673680744",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "0.4774634444020396",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "0.34944620050987096",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "0.3601384192754483",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "0.391595057497333",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "0.4160762862790379",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "0.4400149229462333",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "0.44018998959412003",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "0.4691803207397399",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "0.4772969622055264",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "0.4296338370919855",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "0.4771296725315252",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "0.47724650673125824",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "0.44910394812399235",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "0.5808715634502183",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "0.5522470024984001",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "0.5525816964643719",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "0.5311365919500393",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "0.3266610952643843",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "0.30189922043512857",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "0.2813328818046459",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "0.2711164080323782",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "0.27194214906662967",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "0.40427543109505937",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "0.4327980172691279",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "0.47710317753344744",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "0.523922206812603",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "0.5237896619313613",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "0.5237895667364437",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "0.5005796856538536",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "0.0888948151005559",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "0.1499647984762037",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "0.15163232870473362",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "0.1425721300980422",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "0.04769744520636351",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "0.008908388955198005",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "0.016302167225869475",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "0.059723885163504874",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "0.07172744728172567",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "0.0724160226607962",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "0.07667996046016291",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "0.1616172760995648",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "0.22061361795061465",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "0.1277436429863101",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "0.004932528303350145",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "0.0039129681374141705",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "0.017066888013574855",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "0.018560178308541696",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "0.019621176648181343",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "0.07100273023301801",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "0.16808386352584256",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "0.1690936790654001",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "0.15850446602566662",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "0.10832002967345222",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "0.11988942087074464",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "0.07248749436632917",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "0.04537035156743499",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "0.010959144533378627",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "0.010009494371551408",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "0.08391686257043518",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "0.09809191977077364",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "0.0963872208807878",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "0.05053625487071167",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "0.005810572918883861",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "0.004712784312972104",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "0.005282623459096252",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "0.005450975792503168",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "0.05802642753483442",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "0.028593565789003607",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "0.028593565789003607",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "0.028593565789003607",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "0.03754761907478377",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "0.0841775603539976",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "0.09462270561104227",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "0.147787886291557",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "0.10618532868981391",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "0.11325736856746578",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "0.10921531596766934",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "0.11572577642630391",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "0.11589896928619713",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "0.03148179118388511",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "0.027570721029535755",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "0.02657682850901723",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "0.028082784157019508",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "0.028335747602057273",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "0.027300665007768017",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "0.08085243956205264",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "0.06947434800835589",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "0.07014654459837129",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "0.07366241228683156",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "0.07893603181111153",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "0.03230091923790722",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "0.00789336505567989",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "0.007718913128579626",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "0.007831166253106772",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "0.017021337582410905",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "0.01822938416912146",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "0.020850191335375034",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "0.04661315899073114",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "0.04660136652318082",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "0.046601358053725304",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "0.043676751488690935",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "0.09919615795715771",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "0.09796595659227708",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "0.13347694932841844",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "-0.036279468008294666",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "-0.035957077133047244",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "-0.04406264445667865",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "0.0479915285729054",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "-0.16838464414397938",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "-0.1442123695012494",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "-0.10167090065178827",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "-0.06620459352362254",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "-0.06624770927373186",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "-0.10017463010725267",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "-0.0979451930705032",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "-0.08768912347335711",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "-0.09171515113661774",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "-0.09721264794668506",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "-0.04931338251037042",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "-0.049017684713557705",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "-0.04908076845641346",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "-0.05701221032494379",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "-0.05698558658715829",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "-0.05724123303447716",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "-0.06323176403376464",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "0.23288424764097548",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "0.23674843854709846",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "0.1313304599219023",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "0.13839672944175613",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "0.14066813561771432",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "0.24441373428671748",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "0.25147230865136666",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "0.2319623063633572",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "0.19356778442031186",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "0.29092249632241113",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "0.3543337825949952",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "0.3541365189814957",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "0.3645362112738035",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "0.14217063070348746",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "0.10272244531332557",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "0.34755523732295907",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "0.27260462018324777",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "0.3132719320277133",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "0.3356997901379682",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "0.35535999879809027",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "0.23004279780923748",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "0.38682415621188004",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "0.2794866621972238",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "0.32745460323546355",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "0.3383937766188476",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "0.356570966252786",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "0.37336095216603665",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "0.41793789829549566",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "0.3619204328772622",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "0.3927119361070144",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "0.3976904391765035",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "0.36399932540975405",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "0.3250480655872762",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "0.31581448046489524",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "0.4046587668842788",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "0.2605706458596645",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "0.10868615669872543",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "0.09536527061460731",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "0.15543827031740332",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "0.18012813753581663",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "0.088416872046065",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "0.07497159545832348",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "0.09862047723624673",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "0.0790238873126243",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "0.0875300065916392",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "0.08645190711939892",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "0.0",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "0.0688146264288684",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "0.07733430246470156",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "0.180098290707501",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "0.18621568243151562",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "0.20200406851751107",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "0.20011130790457365",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "0.2061443432865231",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "0.20607034982492298",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "0.21892697870531014",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "0.1913343468380809",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "0.18872184107813128",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "0.20299208167451346",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "0.20308749349433736",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "0.193371764354973",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "0.13741469841369933",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "0.1187420951492587",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "0.11826574934029496",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "0.12499026842269657",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "0.0879886029991007",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "0.1330246949418099",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "0.14882373874183313",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "0.14690315184583103",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "0.1496485314032419",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "0.23398205350834467",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "0.2572133002878188",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "0.28057178569305913",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "0.11830988168648254",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "0.11823215264203872",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "0.11823231289685777",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "0.151418463784537",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "0.08357993504150127",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "0.08280136424564263",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "0.11249201613069382",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "0.06863979478327112",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "0.07102748669471283",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "0.0",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "0.0",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "0.020040011343510633",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "0.02008494172808035",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "0.20512355042325192",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "0.2057790752413746",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "0.23705795032977434",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "-0.00288820688087956",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "0.0464065275770374",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "0.039529571020169366",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "0.040074905519262245",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "0.051485491160679575",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "0.10281677159195628",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "0.1516523105959562",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "0.14899729698488656",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "0.1604277026908473",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "0.1683283215894674",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "0.20402707037239387",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "0.23272821820926023",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "0.2333020985633221",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "0.2042189152126934",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "0.23655691276202218",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "0.18399702253362155",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "0.1841999369646705",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "0.19198298435435304",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "0.24596930739329598",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "0.2149021207418611",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "0.22777580242786707",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "0.10237005767026748",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "0.10170232064088026",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "0.04308028750184604",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "0.030336629693606013",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "0.02863474239940357",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "-0.0014772575291499993",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "-0.07181849501869153",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "-0.08762339615758227",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "-0.08788707703439144",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "-0.09193952602684531",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "-0.1103126388645555",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "0.04375154108985874",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "0.04432806912925306",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "0.03513093595609614",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "0.034695847880312464",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "-0.03516512509287875",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "-0.02753779756102844",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "0.0",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "0.0",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "0.0",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "0.0",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "0.0",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "-0.013804509266975781",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "0.00475391547034337",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "0.005087102550935365",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "0.01806590787749256",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "0.035471477836168025",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "0.017131746880177552",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "0.015073554009299836",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "0.0171281061460612",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "0.017209537177677064",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "0.015860394091943644",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "0.029078678450307684",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "0.013141373162936702",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "0.018375807120959934",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "0.004006442943950233",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "-0.01425220979030877",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "-0.01274772616681323",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "-0.009997561331340577",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "0.008125616045845272",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "0.008019644392202657",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "0.006776294217674106",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "0.008870113512011038",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "-0.009410959995165143",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "-0.010453279955763074",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "-0.010127961164368694",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "-0.00862724283660135",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "-0.010053901253974491",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "-0.010053901253974491",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "-0.010053901253974491",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "-0.013054386431287628",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "-0.009874567357275148",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "-0.011082739509586164",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "-0.009897144599430559",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "-0.010476015564287663",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "-0.011276869188317414",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "-0.02215638882908977",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "-0.023526941591304775",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "-0.023495514837873353",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "-0.02508911599669387",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "-0.021821926403049145",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "-0.021198422242399685",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "-0.022234903235026363",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "-0.02231813333491646",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "-0.02140942190239429",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "-0.023025678213187937",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "-0.020133170867604373",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "-0.020082267923662366",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "-0.021338652324275852",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "-0.015192135128383308",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "-0.011969108363880815",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "-0.013314578786892836",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "-0.013349935023819027",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "-0.013630883728508202",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "-0.020326437138615032",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "-0.02307430267051176",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "-0.0032076623687713086",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "-0.01149631523463554",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "-0.011493406830071506",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "-0.011493404741229372",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "-0.010806601075154132",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "0.20613944803363166",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "0.21611466154935333",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "0.2867754345940823",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "0.17362163065150774",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "0.1734117857175503",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "0.1502717282519027",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "0.16613832007577348",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "0.23051593228118744",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "0.17158936539605904",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "0.1519293438371581",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "0.15060315279706374",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "0.17519446618098145",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "0.15513822101503236",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "0.1540145654469366",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "0.13185645752142608",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "0.09293312176500924",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "0.12254940147418522",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "0.12199768322763568",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "-0.046930309366739656",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "-0.04628833641195859",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "-0.04192669470833678",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "-0.04405439669077103",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "-0.04436398975797295",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "-0.041939266042111956",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "-0.04238910745125492",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "-0.08355396222846315",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "-0.09366613476463335",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "-0.09442434378319658",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "-0.09357093442654983",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "0.05582916072471",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "0.04399851642767344",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "-0.06997951192726636",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "-0.07379469272972246",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "-0.07874095586314388",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "-0.07771738840109729",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "-0.13141111218694468",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "-0.09376227209939063",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "-0.08848980644194385",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "-0.07384411007987075",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "-0.11214638682578691",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "-0.029240612675162588",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "-0.029052426183072137",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "-0.030200357284106204",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "-0.035876690396528965",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "-0.02727156645179471",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "-0.027333452984456788",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "-0.02125695546978533",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "-0.020688356634994496",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "-0.019177168688590093",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "-0.015252507202114065",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "-0.01623499935678712",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "-0.015615185900172935",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "-0.0178462135013813",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "-0.01170381035497197",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "-0.018519064865504888",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "-0.014134659854981003",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "-0.01011491323582899",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "-0.01040127077591528",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "0.038420684629711814",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "0.03941438785694489",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "0.04318768631928159",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "0.03848162613320844",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "0.04343751799134958",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "0.04556005146281637",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "0.04202542586643991",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "0.03712927988756893",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "0.040902298080398296",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "0.05723614340090764",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "0.036888423960519987",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "0.05809275103854837",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "0.08652362147103966",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "0.06847189571594137",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "0.08536848137535816",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "0.08628365744224485",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "0.0736323880403535",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "0.026561259675315085",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "0.02113528672739855",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "0.023356530079536454",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "0.02323896937825177",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "0.019608668097401395",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "0.022551891679468403",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "0.022551891679468403",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "0.022551891679468403",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "0.02990831581073079",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "0.02245152511622633",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "0.025089635339219866",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "0.02294353086939779",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "0.02435129384879871",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "0.026655608442000895",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "0.026451650781846293",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "0.02756008815986295",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "0.027550263438396432",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "0.02987624023509067",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "0.026590431852434707",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "0.02597739257066485",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "0.027351675418378647",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "0.02726886840058655",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "0.02681967051407461",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "0.029343022080854767",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "0.08078902092443474",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "0.08052544487744781",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "0.08375675465263194",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "0.059463807290998844",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "0.04816736351161211",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "0.054323206639815096",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "0.053657850809421904",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "0.05476657506125264",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "0.08169591757850493",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "0.08932048674879246",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "0.09958058791791657",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "0.07065325575320225",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "0.07063538148242049",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "0.07063536864495956",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "0.06611221384513735",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "-0.23360374971254444",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "-0.23360106946711948",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "-0.3167224366862775",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "-0.19294049400869967",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "-0.1916179327637379",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "-0.23623284012907733",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "-0.2595715670743122",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "-0.31029709753215695",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "-0.30962994321433235",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "-0.2679030679649655",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "-0.2662182127175776",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "-0.31220744137706524",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "-0.18662141391245007",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "-0.1851517071614068",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "-0.15870220973911417",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "-0.13634199929935856",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "-0.15648034143960557",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "-0.15696278660789545",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "-0.2226177931834023",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "-0.21777937344043327",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "-0.1938908535072254",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "-0.20371463430798126",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "-0.18058043188724707",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "-0.1443285792929112",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "-0.14560410111314886",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "-0.14480023477416878",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "-0.16629116196416913",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "-0.16783573293121334",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "-0.16758052791663705",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "-0.17934273704435394",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "-0.13919159758582322",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "-0.14232420554595004",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "-0.15097262112464596",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "-0.15929482535607936",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "-0.15912721027977078",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "-0.27284214685519187",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "-0.1907355432952801",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "-0.17737397484148523",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "0.6060038664024219",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "-0.2232730560793244",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "-0.27094000885011693",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "-0.269967228824779",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "-0.28181439739120234",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "-0.33961609880093774",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "-0.2527162809538906",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "-0.2564049350298853",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "-0.20278264769221466",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "-0.20086895054386245",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "-0.19115607300668172",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "-0.15193482357528104",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "-0.19917178684537776",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "0.0",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "-0.1473913371639437",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "-0.12110416171241253",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "-0.19576521643011371",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "-0.19078208319120465",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "-0.13497660733790873",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "-0.13918492331435908",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "-0.14379794824149375",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "-0.12550608864148102",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "-0.13735211011089607",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "-0.109765455123273",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "-0.12194636307925887",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "-0.12398779198813774",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "-0.11436185497271023",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "-0.10207406620423051",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "-0.1120674601724271",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "-0.14125788156127428",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "-0.09062802529662395",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "-0.12718484391697274",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "-0.11324421049734744",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "-0.0886199252559818",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "-0.10618681948424068",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "-0.10571848725214633",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "-0.08953416551650514",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "-0.10283041310559146",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "-0.0830066403231029",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "-0.09215257926429503",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "-0.0905807313366992",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "-0.07771257842753332",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "-0.09049471258618842",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "-0.09049471258618842",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "-0.09049471258618842",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "-0.11758731162013811",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "-0.0889110632346827",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "-0.08590125208889998",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "-0.0777843966806398",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "-0.08169149469334908",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "-0.07383069650509701",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "-0.07253728203221324",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "-0.07587654579890697",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "-0.07590722309852165",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "-0.08057873924118455",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "-0.07056862868305969",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "-0.06914549753182883",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "-0.07375124303320377",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "-0.07386524422702834",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "-0.07088210115680586",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "-0.07740833067580204",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "-0.06651645410536003",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "-0.06633614957061137",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "-0.06975031821085304",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "-0.03938811084024211",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "-0.03107932032281582",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "-0.03475897434252829",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "-0.034332652753127725",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "-0.03524712663371311",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "-0.03964900189244811",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "-0.04345177040937461",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "-0.047840147418162414",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "-0.0340871927521586",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "-0.034078569176260405",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "-0.034078562982731174",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "-0.03218069155044096",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "-0.10098247360791836",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "-0.09983159165912475",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "-0.13712798915130298",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "0.3858258777847351",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "0.3806405522792841",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "0.31192377717154207",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "0.33909215284704586",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "0.2960787910404581",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "0.2957230744478188",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "0.2139761217399814",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "0.2160819691707648",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "0.2534483102261669",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "0.30618226743488997",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "0.2688694070639636",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "0.230028419216954",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "0.24137922769927703",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "0.38243779660876737",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "0.28818190353281187",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "0.37613557158178584",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "0.36793105920784536",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "0.3910550581535383",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "0.40953758617187797",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "0.3842230485892036",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "0.21663970246941314",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "0.21572287831444054",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "0.1656349797911894",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "0.1925494804888663",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "0.1934089927058291",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "0.1935065681624012",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "0.21382913705033485",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "0.1643333317277356",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "0.08598298958572172",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "0.09233100837714799",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "0.09703132622776833",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "0.09897622340501804",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "0.06985680655436921",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "0.11678438728068129",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "0.10768812129075113",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "-0.005789823971377838",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "-0.0086660171801447",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "-0.010561750798271863",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "-0.010541907848148032",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "-0.010907114547224811",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "0.04012151273780129",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "0.029003311141639367",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "0.1174294128885637",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "0.1942314827029717",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "0.1943922698091792",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "0.3464666602496941",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "0.15875490068663767",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "0.006819281684360126",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "-0.21285021653871072",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "-0.18889192148524567",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "-0.0837478312233903",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "-0.3146026354991883",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "0.0",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "-0.07462922157049683",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "-0.0773777260253688",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "-0.15341755202338125",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "-0.1485514717002523",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "-0.12945310500045895",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "-0.11149077543237547",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "-0.12191814581634702",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "-0.06015071122691616",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "-0.055102612741521804",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "-0.07384849950559778",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "0.0",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "0.0",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "0.05288652047780435",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "0.1331736764258367",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "0.1503000296464566",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "0.17980849001714125",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "0.2090902005730659",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "0.1681064045733672",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "0.25413619691782124",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "0.33424967634177305",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "0.303744452222373",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "0.32513055236960897",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "0.32047908190774965",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "0.25395071827693494",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "0.25686760923153873",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "0.25686760923153873",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "0.25686760923153873",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "0.2856976201586561",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "0.13880010151242717",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "0.02381740748775447",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "0.07908617135928277",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "0.1636146171266556",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "0.03227761381497386",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "-0.013291386969880817",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "0.03559269575982668",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "0.03558076709817732",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "0.03777165312690509",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "-0.09917637889946888",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "-0.16715659982868014",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "-0.08597388777270702",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "-0.08597097138695779",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "-0.11232278300407836",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "-0.014070788364199463",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "-0.021846760045891523",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "-0.021810529645575283",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "-0.02302608437910661",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "-0.016151980368804105",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "-0.09676600009932777",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "-0.03475897434252829",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "-0.08787407318605996",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "-0.06291529848784946",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "-0.10356934067210465",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "-0.038576821906135594",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "0.028172471222506077",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "0.1709655141447034",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "0.1709220805538063",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "0.17092204948997564",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "0.16260875166044966",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "0.2726086495918777",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "0.005858748718697042",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "0.008049426004281789",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "0.13942056469905437",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "0.13916194796857498",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "-0.0840884571864193",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "-0.09125001047752362",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "-0.06535052563893812",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "-0.13865704434964635",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "-0.11916083573910065",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "-0.11929452390751033",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "-0.13940991584710535",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "-0.24146500658750517",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "-0.23884095820674733",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "-0.2040304947714159",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "0.30107022911720377",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "0.394974644345234",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "0.23432218102714822",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "0.06935347224992784",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "0.06750571644445193",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "-0.06862028648259792",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "-0.07171521788570363",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "-0.07677970326319845",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "-0.30271171285215354",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "-0.3017648252736688",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "-0.3032355058881225",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "-0.35303637484586925",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "-0.24736822323311136",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "-0.2472984150833972",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "-0.2735988352207417",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "-0.15616405034512323",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "0.14353459601004132",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "0.15490772838351818",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "0.2525518338435847",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "0.25928035643946284",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "0.1377389695275037",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "0.19823199382653328",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "0.2902088054484184",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "0.04535146253517374",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "0.16514599009315506",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "0.09156830924644198",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "0.09163132331660458",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "0.09493966313919973",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "-0.09364980155061506",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "0.30065078023177993",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "0.4194076200545378",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "0.46037190388091614",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "0.6060041592908787",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "-0.11007854789912243",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "-0.19807654818376763",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "-0.3571222043211654",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "-0.38955602557909885",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "-0.12340286405077211",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "0.3363049210186726",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "0.0",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "0.38273613072502194",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "0.259968212841943",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "0.2707590882689598",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "0.10958411406217325",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "-0.026520743224691997",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "0.03580091164908897",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "0.13388711404007625",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "0.14775833188644005",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "0.0020151543632940046",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "-0.08346549631807056",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "-0.07473851668153135",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "-0.15475413098124255",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "-0.06660114502965207",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "0.1466522731361118",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "0.1371506620524688",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "0.10741724322978755",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "0.07002507672788692",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "0.08141730659025788",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "0.20506186592463718",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "0.18945581473375983",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "0.18686636233194187",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "0.11065637578681485",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "0.05677057570308047",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "0.07993043058113398",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "0.2217340573437413",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "0.16045112714801185",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "0.16045112714801185",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "0.16045112714801185",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "0.02689999965772453",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "-0.0911849416033564",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "-0.12109777448795682",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "-0.06775396833089972",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "-0.0019430232308460535",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "-0.07651866532465869",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "-0.06977219797639783",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "-0.0021606865973605735",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "-0.00216042271671954",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "-0.029825773159622794",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "-0.026258666919261313",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "-0.07000026152199376",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "-0.051206292331739914",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "-0.0511567711332617",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "-0.0688568982666114",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "-0.017851115878874464",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "-0.036595731803378495",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "-0.036504752830806064",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "0.05662816557657367",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "-0.041286963655180545",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "-0.05819625523382995",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "-0.04133367739309505",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "-0.040713458217448255",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "-0.06011116546851128",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "-0.07550968502621555",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "-0.07031478011000365",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "-0.02699252900519756",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "0.02372069407639814",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "0.023714693077512342",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "0.023714688767541344",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "0.022354777316214713",
+        "Ticker": "TLT"
     }
 ]
