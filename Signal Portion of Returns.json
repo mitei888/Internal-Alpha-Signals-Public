@@ -1,86 +1,317 @@
 [
     {
         "Date": "2025-01-31",
-        "EWZ Proportion of Total Return": "0.005392876033999385",
-        "GLD Proportion of Total Return": "0.0",
-        "IBIT Proportion of Total Return": "0.0",
-        "IGIL Proportion of Total Return": "-0.002703866015991077",
-        "KRE Proportion of Total Return": "0.00699692362251791",
-        "SOXX Proportion of Total Return": "0.010367520813452553",
-        "SPY Proportion of Total Return": "-0.011463188335886668",
-        "TIP Proportion of Total Return": "0.008768610576322663",
-        "TLT Proportion of Total Return": "0.0031131190077609886"
+        "Returns": "0.005392876033999385",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-02-28",
-        "EWZ Proportion of Total Return": "-0.0005238593070807841",
-        "GLD Proportion of Total Return": "0.0",
-        "IBIT Proportion of Total Return": "0.0",
-        "IGIL Proportion of Total Return": "-0.0009275005541550523",
-        "KRE Proportion of Total Return": "-0.0073381627562590385",
-        "SOXX Proportion of Total Return": "0.002881204639122975",
-        "SPY Proportion of Total Return": "0.0023385567647301836",
-        "TIP Proportion of Total Return": "0.0017801343203711136",
-        "TLT Proportion of Total Return": "-0.0024595356697386245"
+        "Returns": "-0.0005238593070807841",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-03-31",
-        "EWZ Proportion of Total Return": "-0.007623541226658541",
-        "GLD Proportion of Total Return": "0.0004762776805896442",
-        "IBIT Proportion of Total Return": "-0.012858686807391426",
-        "IGIL Proportion of Total Return": "-0.0027607167836930734",
-        "KRE Proportion of Total Return": "-0.018147993578041498",
-        "SOXX Proportion of Total Return": "0.00044975492334042014",
-        "SPY Proportion of Total Return": "0.008464857845463778",
-        "TIP Proportion of Total Return": "0.005584394119533862",
-        "TLT Proportion of Total Return": "0.02284683124201406"
+        "Returns": "-0.007623541226658541",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-04-30",
-        "EWZ Proportion of Total Return": "0.0018199454440112628",
-        "GLD Proportion of Total Return": "0.009178925626478644",
-        "IBIT Proportion of Total Return": "0.0022673886614388177",
-        "IGIL Proportion of Total Return": "0.008627757722378285",
-        "KRE Proportion of Total Return": "0.0021377531039749004",
-        "SOXX Proportion of Total Return": "0.0049385955096603274",
-        "SPY Proportion of Total Return": "-0.0007394206393998449",
-        "TIP Proportion of Total Return": "-0.001543440900944311",
-        "TLT Proportion of Total Return": "-0.007985678930689829"
+        "Returns": "0.0018199454440112628",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-05-31",
-        "EWZ Proportion of Total Return": "0.00033790229240486",
-        "GLD Proportion of Total Return": "-0.0025505947632355067",
-        "IBIT Proportion of Total Return": "-0.0034587762234943834",
-        "IGIL Proportion of Total Return": "-0.004523932507391422",
-        "KRE Proportion of Total Return": "-7.192447642827641e-05",
-        "SOXX Proportion of Total Return": "0.009907985587470303",
-        "SPY Proportion of Total Return": "-0.007316740194012518",
-        "TIP Proportion of Total Return": "-0.00040550719405904774",
-        "TLT Proportion of Total Return": "0.0030595653476099983"
+        "Returns": "0.00033790229240486",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-06-30",
-        "EWZ Proportion of Total Return": "-0.005549071241367502",
-        "GLD Proportion of Total Return": "0.0018851887186795695",
-        "IBIT Proportion of Total Return": "0.006159571494285432",
-        "IGIL Proportion of Total Return": "0.0030750846806277426",
-        "KRE Proportion of Total Return": "-0.0009754691598702937",
-        "SOXX Proportion of Total Return": "0.005117855126293418",
-        "SPY Proportion of Total Return": "-0.0025834221636671854",
-        "TIP Proportion of Total Return": "-0.0008473904218405926",
-        "TLT Proportion of Total Return": "0.0018133314330026034"
+        "Returns": "-0.005549071241367502",
+        "Ticker": "EWZ"
     },
     {
         "Date": "2025-07-31",
-        "EWZ Proportion of Total Return": "-0.00023373597428183823",
-        "GLD Proportion of Total Return": "0.008868859454832092",
-        "IBIT Proportion of Total Return": "-0.0006269907264353465",
-        "IGIL Proportion of Total Return": "-0.0013478048945698422",
-        "KRE Proportion of Total Return": "-0.0005640786217469403",
-        "SOXX Proportion of Total Return": "0.00164996832097502",
-        "SPY Proportion of Total Return": "-0.0005533514207882277",
-        "TIP Proportion of Total Return": "0.00021760361241746252",
-        "TLT Proportion of Total Return": "0.0005962331988846806"
+        "Returns": "-0.00023373597428183823",
+        "Ticker": "EWZ"
+    },
+    {
+        "Date": "2025-01-31",
+        "Returns": "0.0",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-02-28",
+        "Returns": "0.0",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-03-31",
+        "Returns": "0.0004762776805896442",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-04-30",
+        "Returns": "0.009178925626478644",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-05-31",
+        "Returns": "-0.0025505947632355067",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-06-30",
+        "Returns": "0.0018851887186795695",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-07-31",
+        "Returns": "0.008868859454832092",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-01-31",
+        "Returns": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-02-28",
+        "Returns": "0.0",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-03-31",
+        "Returns": "-0.012858686807391426",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-04-30",
+        "Returns": "0.0022673886614388177",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-05-31",
+        "Returns": "-0.0034587762234943834",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-06-30",
+        "Returns": "0.006159571494285432",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-07-31",
+        "Returns": "-0.0006269907264353465",
+        "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-31",
+        "Returns": "-0.002703866015991077",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-02-28",
+        "Returns": "-0.0009275005541550523",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-03-31",
+        "Returns": "-0.0027607167836930734",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-04-30",
+        "Returns": "0.008627757722378285",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-05-31",
+        "Returns": "-0.004523932507391422",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-06-30",
+        "Returns": "0.0030750846806277426",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-07-31",
+        "Returns": "-0.0013478048945698422",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-01-31",
+        "Returns": "0.00699692362251791",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-02-28",
+        "Returns": "-0.0073381627562590385",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-03-31",
+        "Returns": "-0.018147993578041498",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-04-30",
+        "Returns": "0.0021377531039749004",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-05-31",
+        "Returns": "-7.192447642827641e-05",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-06-30",
+        "Returns": "-0.0009754691598702937",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-07-31",
+        "Returns": "-0.0005640786217469403",
+        "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-31",
+        "Returns": "0.010367520813452553",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-02-28",
+        "Returns": "0.002881204639122975",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-03-31",
+        "Returns": "0.00044975492334042014",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-04-30",
+        "Returns": "0.0049385955096603274",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-05-31",
+        "Returns": "0.009907985587470303",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-06-30",
+        "Returns": "0.005117855126293418",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-07-31",
+        "Returns": "0.00164996832097502",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-01-31",
+        "Returns": "-0.011463188335886668",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-02-28",
+        "Returns": "0.0023385567647301836",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-03-31",
+        "Returns": "0.008464857845463778",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-04-30",
+        "Returns": "-0.0007394206393998449",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-05-31",
+        "Returns": "-0.007316740194012518",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-06-30",
+        "Returns": "-0.0025834221636671854",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-07-31",
+        "Returns": "-0.0005533514207882277",
+        "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-31",
+        "Returns": "0.008768610576322663",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-02-28",
+        "Returns": "0.0017801343203711136",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-03-31",
+        "Returns": "0.005584394119533862",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-04-30",
+        "Returns": "-0.001543440900944311",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-05-31",
+        "Returns": "-0.00040550719405904774",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-06-30",
+        "Returns": "-0.0008473904218405926",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-07-31",
+        "Returns": "0.00021760361241746252",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-01-31",
+        "Returns": "0.0031131190077609886",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-02-28",
+        "Returns": "-0.0024595356697386245",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-03-31",
+        "Returns": "0.02284683124201406",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-04-30",
+        "Returns": "-0.007985678930689829",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-05-31",
+        "Returns": "0.0030595653476099983",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-06-30",
+        "Returns": "0.0018133314330026034",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-07-31",
+        "Returns": "0.0005962331988846806",
+        "Ticker": "TLT"
     }
 ]

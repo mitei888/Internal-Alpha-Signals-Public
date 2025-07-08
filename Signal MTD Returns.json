@@ -1,6 +1,7 @@
 [
     {
         "Date": "2025-01-31",
+        "Portfolio MTD Returns": "",
         "EWZ MTD Returns": "0.022627666550000036",
         "GLD MTD Returns": "",
         "IBIT MTD Returns": "",
@@ -13,6 +14,7 @@
     },
     {
         "Date": "2025-02-28",
+        "Portfolio MTD Returns": "0.025613468409406037",
         "EWZ MTD Returns": "-0.002181613663481463",
         "GLD MTD Returns": "",
         "IBIT MTD Returns": "",
@@ -25,6 +27,7 @@
     },
     {
         "Date": "2025-03-31",
+        "Portfolio MTD Returns": "-0.023167408341512652",
         "EWZ MTD Returns": "-0.03263263528746574",
         "GLD MTD Returns": "0.0013868624999999746",
         "IBIT MTD Returns": "-0.14041097708749994",
@@ -37,6 +40,7 @@
     },
     {
         "Date": "2025-04-30",
+        "Portfolio MTD Returns": "0.01771141881196092",
         "EWZ MTD Returns": "0.008818528500929013",
         "GLD MTD Returns": "0.026085083282206156",
         "IBIT MTD Returns": "-0.005152195254267022",
@@ -49,6 +53,7 @@
     },
     {
         "Date": "2025-05-31",
+        "Portfolio MTD Returns": "-0.005207275400407996",
         "EWZ MTD Returns": "0.0017366560853342428",
         "GLD MTD Returns": "-0.007185871961430057",
         "IBIT MTD Returns": "-0.01869134523780913",
@@ -61,6 +66,7 @@
     },
     {
         "Date": "2025-06-30",
+        "Portfolio MTD Returns": "0.009937301818253808",
         "EWZ MTD Returns": "-0.028321876145335212",
         "GLD MTD Returns": "0.0053217870807376055",
         "IBIT MTD Returns": "0.03374392258210057",
@@ -73,6 +79,7 @@
     },
     {
         "Date": "2025-07-31",
+        "Portfolio MTD Returns": "-0.0002874493296057823",
         "EWZ MTD Returns": "-0.001239935991265817",
         "GLD MTD Returns": "0.02515126041174276",
         "IBIT MTD Returns": "-0.0033557347612909183",
