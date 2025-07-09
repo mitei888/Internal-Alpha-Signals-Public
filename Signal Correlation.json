@@ -1,5 +1,6 @@
 [
     {
+        "": "EWZ Gain/Loss %",
         "EWZ Gain/Loss %": "1.0",
         "GLD Gain/Loss %": "0.13965667858505312",
         "IBIT Gain/Loss %": "0.02688583900868514",
@@ -11,6 +12,7 @@
         "TLT Gain/Loss %": "-0.3308829090827906"
     },
     {
+        "": "GLD Gain/Loss %",
         "EWZ Gain/Loss %": "0.13965667858505312",
         "GLD Gain/Loss %": "1.0",
         "IBIT Gain/Loss %": "-0.29619270567044875",
@@ -22,6 +24,7 @@
         "TLT Gain/Loss %": "-0.1282834113729271"
     },
     {
+        "": "IBIT Gain/Loss %",
         "EWZ Gain/Loss %": "0.02688583900868514",
         "GLD Gain/Loss %": "-0.29619270567044875",
         "IBIT Gain/Loss %": "1.0",
@@ -33,6 +36,7 @@
         "TLT Gain/Loss %": "0.008162844460312395"
     },
     {
+        "": "IGIL Gain/Loss %",
         "EWZ Gain/Loss %": "0.19367600136641253",
         "GLD Gain/Loss %": "0.1448545604271373",
         "IBIT Gain/Loss %": "-0.02422777222437379",
@@ -44,6 +48,7 @@
         "TLT Gain/Loss %": "-0.3965229661713557"
     },
     {
+        "": "KRE Gain/Loss %",
         "EWZ Gain/Loss %": "0.09043114141621339",
         "GLD Gain/Loss %": "0.0030933833741372692",
         "IBIT Gain/Loss %": "-0.1978680193267975",
@@ -55,6 +60,7 @@
         "TLT Gain/Loss %": "-0.2501362093641745"
     },
     {
+        "": "SOXX Gain/Loss %",
         "EWZ Gain/Loss %": "-0.11755461533006788",
         "GLD Gain/Loss %": "-0.36874883263230424",
         "IBIT Gain/Loss %": "-0.025993871051352112",
@@ -66,6 +72,7 @@
         "TLT Gain/Loss %": "-0.010721562706545416"
     },
     {
+        "": "SPY Gain/Loss %",
         "EWZ Gain/Loss %": "-0.0020380062729673004",
         "GLD Gain/Loss %": "0.30178196670425245",
         "IBIT Gain/Loss %": "-0.30896081292763894",
@@ -77,6 +84,7 @@
         "TLT Gain/Loss %": "-0.07299172113439059"
     },
     {
+        "": "TIP Gain/Loss %",
         "EWZ Gain/Loss %": "-0.1352023780913856",
         "GLD Gain/Loss %": "0.032389301683086534",
         "IBIT Gain/Loss %": "-0.1546611996051298",
@@ -88,6 +96,7 @@
         "TLT Gain/Loss %": "0.2760713872317149"
     },
     {
+        "": "TLT Gain/Loss %",
         "EWZ Gain/Loss %": "-0.3308829090827906",
         "GLD Gain/Loss %": "-0.1282834113729271",
         "IBIT Gain/Loss %": "0.008162844460312395",
