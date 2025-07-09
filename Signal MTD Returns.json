@@ -34,7 +34,7 @@
         "IGIL MTD Returns": "-0.015366673326493996",
         "KRE MTD Returns": "-0.0794174758065409",
         "SOXX MTD Returns": "0.0018606758386909839",
-        "SPY MTD Returns": "0.03154703830607963",
+        "SPY MTD Returns": "0.03154670045217123",
         "TIP MTD Returns": "0.015157893710667114",
         "TLT MTD Returns": "0.08501511973474996"
     },
@@ -47,7 +47,7 @@
         "IGIL MTD Returns": "0.02664772371803914",
         "KRE MTD Returns": "0.009488469242557862",
         "SOXX MTD Returns": "0.022443126132495772",
-        "SPY MTD Returns": "-0.011956379399754469",
+        "SPY MTD Returns": "-0.011956379399753914",
         "TIP MTD Returns": "-0.004197752602854599",
         "TLT MTD Returns": "-0.040239129446876465"
     },
@@ -73,21 +73,21 @@
         "IGIL MTD Returns": "0.011163996848484015",
         "KRE MTD Returns": "-0.00373664387331174",
         "SOXX MTD Returns": "0.02274783441397288",
-        "SPY MTD Returns": "-0.013710755157612553",
+        "SPY MTD Returns": "-0.013710755157612775",
         "TIP MTD Returns": "-0.0023457640002085833",
         "TLT MTD Returns": "0.008408140828426003"
     },
     {
         "Date": "2025-07-31",
-        "Portfolio MTD Returns": "-0.0002874493296057823",
-        "EWZ MTD Returns": "-0.001239935991265817",
-        "GLD MTD Returns": "0.02515126041174276",
-        "IBIT MTD Returns": "-0.0033557347612909183",
-        "IGIL MTD Returns": "-0.0048872265322221775",
-        "KRE MTD Returns": "-0.0021904233589524758",
-        "SOXX MTD Returns": "0.007241916628559775",
-        "SPY MTD Returns": "-0.003007164178519983",
-        "TIP MTD Returns": "0.0006097913073364047",
-        "TLT MTD Returns": "0.0027687928832751396"
+        "Portfolio MTD Returns": "-0.005252024752734008",
+        "EWZ MTD Returns": "-0.0007267793887121288",
+        "GLD MTD Returns": "0.0042919822427434084",
+        "IBIT MTD Returns": "-0.002385608705478437",
+        "IGIL MTD Returns": "-0.007794721752467204",
+        "KRE MTD Returns": "-0.0029247784902202145",
+        "SOXX MTD Returns": "0.014926517796792105",
+        "SPY MTD Returns": "-0.003329805239926986",
+        "TIP MTD Returns": "0.0006018119608444117",
+        "TLT MTD Returns": "0.008998489565277046"
     }
 ]
