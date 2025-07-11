@@ -87482,20 +87482,48 @@
         "USDBRL Rolling % Strength": "-0.10407116999218952",
         "CCY Strength": "0.10407116999218952",
         "Brazil %": "-0.0242238143978164",
-        "CCY Signal Returns": "0.0004348428256666527",
-        "CCY Cum Returns": "2.5965151700178812"
+        "CCY Signal Returns": "0.00040027373073918903",
+        "CCY Cum Returns": "2.596425449852658"
     },
     {
         "": "6249",
         "Date": "2025-07-08",
-        "Brazil": "28.7195",
+        "Brazil": "28.71",
         "USDBRL": "5.4867",
         "USDBRL Rolling %": "-0.0009527754866542448",
         "USDBRL Rolling % Mean": "-0.0006223754147977952",
         "USDBRL Rolling % Stdev": "0.0031747512003684206",
         "USDBRL Rolling % Strength": "-0.10407116999218952",
         "CCY Strength": "0.10407116999218952",
-        "Brazil %": "0.0041783216783215504",
+        "Brazil %": "0.0038461538461538325",
+        "CCY Signal Returns": "-0.0019937005745630228",
+        "CCY Cum Returns": "2.591248954941477"
+    },
+    {
+        "": "6250",
+        "Date": "2025-07-09",
+        "Brazil": "28.16",
+        "USDBRL": "5.4867",
+        "USDBRL Rolling %": "-0.0009527754866542448",
+        "USDBRL Rolling % Mean": "-0.0006223754147977952",
+        "USDBRL Rolling % Stdev": "0.0031747512003684206",
+        "USDBRL Rolling % Strength": "-0.10407116999218952",
+        "CCY Strength": "0.10407116999218952",
+        "Brazil %": "-0.019157088122605415",
+        "CCY Signal Returns": "-0.0016445905769362397",
+        "CCY Cum Returns": "2.586987411327684"
+    },
+    {
+        "": "6251",
+        "Date": "2025-07-10",
+        "Brazil": "27.715",
+        "USDBRL": "5.4317",
+        "USDBRL Rolling %": "-0.002348232420900609",
+        "USDBRL Rolling % Mean": "-0.0006221875476064363",
+        "USDBRL Rolling % Stdev": "0.0031746474717005953",
+        "USDBRL Rolling % Strength": "-0.5436965485712859",
+        "CCY Strength": "0.5436965485712859",
+        "Brazil %": "-0.01580255681818188",
         "CCY Signal Returns": "",
         "CCY Cum Returns": ""
     }
