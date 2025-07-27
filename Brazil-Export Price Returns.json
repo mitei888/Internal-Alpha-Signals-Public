@@ -59636,13 +59636,13 @@
         "Exports % Stdev": "0.1142841225723406",
         "Exports % Strength": "-0.7382392687400129",
         "Brazil %": "-0.002954209748892156",
-        "Exports % Signal Returns": "-0.013671097569259558",
-        "Exports % Cum Returns": "3.0212108331548118"
+        "Exports % Signal Returns": "-0.013124253666489203",
+        "Exports % Cum Returns": "3.02288586337954"
     },
     {
         "": "3976",
         "Date": "2025-07-23",
-        "Brazil": "27.5",
+        "Brazil": "27.48",
         "US Exports": "3329.3",
         "China Exports": "8531.197",
         "Exports": "11860.497",
@@ -59650,7 +59650,37 @@
         "Exports % Mean": "-0.0062275296186579026",
         "Exports % Stdev": "0.1142841225723406",
         "Exports % Strength": "-0.7382392687400129",
-        "Brazil %": "0.0185185185185186",
+        "Brazil %": "0.017777777777777892",
+        "Exports % Signal Returns": "0.009402610773617396",
+        "Exports % Cum Returns": "3.051308882565968"
+    },
+    {
+        "": "3977",
+        "Date": "2025-07-24",
+        "Brazil": "27.13",
+        "US Exports": "3329.3",
+        "China Exports": "8531.197",
+        "Exports": "11860.497",
+        "Exports %": "-0.09059655669505662",
+        "Exports % Mean": "-0.0062275296186579026",
+        "Exports % Stdev": "0.1142841225723406",
+        "Exports % Strength": "-0.7382392687400129",
+        "Brazil %": "-0.01273653566229993",
+        "Exports % Signal Returns": "0.005170123887231848",
+        "Exports % Cum Returns": "3.067084527507045"
+    },
+    {
+        "": "3978",
+        "Date": "2025-07-25",
+        "Brazil": "26.94",
+        "US Exports": "3329.3",
+        "China Exports": "8531.197",
+        "Exports": "11860.497",
+        "Exports %": "-0.09059655669505662",
+        "Exports % Mean": "-0.0062275296186579026",
+        "Exports % Stdev": "0.1142841225723406",
+        "Exports % Strength": "-0.7382392687400129",
+        "Brazil %": "-0.0070033173608550214",
         "Exports % Signal Returns": "",
         "Exports % Cum Returns": ""
     }

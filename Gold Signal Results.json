@@ -35070,19 +35070,45 @@
         "DXY % Strength": "2.186894944458819",
         "Gold %": "0.009484878484974368",
         "Combined Gold Strength": "1.0485937493529363",
-        "Combined Gold Returns": "-0.012356886163681483",
-        "Cum Combined Gold Returns": "1.896083560296988"
+        "Combined Gold Returns": "-0.013003756714531899",
+        "Cum Combined Gold Returns": "1.8948416940804116"
     },
     {
         "": "2698",
         "Date": "2025-07-23",
-        "Gold": "312.375",
+        "Gold": "312.18",
         "Gold Net Demand Strength": "1.2880254013497545",
         "CB Demand % Strength": "-0.6633695811338841",
         "Rolling GLD OI % Strength": "2.1681823677804295",
         "DXY % Strength": "-0.0",
-        "Gold %": "-0.01178424549193302",
+        "Gold %": "-0.012401138880101303",
         "Combined Gold Strength": "0.3946609303616897",
+        "Combined Gold Returns": "-0.002414640197933361",
+        "Cum Combined Gold Returns": "1.890266333157165"
+    },
+    {
+        "": "2699",
+        "Date": "2025-07-24",
+        "Gold": "310.27",
+        "Gold Net Demand Strength": "1.2880254013497545",
+        "CB Demand % Strength": "-0.6633695811338841",
+        "Rolling GLD OI % Strength": "2.220937102863484",
+        "DXY % Strength": "0.2684065076411961",
+        "Gold %": "-0.006118265103466025",
+        "Combined Gold Strength": "0.48573382967065937",
+        "Combined Gold Returns": "-0.004493041838253113",
+        "Cum Combined Gold Returns": "1.8817732874368485"
+    },
+    {
+        "": "2700",
+        "Date": "2025-07-25",
+        "Gold": "307.4",
+        "Gold Net Demand Strength": "1.2880254013497545",
+        "CB Demand % Strength": "-0.6633695811338841",
+        "Rolling GLD OI % Strength": "2.2747183900541446",
+        "DXY % Strength": "0.2684065076411961",
+        "Gold %": "-0.009250008057498316",
+        "Combined Gold Strength": "0.4964900871087915",
         "Combined Gold Returns": "",
         "Cum Combined Gold Returns": ""
     }

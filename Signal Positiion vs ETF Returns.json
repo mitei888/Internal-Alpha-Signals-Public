@@ -3004,6 +3004,17 @@
     },
     {
         "Date": "2025-07-23",
+<<<<<<< HEAD
+        "EWZ Rolling %": "-0.0007965198666376738",
+        "GLD Rolling %": "0.0010040551164292922",
+        "IBIT Rolling %": "0.0058911035595297645",
+        "IGIL Rolling %": "1.1382873730475529e-05",
+        "KRE Rolling %": "0.00416853213257889",
+        "SOXX Rolling %": "0.0015040881190425514",
+        "SPY Rolling %": "0.002221936002494318",
+        "TIP Rolling %": "0.00023435633366111763",
+        "TLT Rolling %": "-0.0005763653010130154",
+=======
         "EWZ Rolling %": "0.0",
         "GLD Rolling %": "0.0",
         "IBIT Rolling %": "0.0",
@@ -3013,6 +3024,7 @@
         "SPY Rolling %": "0.0",
         "TIP Rolling %": "0.0",
         "TLT Rolling %": "0.0",
+>>>>>>> 65d9721 (completed Energy Signals)
         "EWZ Position Size (%)": "-0.2094482158656354",
         "GLD Position Size (%)": "0.3985870448580007",
         "IBIT Position Size (%)": "0.2285480356676809",
@@ -3022,5 +3034,26 @@
         "SPY Position Size (%)": "-0.1592732922145051",
         "TIP Position Size (%)": "1.363752323395011",
         "TLT Position Size (%)": "-0.2423841234139797"
+    },
+    {
+        "Date": "2025-07-24",
+        "EWZ Rolling %": "-0.0006652001102718796",
+        "GLD Rolling %": "0.0005799098147959813",
+        "IBIT Rolling %": "0.005139683408867524",
+        "IGIL Rolling %": "-0.00041024057581058316",
+        "KRE Rolling %": "0.0035480119487135363",
+        "SOXX Rolling %": "0.0009221114740164237",
+        "SPY Rolling %": "0.002231761613425487",
+        "TIP Rolling %": "0.0002320405797150038",
+        "TLT Rolling %": "-0.0007468077611213653",
+        "EWZ Position Size (%)": "-0.2061577091210611",
+        "GLD Position Size (%)": "0.4766496143936292",
+        "IBIT Position Size (%)": "0.1311257787704781",
+        "IGIL Position Size (%)": "0.3124572896190018",
+        "KRE Position Size (%)": "-0.07214222228365143",
+        "SOXX Position Size (%)": "0.1679088309575582",
+        "SPY Position Size (%)": "-0.1593460784540126",
+        "TIP Position Size (%)": "1.496181955294777",
+        "TLT Position Size (%)": "-0.2421393471076328"
     }
 ]

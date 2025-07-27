@@ -87636,20 +87636,48 @@
         "USDBRL Rolling % Strength": "1.6682161873168446",
         "CCY Strength": "-1.6682161873168446",
         "Brazil %": "-0.002954209748892156",
-        "CCY Signal Returns": "-0.03089289235771948",
-        "CCY Cum Returns": "2.58305782072367"
+        "CCY Signal Returns": "-0.02965717666341076",
+        "CCY Cum Returns": "2.5863514969986703"
     },
     {
         "": "6260",
         "Date": "2025-07-23",
-        "Brazil": "27.5",
+        "Brazil": "27.48",
         "USDBRL": "5.5598",
         "USDBRL Rolling %": "0.005131695863973796",
         "USDBRL Rolling % Mean": "-0.0004185092529685124",
         "USDBRL Rolling % Stdev": "0.003327029889255089",
         "USDBRL Rolling % Strength": "1.6682161873168446",
         "CCY Strength": "-1.6682161873168446",
-        "Brazil %": "0.0185185185185186",
+        "Brazil %": "0.017777777777777892",
+        "CCY Signal Returns": "0.021247294962187014",
+        "CCY Cum Returns": "2.6413044701312947"
+    },
+    {
+        "": "6261",
+        "Date": "2025-07-24",
+        "Brazil": "27.13",
+        "USDBRL": "5.588",
+        "USDBRL Rolling %": "0.0037185692393715496",
+        "USDBRL Rolling % Mean": "-0.00034315743047222955",
+        "USDBRL Rolling % Stdev": "0.003334612148795881",
+        "USDBRL Rolling % Strength": "1.2180507023314413",
+        "CCY Strength": "-1.2180507023314413",
+        "Brazil %": "-0.01273653566229993",
+        "CCY Signal Returns": "0.008530395630039435",
+        "CCY Cum Returns": "2.6638358422409065"
+    },
+    {
+        "": "6262",
+        "Date": "2025-07-25",
+        "Brazil": "26.94",
+        "USDBRL": "5.5568",
+        "USDBRL Rolling %": "0.004016168285491584",
+        "USDBRL Rolling % Mean": "-0.00027697030276585495",
+        "USDBRL Rolling % Stdev": "0.0033549375603553772",
+        "USDBRL Rolling % Strength": "1.2796478357715488",
+        "CCY Strength": "-1.2796478357715488",
+        "Brazil %": "-0.0070033173608550214",
         "CCY Signal Returns": "",
         "CCY Cum Returns": ""
     }
