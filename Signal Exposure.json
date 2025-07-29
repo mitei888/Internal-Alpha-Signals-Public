@@ -730,6 +730,11 @@
         "Ticker": "EWZ"
     },
     {
+        "Date": "2025-07-28",
+        "Exposure": "-0.009841677644443193",
+        "Ticker": "EWZ"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "",
         "Ticker": "GLD"
@@ -1457,6 +1462,11 @@
     {
         "Date": "2025-07-25",
         "Exposure": "0.143890651719218",
+        "Ticker": "GLD"
+    },
+    {
+        "Date": "2025-07-28",
+        "Exposure": "0.20012852350597973",
         "Ticker": "GLD"
     },
     {
@@ -2190,6 +2200,11 @@
         "Ticker": "IBIT"
     },
     {
+        "Date": "2025-07-28",
+        "Exposure": "0.06726674872431795",
+        "Ticker": "IBIT"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "0.09919615795715771",
         "Ticker": "IGIL"
@@ -2917,6 +2932,11 @@
     {
         "Date": "2025-07-25",
         "Exposure": "0.07274747543319393",
+        "Ticker": "IGIL"
+    },
+    {
+        "Date": "2025-07-28",
+        "Exposure": "0.03522583431647483",
         "Ticker": "IGIL"
     },
     {
@@ -3650,6 +3670,11 @@
         "Ticker": "KRE"
     },
     {
+        "Date": "2025-07-28",
+        "Exposure": "-0.03374298836148251",
+        "Ticker": "KRE"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "0.20613944803363166",
         "Ticker": "SOXX"
@@ -4377,6 +4402,11 @@
     {
         "Date": "2025-07-25",
         "Exposure": "0.03298840121368039",
+        "Ticker": "SOXX"
+    },
+    {
+        "Date": "2025-07-28",
+        "Exposure": "0.037602187214160206",
         "Ticker": "SOXX"
     },
     {
@@ -5110,6 +5140,11 @@
         "Ticker": "SPY"
     },
     {
+        "Date": "2025-07-28",
+        "Exposure": "-0.027820775433886925",
+        "Ticker": "SPY"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "-0.10098247360791836",
         "Ticker": "TIP"
@@ -5837,6 +5872,11 @@
     {
         "Date": "2025-07-25",
         "Exposure": "0.4585392840658995",
+        "Ticker": "TIP"
+    },
+    {
+        "Date": "2025-07-28",
+        "Exposure": "0.5125581178009859",
         "Ticker": "TIP"
     },
     {
@@ -6568,5 +6608,745 @@
         "Date": "2025-07-25",
         "Exposure": "-0.053878233226549124",
         "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-07-28",
+        "Exposure": "-0.005624377280031233",
+        "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-02",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-07",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-09",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-14",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-15",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-16",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-17",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-21",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-23",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-28",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-29",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-01-31",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-01",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-04",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-05",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-06",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-07",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-08",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-10",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-11",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-12",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-13",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-14",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-15",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-18",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-19",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-20",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-21",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-22",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-24",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-25",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-26",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-27",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-02-28",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-01",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-02",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-03",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-04",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-05",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-06",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-07",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-09",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-10",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-11",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-12",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-13",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-14",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-17",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-18",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-19",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-20",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-21",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-24",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-25",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-26",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-27",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-28",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-29",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-03-31",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-01",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-02",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-03",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-04",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-07",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-08",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-09",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-10",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-11",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-12",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-14",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-15",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-16",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-17",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-21",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-22",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-23",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-24",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-25",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-28",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-29",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-04-30",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-01",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-05",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-06",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-07",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-08",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-09",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-12",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-13",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-14",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-15",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-19",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-20",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-21",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-22",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-23",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-25",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-26",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-27",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-29",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-05-30",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-02",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-03",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-04",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-05",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-06",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-07",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-08",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-09",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-11",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-12",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-13",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-15",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-16",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-17",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-18",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-19",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-20",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-23",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-24",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-25",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-26",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-27",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-06-30",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-01",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-02",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-03",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-04",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-05",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-06",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-07",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-08",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-09",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-10",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-11",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-14",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-15",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-16",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-17",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-18",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-19",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-21",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-22",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-23",
+        "Exposure": "",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-24",
+        "Exposure": "0.0",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-25",
+        "Exposure": "0.10491987672802565",
+        "Ticker": "VDE"
+    },
+    {
+        "Date": "2025-07-28",
+        "Exposure": "0.07024663368202376",
+        "Ticker": "VDE"
     }
 ]
