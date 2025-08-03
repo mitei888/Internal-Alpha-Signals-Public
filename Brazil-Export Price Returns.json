@@ -59711,13 +59711,13 @@
         "Exports % Stdev": "0.1142841225723406",
         "Exports % Strength": "-0.7382392687400129",
         "Brazil %": "0.009049773755656076",
-        "Exports % Signal Returns": "-0.00397534673488166",
-        "Exports % Cum Returns": "3.06940714394769"
+        "Exports % Signal Returns": "-0.003310489994349843",
+        "Exports % Cum Returns": "3.071456004909515"
     },
     {
         "": "3981",
         "Date": "2025-07-30",
-        "Brazil": "26.9041",
+        "Brazil": "26.88",
         "US Exports": "3978.8",
         "China Exports": "8771.864",
         "Exports": "12750.664",
@@ -59725,7 +59725,37 @@
         "Exports % Mean": "-0.00785197111001539",
         "Exports % Stdev": "0.11285105154279429",
         "Exports % Strength": "0.7346414968639564",
-        "Brazil %": "0.005384902840059658",
+        "Brazil %": "0.004484304932735439",
+        "Exports % Signal Returns": "-0.009019036233820882",
+        "Exports % Cum Returns": "3.0437544319106493"
+    },
+    {
+        "": "3982",
+        "Date": "2025-07-31",
+        "Brazil": "26.55",
+        "US Exports": "3978.8",
+        "China Exports": "8771.864",
+        "Exports": "12750.664",
+        "Exports %": "0.07505309431805451",
+        "Exports % Mean": "-0.00785197111001539",
+        "Exports % Stdev": "0.11285105154279429",
+        "Exports % Strength": "0.7346414968639564",
+        "Brazil %": "-0.012276785714285698",
+        "Exports % Signal Returns": "0.0034587641095289393",
+        "Exports % Cum Returns": "3.0542820604979615"
+    },
+    {
+        "": "3983",
+        "Date": "2025-08-01",
+        "Brazil": "26.675",
+        "US Exports": "3978.8",
+        "China Exports": "8771.864",
+        "Exports": "12750.664",
+        "Exports %": "0.07505309431805451",
+        "Exports % Mean": "-0.00785197111001539",
+        "Exports % Stdev": "0.11285105154279429",
+        "Exports % Strength": "0.7346414968639564",
+        "Brazil %": "0.00470809792843685",
         "Exports % Signal Returns": "",
         "Exports % Cum Returns": ""
     }
