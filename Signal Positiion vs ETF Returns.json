@@ -1,5 +1,26 @@
 [
     {
+        "Date": "2025-01-01",
+        "EWZ Rolling %": "0.0",
+        "GLD Rolling %": "0.0",
+        "IBIT Rolling %": "0.0",
+        "IGIL Rolling %": "0.0",
+        "KRE Rolling %": "0.0",
+        "SOXX Rolling %": "0.0",
+        "SPY Rolling %": "0.0",
+        "TIP Rolling %": "0.0",
+        "TLT Rolling %": "0.0",
+        "EWZ Position Size (%)": "0.0",
+        "GLD Position Size (%)": "0.0",
+        "IBIT Position Size (%)": "0.0",
+        "IGIL Position Size (%)": "0.0",
+        "KRE Position Size (%)": "0.0",
+        "SOXX Position Size (%)": "0.0",
+        "SPY Position Size (%)": "0.0",
+        "TIP Position Size (%)": "0.0",
+        "TLT Position Size (%)": "0.0"
+    },
+    {
         "Date": "2025-01-02",
         "EWZ Rolling %": "-0.0030977322057036795",
         "GLD Rolling %": "0.0",

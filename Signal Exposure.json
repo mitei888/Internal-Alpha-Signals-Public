@@ -1,5 +1,10 @@
 [
     {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "EWZ"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "-0.0038895860553688952",
         "Ticker": "EWZ"
@@ -753,6 +758,11 @@
         "Date": "2025-08-01",
         "Exposure": "0.06818130104285534",
         "Ticker": "EWZ"
+    },
+    {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "GLD"
     },
     {
         "Date": "2025-01-02",
@@ -1510,6 +1520,11 @@
         "Ticker": "GLD"
     },
     {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "IBIT"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "",
         "Ticker": "IBIT"
@@ -1696,7 +1711,7 @@
     },
     {
         "Date": "2025-03-04",
-        "Exposure": "0.0",
+        "Exposure": "",
         "Ticker": "IBIT"
     },
     {
@@ -2263,6 +2278,11 @@
         "Date": "2025-08-01",
         "Exposure": "0.16231756577107925",
         "Ticker": "IBIT"
+    },
+    {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "IGIL"
     },
     {
         "Date": "2025-01-02",
@@ -3020,6 +3040,11 @@
         "Ticker": "IGIL"
     },
     {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "KRE"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "0.08357993504150127",
         "Ticker": "KRE"
@@ -3773,6 +3798,11 @@
         "Date": "2025-08-01",
         "Exposure": "-0.060551815326361016",
         "Ticker": "KRE"
+    },
+    {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "SOXX"
     },
     {
         "Date": "2025-01-02",
@@ -4530,6 +4560,11 @@
         "Ticker": "SOXX"
     },
     {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "SPY"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "-0.23360374971254444",
         "Ticker": "SPY"
@@ -5283,6 +5318,11 @@
         "Date": "2025-08-01",
         "Exposure": "-0.019386505438700883",
         "Ticker": "SPY"
+    },
+    {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "TIP"
     },
     {
         "Date": "2025-01-02",
@@ -6040,6 +6080,11 @@
         "Ticker": "TIP"
     },
     {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "TLT"
+    },
+    {
         "Date": "2025-01-02",
         "Exposure": "0.2726086495918777",
         "Ticker": "TLT"
@@ -6793,6 +6838,11 @@
         "Date": "2025-08-01",
         "Exposure": "-0.14761497918933636",
         "Ticker": "TLT"
+    },
+    {
+        "Date": "2025-01-01",
+        "Exposure": "",
+        "Ticker": "VDE"
     },
     {
         "Date": "2025-01-02",
