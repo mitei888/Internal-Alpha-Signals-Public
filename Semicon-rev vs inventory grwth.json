@@ -57616,9 +57616,9 @@
         "TXN US Revenue": "4448.0",
         "TXN US Inventories": "4812.0",
         "TXN US R&D": "527.0",
-        "AMD US Revenue": "7438.0",
-        "AMD US Inventories": "6416.0",
-        "AMD US R&D": "1728.0",
+        "AMD US Revenue": "7685.0",
+        "AMD US Inventories": "6677.0",
+        "AMD US R&D": "1894.0",
         "AMAT US Revenue": "7100.0",
         "AMAT US Inventories": "5656.0",
         "AMAT US R&D": "893.0",
@@ -57645,13 +57645,13 @@
         "8035 JT R&D": "429.9202247968367",
         "Date 1Q Ago": "2025-05-05",
         "Index": "884.0",
-        "Total Revenue": "224591.95406400773",
-        "Total Inventories": "140094.06983842922",
-        "Total Semi R&D": "29406.23901124744",
+        "Total Revenue": "224838.95406400773",
+        "Total Inventories": "140355.06983842922",
+        "Total Semi R&D": "29572.23901124744",
         "Revenue Compare": "213626.87269284026",
-        "Total Revenue Growth": "0.0513281930917624",
+        "Total Revenue Growth": "0.05248441467047349",
         "Inventories Compare": "134201.19112582254",
-        "Total Inventories Growth": "0.04391077801300369",
-        "Grwth Differentials": "0.0074174150787587045"
+        "Total Inventories Growth": "0.04585561917134551",
+        "Grwth Differentials": "0.006628795499127982"
     }
 ]
