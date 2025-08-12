@@ -80050,5 +80050,19 @@
         "Div Yield": "1.2117",
         "Implied Earnings Growth": "5.544636432460066",
         "Implied 1Y Sales Growth": "24.092253939544218"
+    },
+    {
+        "Date": "2025-08-11",
+        "S&P": "6373.45",
+        "10Y Rate": "4.209",
+        "S&P Change": "-0.002504127898332431",
+        "S&P Vol": "0.17162672667877238",
+        "10Y Price": "66.21367855961944",
+        "10Y Change": "0.0",
+        "10Y Rate Vol": "0.06936577131407191",
+        "Risk Premium": "2.5565238841175115",
+        "Div Yield": "1.2147",
+        "Implied Earnings Growth": "5.553823884117511",
+        "Implied 1Y Sales Growth": "24.13546752179292"
     }
 ]
