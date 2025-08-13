@@ -50553,6 +50553,19 @@
         "Crude Oil % Stdev": "0.002832975731662163",
         "Crude Oil % Strength": "1.1625671827562538",
         "Brazil %": "-0.0061129090255303",
+        "Crude Oil % Signal Returns": "0.02986333935444792",
+        "Crude Oil % Cum Returns": "0.840525456331359"
+    },
+    {
+        "": "3889",
+        "Date": "2025-08-12",
+        "Brazil": "28.35",
+        "Crude Oil": "70.36",
+        "Crude Oil %": "0.002713101462893217",
+        "Crude Oil % Mean": "-0.0005804231522821005",
+        "Crude Oil % Stdev": "0.002832975731662163",
+        "Crude Oil % Strength": "1.1625671827562538",
+        "Brazil %": "0.02568740955137483",
         "Crude Oil % Signal Returns": "",
         "Crude Oil % Cum Returns": ""
     }
