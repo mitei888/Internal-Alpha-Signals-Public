@@ -38564,13 +38564,13 @@
     {
         "": "6427",
         "Date": "2025-08-20",
-        "US 1Y ZC": "3.867",
+        "US 1Y ZC": "3.86",
         "Short-term Rate": ""
     },
     {
         "": "6428",
         "Date": "2025-08-21",
-        "US 1Y ZC": "3.867",
+        "US 1Y ZC": "3.86",
         "Short-term Rate": ""
     },
     {
@@ -40131,13 +40131,13 @@
         "": "259",
         "Date": "2026-08-20",
         "US 1Y ZC": "",
-        "Short-term Rate": "3.57937"
+        "Short-term Rate": "3.5818"
     },
     {
         "": "260",
         "Date": "2026-08-21",
         "US 1Y ZC": "",
-        "Short-term Rate": "3.57937"
+        "Short-term Rate": "3.62012"
     },
     {
         "": "261",
@@ -41697,13 +41697,13 @@
         "": "520",
         "Date": "2027-08-20",
         "US 1Y ZC": "",
-        "Short-term Rate": "3.60623"
+        "Short-term Rate": "3.61459"
     },
     {
         "": "521",
         "Date": "2027-08-21",
         "US 1Y ZC": "",
-        "Short-term Rate": "3.60623"
+        "Short-term Rate": "3.6514"
     },
     {
         "": "522",
@@ -43263,13 +43263,13 @@
         "": "781",
         "Date": "2028-08-20",
         "US 1Y ZC": "",
-        "Short-term Rate": "3.98929"
+        "Short-term Rate": "3.99862"
     },
     {
         "": "782",
         "Date": "2028-08-21",
         "US 1Y ZC": "",
-        "Short-term Rate": "3.98929"
+        "Short-term Rate": "4.0543"
     },
     {
         "": "783",
@@ -44829,13 +44829,13 @@
         "": "1042",
         "Date": "2029-08-20",
         "US 1Y ZC": "",
-        "Short-term Rate": "4.02247"
+        "Short-term Rate": "4.03184"
     },
     {
         "": "1043",
         "Date": "2029-08-21",
         "US 1Y ZC": "",
-        "Short-term Rate": "4.02247"
+        "Short-term Rate": "4.08834"
     },
     {
         "": "1044",
@@ -46395,13 +46395,13 @@
         "": "1303",
         "Date": "2030-08-20",
         "US 1Y ZC": "",
-        "Short-term Rate": "4.60175"
+        "Short-term Rate": "4.61194"
     },
     {
         "": "1304",
         "Date": "2030-08-21",
         "US 1Y ZC": "",
-        "Short-term Rate": "4.60175"
+        "Short-term Rate": "4.6529"
     },
     {
         "": "1305",
@@ -47961,13 +47961,13 @@
         "": "1564",
         "Date": "2031-08-20",
         "US 1Y ZC": "",
-        "Short-term Rate": "4.63924"
+        "Short-term Rate": "4.64891"
     },
     {
         "": "1565",
         "Date": "2031-08-21",
         "US 1Y ZC": "",
-        "Short-term Rate": "4.63924"
+        "Short-term Rate": "4.69175"
     },
     {
         "": "1566",
@@ -49527,12 +49527,12 @@
         "": "1825",
         "Date": "2032-08-20",
         "US 1Y ZC": "",
-        "Short-term Rate": "5.06146"
+        "Short-term Rate": "5.06174"
     },
     {
         "": "1826",
         "Date": "2032-08-21",
         "US 1Y ZC": "",
-        "Short-term Rate": "5.06146"
+        "Short-term Rate": "5.07799"
     }
 ]
