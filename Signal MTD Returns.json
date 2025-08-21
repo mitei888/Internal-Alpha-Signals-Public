@@ -99,16 +99,16 @@
     },
     {
         "Date": "2025-08-31",
-        "Portfolio MTD Returns": "0.0032970616877390224",
-        "EWZ MTD Returns": "0.017207778671386453",
-        "GLD MTD Returns": "0.004922277179078449",
-        "IBIT MTD Returns": "-0.004390891041751832",
-        "IGIL MTD Returns": "-0.007997763545141923",
-        "KRE MTD Returns": "-0.0013376720731352876",
-        "SOXX MTD Returns": "0.0023177827123559425",
-        "SPY MTD Returns": "0.0009744742442205911",
-        "TIP MTD Returns": "0.0026797645447129703",
-        "TLT MTD Returns": "-0.0004980522768510687",
-        "VDE MTD Returns": "-0.00016051893634771996"
+        "Portfolio MTD Returns": "-0.0020273078970134417",
+        "EWZ MTD Returns": "0.005016587017896423",
+        "GLD MTD Returns": "0.003638094673327208",
+        "IBIT MTD Returns": "-0.017920913662160864",
+        "IGIL MTD Returns": "-0.007850924541513482",
+        "KRE MTD Returns": "-0.0014851625851076689",
+        "SOXX MTD Returns": "-0.0022963484820325286",
+        "SPY MTD Returns": "0.000574828312277953",
+        "TIP MTD Returns": "0.0015144560609965385",
+        "TLT MTD Returns": "0.003947038612282405",
+        "VDE MTD Returns": "0.001025458697311521"
     }
 ]
