@@ -80173,8 +80173,22 @@
         "10Y Change": "0.0",
         "10Y Rate Vol": "0.06867662592880291",
         "Risk Premium": "2.558001825303615",
-        "Div Yield": "1.2188",
+        "Div Yield": "1.2201",
         "Implied Earnings Growth": "5.553101825303615",
         "Implied 1Y Sales Growth": "24.132070877865818"
+    },
+    {
+        "Date": "2025-08-22",
+        "S&P": "6466.76",
+        "10Y Rate": "4.209",
+        "S&P Change": "0.015162860645791199",
+        "S&P Vol": "0.1710322141146565",
+        "10Y Price": "66.21367855961944",
+        "10Y Change": "0.0",
+        "10Y Rate Vol": "0.06863065734052684",
+        "Risk Premium": "2.560038919353241",
+        "Div Yield": "1.2018",
+        "Implied Earnings Growth": "5.54893891935324",
+        "Implied 1Y Sales Growth": "24.11248947066069"
     }
 ]
