@@ -87986,6 +87986,20 @@
         "USDBRL Rolling % Strength": "-0.22891354793292792",
         "CCY Strength": "0.22891354793292792",
         "Brazil %": "-0.004523312456506612",
+        "CCY Signal Returns": "0.002961233977279872",
+        "CCY Cum Returns": "2.767438820041743"
+    },
+    {
+        "": "6285",
+        "Date": "2025-08-27",
+        "Brazil": "28.9801",
+        "USDBRL": "5.4011",
+        "USDBRL Rolling %": "-0.0012205429365020227",
+        "USDBRL Rolling % Mean": "-0.0004844638927689433",
+        "USDBRL Rolling % Stdev": "0.0032155328960641154",
+        "USDBRL Rolling % Strength": "-0.22891354793292792",
+        "CCY Strength": "0.22891354793292792",
+        "Brazil %": "0.012936036350926328",
         "CCY Signal Returns": "",
         "CCY Cum Returns": ""
     }
