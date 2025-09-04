@@ -68,25 +68,25 @@
     {
         "": "11",
         "Date": "2022-12-31",
-        "Annual Returns": "0.0844725465963847",
-        "Total Signal Level": "2.323127119591336"
+        "Annual Returns": "0.08448456704410945",
+        "Total Signal Level": "2.323152869462263"
     },
     {
         "": "12",
         "Date": "2023-12-31",
         "Annual Returns": "0.12303645963234988",
-        "Total Signal Level": "2.6089564556617524"
+        "Total Signal Level": "2.6089853737056345"
     },
     {
         "": "13",
         "Date": "2024-12-31",
-        "Annual Returns": "0.1116346850451877",
-        "Total Signal Level": "2.900206487886161"
+        "Annual Returns": "0.11163468504518748",
+        "Total Signal Level": "2.900238634186764"
     },
     {
         "": "14",
         "Date": "2025-12-31",
-        "Annual Returns": "0.06037282438537406",
-        "Total Signal Level": "3.075300144860635"
+        "Annual Returns": "0.0614379026055758",
+        "Total Signal Level": "3.0784232129268583"
     }
 ]
