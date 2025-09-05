@@ -57871,8 +57871,8 @@
         "QCOM US Inventories": "6338.0",
         "QCOM US R&D": "2226.0",
         "AVGO US Revenue": "15952.0",
-        "AVGO US Inventories": "2017.0",
-        "AVGO US R&D": "2693.0",
+        "AVGO US Inventories": "2180.0",
+        "AVGO US R&D": "3050.0",
         "TXN US Revenue": "4448.0",
         "TXN US Inventories": "4812.0",
         "TXN US R&D": "527.0",
@@ -57906,12 +57906,12 @@
         "Date 1Q Ago": "2025-06-04",
         "Index": "889.0",
         "Total Revenue": "228910.241966156",
-        "Total Inventories": "142647.27164174043",
-        "Total Semi R&D": "29885.03257545442",
+        "Total Inventories": "142810.27164174043",
+        "Total Semi R&D": "30242.03257545442",
         "Revenue Compare": "218464.49200366426",
         "Total Revenue Growth": "0.04781440620710353",
         "Inventories Compare": "136286.71526257193",
-        "Total Inventories Growth": "0.04667040633354591",
-        "Grwth Differentials": "0.0011439998735576218"
+        "Total Inventories Growth": "0.047866414320721695",
+        "Grwth Differentials": "-5.200811361816271e-05"
     }
 ]
