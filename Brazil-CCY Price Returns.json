@@ -88140,20 +88140,34 @@
         "USDBRL Rolling % Strength": "0.5834629720699501",
         "CCY Strength": "-0.5834629720699501",
         "Brazil %": "0.008727760993622047",
-        "CCY Signal Returns": "-9.708202530279433e-05",
-        "CCY Cum Returns": "2.833879561680032"
+        "CCY Signal Returns": "0.0003883281012112421",
+        "CCY Cum Returns": "2.835255289074994"
     },
     {
         "": "6296",
         "Date": "2025-09-12",
-        "Brazil": "30.055",
+        "Brazil": "30.03",
         "USDBRL": "5.4651",
         "USDBRL Rolling %": "0.0012300372535640092",
         "USDBRL Rolling % Mean": "-0.0006991813579406703",
         "USDBRL Rolling % Stdev": "0.002802779081200272",
         "USDBRL Rolling % Strength": "0.6883234659645399",
         "CCY Strength": "-0.6883234659645399",
-        "Brazil %": "0.00016638935108148623",
+        "Brazil %": "-0.0006655574043260559",
+        "CCY Signal Returns": "-0.01100217328215042",
+        "CCY Cum Returns": "2.804061319085457"
+    },
+    {
+        "": "6297",
+        "Date": "2025-09-15",
+        "Brazil": "30.51",
+        "USDBRL": "5.4126",
+        "USDBRL Rolling %": "-0.0006236645035779809",
+        "USDBRL Rolling % Mean": "-0.0007642460997755777",
+        "USDBRL Rolling % Stdev": "0.002626358424835775",
+        "USDBRL Rolling % Strength": "0.05352719372504813",
+        "CCY Strength": "-0.05352719372504813",
+        "Brazil %": "0.015984015984015887",
         "CCY Signal Returns": "",
         "CCY Cum Returns": ""
     }
