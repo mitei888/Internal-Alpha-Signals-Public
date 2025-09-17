@@ -50865,19 +50865,32 @@
         "Crude Oil % Stdev": "0.002810153908212253",
         "Crude Oil % Strength": "-0.7647114739973675",
         "Brazil %": "0.015984015984015887",
-        "Crude Oil % Signal Returns": "-0.004135607774813591",
-        "Crude Oil % Cum Returns": "0.7662367244836837"
+        "Crude Oil % Signal Returns": "-0.004511572117978633",
+        "Crude Oil % Cum Returns": "0.7659474504730067"
     },
     {
         "": "3913",
         "Date": "2025-09-16",
-        "Brazil": "30.675",
+        "Brazil": "30.69",
         "Crude Oil": "65.85",
         "Crude Oil %": "-0.0025361920651161187",
         "Crude Oil % Mean": "-0.0003872351278076637",
         "Crude Oil % Stdev": "0.002810153908212253",
         "Crude Oil % Strength": "-0.7647114739973675",
-        "Brazil %": "0.005408062930186697",
+        "Brazil %": "0.005899705014749346",
+        "Crude Oil % Signal Returns": "-0.005980148379256045",
+        "Crude Oil % Cum Returns": "0.7613669710684652"
+    },
+    {
+        "": "3914",
+        "Date": "2025-09-17",
+        "Brazil": "30.93",
+        "Crude Oil": "66.6",
+        "Crude Oil %": "-0.0014268306423777322",
+        "Crude Oil % Mean": "-0.00038756079762985676",
+        "Crude Oil % Stdev": "0.0028102701131436122",
+        "Crude Oil % Strength": "-0.3698113714718091",
+        "Brazil %": "0.00782013685239491",
         "Crude Oil % Signal Returns": "",
         "Crude Oil % Cum Returns": ""
     }
