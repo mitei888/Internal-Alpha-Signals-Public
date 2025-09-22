@@ -2148,5 +2148,30 @@
         "Misc Store Retailers QoQ %": "-0.05906448202959835",
         "Nonstore Retail QoQ %": "0.015475837292378669",
         "F&B Places QoQ %": "0.01616564592456382"
+    },
+    {
+        "": "94",
+        "Date": "2025-09-30",
+        "Total QoQ %": "0.014976110829062028",
+        "Total ex Auto QoQ %": "0.015811885285748728",
+        "Total ex Gas QoQ %": "0.014956321584485677",
+        "Total ex Auto, Gas QoQ %": "0.01586695515676051",
+        "Retail Trade QoQ %": "0.015747955391532287",
+        "Motor Vehicle and Parts Dealers QoQ %": "0.011452389330450563",
+        "Auto and Other Motor QoQ %": "0.012925746218447554",
+        "Furniture and Home Stores QoQ %": "0.013075018461404797",
+        "Elect and Appl Stores QoQ %": "0.015008520120592506",
+        "Building M and Garden Equip QoQ %": "-0.008969889458208757",
+        "F&B Stores QoQ %": "0.01128925826184668",
+        "Grocery Stores QoQ %": "0.011917888717952074",
+        "Health and Personal Care QoQ %": "0.01720843752003587",
+        "Gas Stations QoQ %": "0.01523657566087544",
+        "Clothing and Access Stores QoQ %": "0.03670269855872421",
+        "Sports,Hobby,Music,Books QoQ %": "0.02307546812937389",
+        "Gen Merchandise Stores QoQ %": "0.0008600861389300718",
+        "Dept Stores QoQ %": "-0.0027825011593755056",
+        "Misc Store Retailers QoQ %": "0.045222642557179116",
+        "Nonstore Retail QoQ %": "0.032471079691516636",
+        "F&B Places QoQ %": "0.010095144958539581"
     }
 ]
