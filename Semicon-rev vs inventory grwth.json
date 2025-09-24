@@ -57918,8 +57918,8 @@
         "": "891",
         "Date": "2025-09-23",
         "MU US Revenue": "11315.0",
-        "MU US Inventories": "8727.0",
-        "MU US R&D": "965.0",
+        "MU US Inventories": "8355.0",
+        "MU US R&D": "1047.0",
         "2330 TT Revenue": "30259.831644351023",
         "2330 TT Inventories": "9857.497092245007",
         "2330 TT R&D": "1985.7893838151838",
@@ -57971,12 +57971,12 @@
         "Date 1Q Ago": "2025-06-23",
         "Index": "890.0",
         "Total Revenue": "230924.241966156",
-        "Total Inventories": "142810.27164174043",
-        "Total Semi R&D": "30242.03257545442",
+        "Total Inventories": "142438.27164174043",
+        "Total Semi R&D": "30324.03257545442",
         "Revenue Compare": "218552.49200366426",
         "Total Revenue Growth": "0.05660768197639365",
         "Inventories Compare": "136395.71526257193",
-        "Total Inventories Growth": "0.04702901676068039",
-        "Grwth Differentials": "0.009578665215713267"
+        "Total Inventories Growth": "0.044301658358813834",
+        "Grwth Differentials": "0.01230602361757982"
     }
 ]
