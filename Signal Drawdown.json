@@ -4345,5 +4345,28 @@
         "TLT Proportion of Portfolio Drawdowns": "-0.0009922200127791528",
         "VDE Drawdowns": "-0.013113749543206654",
         "VDE Proportion of Portfolio Drawdowns": "-0.000890129717223156"
+    },
+    {
+        "Date": "2025-09-26",
+        "EWZ Drawdowns": "-0.04990475598948929",
+        "EWZ Proportion of Portfolio Drawdowns": "-0.003890794969234005",
+        "GLD Drawdowns": "-0.020460801595030276",
+        "GLD Proportion of Portfolio Drawdowns": "-0.0012335247378008748",
+        "IBIT Drawdowns": "-0.0489574240626407",
+        "IBIT Proportion of Portfolio Drawdowns": "-0.004832845183477589",
+        "IGIL Drawdowns": "-0.03434960433753509",
+        "IGIL Proportion of Portfolio Drawdowns": "-0.005907977843298562",
+        "KRE Drawdowns": "-0.10962245330474196",
+        "KRE Proportion of Portfolio Drawdowns": "-0.004377498411485714",
+        "SOXX Drawdowns": "-0.005027232031473816",
+        "SOXX Proportion of Portfolio Drawdowns": "-1.1216395972841942e-05",
+        "SPY Drawdowns": "-0.08467046538194156",
+        "SPY Proportion of Portfolio Drawdowns": "-0.016266112744467265",
+        "TIP Drawdowns": "-0.004297304724492634",
+        "TIP Proportion of Portfolio Drawdowns": "-0.001195554742374248",
+        "TLT Drawdowns": "-0.013180241999463438",
+        "TLT Proportion of Portfolio Drawdowns": "-0.0009628139770179632",
+        "VDE Drawdowns": "-0.007227958993550887",
+        "VDE Proportion of Portfolio Drawdowns": "-3.8848048748044594e-05"
     }
 ]
