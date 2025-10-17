@@ -74728,8 +74728,8 @@
         "Rolling GLD OI % Strength": "1.3077073371485575",
         "Gold": "387.39",
         "Gold %": "0.017332387930355297",
-        "Investment Demand Returns": "0.03098880548032663",
-        "Cumulative Investment Demand Returns": "2.6455736652776864"
+        "Investment Demand Returns": "0.0305837230557472",
+        "Cumulative Investment Demand Returns": "2.644534201620043"
     },
     {
         "": "5338",
@@ -74740,8 +74740,22 @@
         "Rolling GLD OI % Mean": "157217.33200000002",
         "Rolling GLD OI % Stdev": "52829.12818055724",
         "Rolling GLD OI % Strength": "1.1995346162710716",
-        "Gold": "396.57",
-        "Gold %": "0.023697049485015054",
+        "Gold": "396.45",
+        "Gold %": "0.02338728413226976",
+        "Investment Demand Returns": "-0.02257164393336403",
+        "Cumulative Investment Demand Returns": "2.584842717251472"
+    },
+    {
+        "": "5339",
+        "Date": "2025-10-17",
+        "GLD OI": "184418.0",
+        "GLD OI %": "184418.0",
+        "Rolling GLD OI %": "215842.3",
+        "Rolling GLD OI % Mean": "157818.495",
+        "Rolling GLD OI % Stdev": "52808.63086346517",
+        "Rolling GLD OI % Strength": "1.0987560944349886",
+        "Gold": "388.99",
+        "Gold %": "-0.01881700088283511",
         "Investment Demand Returns": "",
         "Cumulative Investment Demand Returns": ""
     }
