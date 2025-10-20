@@ -74756,6 +74756,20 @@
         "Rolling GLD OI % Strength": "1.0987560944349886",
         "Gold": "388.99",
         "Gold %": "-0.01881700088283511",
+        "Investment Demand Returns": "0.0399968798611774",
+        "Cumulative Investment Demand Returns": "2.6882283608734183"
+    },
+    {
+        "": "5340",
+        "Date": "2025-10-20",
+        "GLD OI": "163513.0",
+        "GLD OI %": "163513.0",
+        "Rolling GLD OI %": "210547.7",
+        "Rolling GLD OI % Mean": "158385.43050000002",
+        "Rolling GLD OI % Stdev": "52762.77872333622",
+        "Rolling GLD OI % Strength": "0.9886186960227206",
+        "Gold": "403.15",
+        "Gold %": "0.036401964060772674",
         "Investment Demand Returns": "",
         "Cumulative Investment Demand Returns": ""
     }
