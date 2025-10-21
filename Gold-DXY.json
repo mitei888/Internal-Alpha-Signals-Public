@@ -84561,7 +84561,7 @@
         "DXY % Strength": "-0.0",
         "Gold": "403.15",
         "Gold %": "0.036401964060772674",
-        "Gold DXY Returns": "-0.0",
+        "Gold DXY Returns": "0.0",
         "Cumulative Gold DXY Returns": "3.9766270818956047"
     },
     {
@@ -84572,9 +84572,22 @@
         "DXY % Mean": "-0.0002082142177888815",
         "DXY % Stdev": "0.004680223678853193",
         "DXY % Strength": "-0.0",
-        "Gold": "403.15",
-        "Gold %": "0.0",
+        "Gold": "377.24",
+        "Gold %": "-0.06426888254991936",
         "Gold DXY Returns": "-0.0",
+        "Cumulative Gold DXY Returns": "3.9766270818956047"
+    },
+    {
+        "": "6506",
+        "Date": "2025-10-22",
+        "DXY": "97.377",
+        "DXY %": "0.0016767132306045873",
+        "DXY % Mean": "-0.00021241408321019995",
+        "DXY % Stdev": "0.004678050029466469",
+        "DXY % Strength": "0.4038279415387616",
+        "Gold": "377.24",
+        "Gold %": "0.0",
+        "Gold DXY Returns": "0.0",
         "Cumulative Gold DXY Returns": "3.9766270818956047"
     }
 ]
