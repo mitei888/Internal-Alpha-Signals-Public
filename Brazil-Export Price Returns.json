@@ -60806,13 +60806,13 @@
         "Exports % Stdev": "0.10600380827565614",
         "Exports % Strength": "-0.006857540101148745",
         "Brazil %": "0.013003095975232304",
-        "Exports % Signal Returns": "-0.00014042028935726402",
-        "Exports % Cum Returns": "3.120745510731879"
+        "Exports % Signal Returns": "-0.0001613785415001386",
+        "Exports % Cum Returns": "3.1206800961750605"
     },
     {
         "": "4054",
         "Date": "2025-11-11",
-        "Brazil": "33.39",
+        "Brazil": "33.49",
         "US Exports": "3344.5",
         "China Exports": "7054.11",
         "Exports": "10398.61",
@@ -60820,7 +60820,22 @@
         "Exports % Mean": "-0.009180560019727271",
         "Exports % Stdev": "0.10600380827565614",
         "Exports % Strength": "-0.006857540101148745",
-        "Brazil %": "0.020476772616137007",
+        "Brazil %": "0.02353300733496333",
+        "Exports % Signal Returns": "5.528622954046522e-05",
+        "Exports % Cum Returns": "3.12085262681118"
+    },
+    {
+        "": "4055",
+        "Date": "2025-11-12",
+        "Brazil": "33.22",
+        "US Exports": "3344.5",
+        "China Exports": "7054.11",
+        "Exports": "10398.61",
+        "Exports %": "-0.009907485385852066",
+        "Exports % Mean": "-0.009180560019727271",
+        "Exports % Stdev": "0.10600380827565614",
+        "Exports % Strength": "-0.006857540101148745",
+        "Brazil %": "-0.008062108091967835",
         "Exports % Signal Returns": "",
         "Exports % Cum Returns": ""
     }
