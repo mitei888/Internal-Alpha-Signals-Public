@@ -80943,7 +80943,7 @@
         "10Y Change": "-0.0031651765720922542",
         "10Y Rate Vol": "0.08079863206009526",
         "Risk Premium": "2.2335919805012874",
-        "Div Yield": "1.138",
+        "Div Yield": "1.1382",
         "Implied Earnings Growth": "5.205391980501287",
         "Implied 1Y Sales Growth": "22.504486801652092"
     },
@@ -80957,9 +80957,9 @@
         "10Y Change": "0.0024044576829818087",
         "10Y Rate Vol": "0.08082084009581435",
         "Risk Premium": "2.2330831521069285",
-        "Div Yield": "1.1516",
-        "Implied Earnings Growth": "5.181083152106929",
-        "Implied 1Y Sales Growth": "22.39130216262426"
+        "Div Yield": "1.1512",
+        "Implied Earnings Growth": "5.1808831521069285",
+        "Implied 1Y Sales Growth": "22.390371265551057"
     },
     {
         "Date": "2025-11-05",
@@ -80971,9 +80971,9 @@
         "10Y Change": "-0.007081784687493653",
         "10Y Rate Vol": "0.08080632969991403",
         "Risk Premium": "2.2408948950172696",
-        "Div Yield": "1.1475",
-        "Implied Earnings Growth": "5.24929489501727",
-        "Implied 1Y Sales Growth": "22.709102608909948"
+        "Div Yield": "1.1471",
+        "Implied Earnings Growth": "5.24969489501727",
+        "Implied 1Y Sales Growth": "22.71096804357755"
     },
     {
         "Date": "2025-11-06",
@@ -80985,9 +80985,9 @@
         "10Y Change": "0.0073258337731609835",
         "10Y Rate Vol": "0.0810132936526742",
         "Risk Premium": "2.2355776312570486",
-        "Div Yield": "1.1605",
-        "Implied Earnings Growth": "5.172077631257048",
-        "Implied 1Y Sales Growth": "22.349391361000272"
+        "Div Yield": "1.1601",
+        "Implied Earnings Growth": "5.172477631257048",
+        "Implied 1Y Sales Growth": "22.35125269289926"
     },
     {
         "Date": "2025-11-07",
@@ -80999,9 +80999,9 @@
         "10Y Change": "-0.0013440729171239063",
         "10Y Rate Vol": "0.08111500316362631",
         "Risk Premium": "2.2367513512463155",
-        "Div Yield": "1.1596",
-        "Implied Earnings Growth": "5.1742513512463155",
-        "Implied 1Y Sales Growth": "22.359506652775597"
+        "Div Yield": "1.1592",
+        "Implied Earnings Growth": "5.1746513512463155",
+        "Implied 1Y Sales Growth": "22.36136810008791"
     },
     {
         "Date": "2025-11-10",
@@ -81013,9 +81013,9 @@
         "10Y Change": "-0.0018233722591866064",
         "10Y Rate Vol": "0.08111925770269612",
         "Risk Premium": "2.234712044197441",
-        "Div Yield": "1.1425",
-        "Implied Earnings Growth": "5.192112044197441",
-        "Implied 1Y Sales Growth": "22.44264420047104"
+        "Div Yield": "1.1421",
+        "Implied Earnings Growth": "5.192512044197441",
+        "Implied 1Y Sales Growth": "22.44450659627566"
     },
     {
         "Date": "2025-11-11",
@@ -81027,9 +81027,9 @@
         "10Y Change": "0.0",
         "10Y Rate Vol": "0.08085625757578373",
         "Risk Premium": "2.2518447537641277",
-        "Div Yield": "1.1401",
-        "Implied Earnings Growth": "5.226344753764128",
-        "Implied 1Y Sales Growth": "22.60210824861508"
+        "Div Yield": "1.1397",
+        "Implied Earnings Growth": "5.226744753764128",
+        "Implied 1Y Sales Growth": "22.603972463248546"
     },
     {
         "Date": "2025-11-12",
@@ -81041,8 +81041,22 @@
         "10Y Change": "0.0045253802790892195",
         "10Y Rate Vol": "0.08070051149341423",
         "Risk Premium": "2.252612498684204",
-        "Div Yield": "1.1394",
-        "Implied Earnings Growth": "5.182512498684204",
-        "Implied 1Y Sales Growth": "22.397955189940856"
+        "Div Yield": "1.1393",
+        "Implied Earnings Growth": "5.182912498684205",
+        "Implied 1Y Sales Growth": "22.399817075921558"
+    },
+    {
+        "Date": "2025-11-13",
+        "S&P": "6776.64",
+        "10Y Rate": "4.093",
+        "S&P Change": "-0.01084233942302637",
+        "S&P Vol": "0.17071625621476036",
+        "10Y Price": "66.95526719629926",
+        "10Y Change": "-0.002207366921563536",
+        "10Y Rate Vol": "0.08061635433343177",
+        "Risk Premium": "2.2524975470332147",
+        "Div Yield": "1.1518",
+        "Implied Earnings Growth": "5.206197547033215",
+        "Implied 1Y Sales Growth": "22.508238953369442"
     }
 ]
