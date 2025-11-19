@@ -2072,10 +2072,21 @@
         "Date": "2025-09-04",
         "Mos": "2025-07-31",
         "Unrev": "5625.0",
-        "1st Rev": "",
+        "1st Rev": "5625.0",
         "Semi Trade Balance": "-0.12682396771189075",
         "Semi Trade Balance Mean": "-0.016214828521859088",
         "Semi Trade Balance Stdev": "0.11047542531137956",
         "Semi Trade Balance Strength": "-1.001210349525926"
+    },
+    {
+        "": "189",
+        "Date": "2025-11-19",
+        "Mos": "2025-08-31",
+        "Unrev": "5216.0",
+        "1st Rev": "",
+        "Semi Trade Balance": "-0.07271111111111106",
+        "Semi Trade Balance Mean": "-0.020693616526885915",
+        "Semi Trade Balance Stdev": "0.11157430454723233",
+        "Semi Trade Balance Strength": "-0.46621392618409535"
     }
 ]
