@@ -7807,7 +7807,7 @@
     {
         "": "223",
         "Date": "2025-07-31",
-        "Nondurable Labour Capacity": "192339.87800000003",
+        "Nondurable Labour Capacity": "192134.083",
         "Food, Beverage, and Tobacco Products IP": "98.7492",
         "Food, Beverage, and Tobacco Products CU": "79.1856",
         "Food & Beverages Stores Sales": "84937.0",
@@ -7833,8 +7833,8 @@
         "Real Food Exports": "7871.37037037036",
         "Food Products Industrial Capacity": "0.01243892536201941",
         "Change in Food Products Industrial Capacity": "0.00025120984776805244",
-        "Food Labour Capacity": "192899.467725",
-        "Change in Food Labour Capacity": "0.0001293212085526907",
+        "Food Labour Capacity": "192882.31814166662",
+        "Change in Food Labour Capacity": "4.040545704486753e-05",
         "Domestic Food Demand": "32074.01118709746",
         "Change in Domestic Food Demand": "-0.00041818327255926935",
         "Output Gap %": "0.04745513255380662"
