@@ -6153,7 +6153,7 @@
         "Mining and Logging Labour Capacity": "27880.530400000003",
         "Petroleum and coal products IP": "90.0763",
         "Petroleum and coal products CU": "89.7435",
-        "Gasoline Stations Sales": "52031.0",
+        "Gasoline Stations Sales": "52126.0",
         "Gasoline CPI %": "-0.011806789329303569",
         "Petroleum and Coal Products Shipment": "58122.0",
         "Petroleum and Coal Products Inventories": "45203.0",
@@ -6167,13 +6167,13 @@
         "Petroleum Imports CPI": "1.5522088353413663",
         "Petroleum Exports CPI": "1.3922775601566884",
         "Real Domestic Oil Inventories": "29969.102002092448",
-        "Real Gasoline Stations Sales": "34944.78981900842",
+        "Real Gasoline Stations Sales": "35008.59322530094",
         "Real Petroleum and Coal Products Shipment": "38534.25981827793",
         "Real Petroleum Exports": "6953.3549035369715",
         "Real Petroleum Imports": "8655.407503234148",
         "Petroleum and coal products Industrial Capacity": "100.37083465654895",
         "Change in Total Petroleum Capacity": "-0.0005080207071058903",
-        "Change in Domestic Petroleum Demand": "0.007286501496869158",
+        "Change in Domestic Petroleum Demand": "0.007597987162771769",
         "Output Gap %": "0.008830644684336402"
     },
     {
@@ -6182,7 +6182,7 @@
         "Mining and Logging Labour Capacity": "27971.987999999998",
         "Petroleum and coal products IP": "89.9981",
         "Petroleum and coal products CU": "89.7721",
-        "Gasoline Stations Sales": "51363.0",
+        "Gasoline Stations Sales": "51260.0",
         "Gasoline CPI %": "-0.02327231397131002",
         "Petroleum and Coal Products Shipment": "57507.0",
         "Petroleum and Coal Products Inventories": "44371.0",
@@ -6196,14 +6196,14 @@
         "Petroleum Imports CPI": "1.436746987951808",
         "Petroleum Exports CPI": "1.2742025741466154",
         "Real Domestic Oil Inventories": "31570.615411857485",
-        "Real Gasoline Stations Sales": "35318.084686234964",
+        "Real Gasoline Stations Sales": "35247.260109736664",
         "Real Petroleum and Coal Products Shipment": "40917.07152170761",
         "Real Petroleum Exports": "6585.2951251646855",
         "Real Petroleum Imports": "9632.872117400415",
         "Petroleum and coal products Industrial Capacity": "100.2517485944965",
         "Change in Total Petroleum Capacity": "-0.0008267738431358788",
-        "Change in Domestic Petroleum Demand": "0.001642483908309696",
-        "Output Gap %": "0.008113275340005036"
+        "Change in Domestic Petroleum Demand": "0.0012998072673086243",
+        "Output Gap %": "0.008424761005907647"
     },
     {
         "": "214",
@@ -6231,8 +6231,8 @@
         "Real Petroleum Imports": "8824.439872295136",
         "Petroleum and coal products Industrial Capacity": "100.15061904756696",
         "Change in Total Petroleum Capacity": "-0.001001773521921064",
-        "Change in Domestic Petroleum Demand": "0.007799856214750545",
-        "Output Gap %": "0.00264425743023076"
+        "Change in Domestic Petroleum Demand": "0.007815182870026546",
+        "Output Gap %": "0.0023015807892296882"
     },
     {
         "": "215",
@@ -6260,8 +6260,8 @@
         "Real Petroleum Imports": "9498.6873457878",
         "Petroleum and coal products Industrial Capacity": "100.07631332775344",
         "Change in Total Petroleum Capacity": "-0.0010428764595342883",
-        "Change in Domestic Petroleum Demand": "0.006836733971301023",
-        "Output Gap %": "0.008842732674284834"
+        "Change in Domestic Petroleum Demand": "0.006852060626577024",
+        "Output Gap %": "0.008858059329560835"
     },
     {
         "": "216",
@@ -6289,8 +6289,8 @@
         "Real Petroleum Imports": "9809.792811839317",
         "Petroleum and coal products Industrial Capacity": "100.03416527231474",
         "Change in Total Petroleum Capacity": "-0.0009621755424617332",
-        "Change in Domestic Petroleum Demand": "-0.00255360261126412",
-        "Output Gap %": "0.007798909513762757"
+        "Change in Domestic Petroleum Demand": "-0.0025382759559881194",
+        "Output Gap %": "0.007814236169038757"
     },
     {
         "": "217",
@@ -6318,8 +6318,8 @@
         "Real Petroleum Imports": "9562.01029866117",
         "Petroleum and coal products Industrial Capacity": "100.02802175285477",
         "Change in Total Petroleum Capacity": "-0.0007777591113772667",
-        "Change in Domestic Petroleum Demand": "-0.004539203555471198",
-        "Output Gap %": "-0.0017758434998868533"
+        "Change in Domestic Petroleum Demand": "-0.004523876900195197",
+        "Output Gap %": "-0.0017605168446108528"
     },
     {
         "": "218",
@@ -6347,8 +6347,8 @@
         "Real Petroleum Imports": "9125.888021716997",
         "Petroleum and coal products Industrial Capacity": "100.06248575447101",
         "Change in Total Petroleum Capacity": "-0.0005125310576193365",
-        "Change in Domestic Petroleum Demand": "-0.003025940179121648",
-        "Output Gap %": "-0.0040266724978518615"
+        "Change in Domestic Petroleum Demand": "-0.0033220991897482586",
+        "Output Gap %": "-0.00401134584257586"
     },
     {
         "": "219",
@@ -6376,8 +6376,8 @@
         "Real Petroleum Imports": "8641.254355400693",
         "Petroleum and coal products Industrial Capacity": "100.13648924558876",
         "Change in Total Petroleum Capacity": "-0.00019152545825457112",
-        "Change in Domestic Petroleum Demand": "0.00644351340066283",
-        "Output Gap %": "-0.002834414720867077"
+        "Change in Domestic Petroleum Demand": "0.006801516696939902",
+        "Output Gap %": "-0.0031305737314936874"
     },
     {
         "": "220",
@@ -6406,7 +6406,7 @@
         "Petroleum and coal products Industrial Capacity": "100.24737258447283",
         "Change in Total Petroleum Capacity": "0.00016115420070742884",
         "Change in Domestic Petroleum Demand": "0.0018367688710164882",
-        "Output Gap %": "0.006282359199955401"
+        "Output Gap %": "0.006640362496232473"
     },
     {
         "": "221",
@@ -6418,18 +6418,18 @@
         "Gasoline CPI %": "-0.026476438465154906",
         "Petroleum and Coal Products Shipment": "54452.0",
         "Petroleum and Coal Products Inventories": "43923.0",
-        "Petroleum and Coal Products PPI %": "-0.01994337277879088",
+        "Petroleum and Coal Products PPI %": "-0.019768281069169835",
         "Petroleum Exports": "7372.0",
         "Petroleum Imports": "11.804",
         "Petroleum Export CPI %": "-0.04502973661852161",
         "Petroleum Import CPI %": "-0.048588781707752604",
         "Petroleum CPI": "1.3804564102564103",
-        "Petroleum PPI": "1.2980373303167425",
+        "Petroleum PPI": "1.2982692307692312",
         "Petroleum Imports CPI": "1.3368473895582336",
         "Petroleum Exports CPI": "1.2579742585338567",
-        "Real Domestic Oil Inventories": "33838.009873939496",
+        "Real Domestic Oil Inventories": "33831.96563472077",
         "Real Gasoline Stations Sales": "36650.19744491788",
-        "Real Petroleum and Coal Products Shipment": "41949.486912454835",
+        "Real Petroleum and Coal Products Shipment": "41941.99377869944",
         "Real Petroleum Exports": "5860.215302491099",
         "Real Petroleum Imports": "8829.728877206155",
         "Petroleum and coal products Industrial Capacity": "100.39086549912592",
@@ -6447,18 +6447,18 @@
         "Gasoline CPI %": "0.010096995048088697",
         "Petroleum and Coal Products Shipment": "55108.0",
         "Petroleum and Coal Products Inventories": "44148.0",
-        "Petroleum and Coal Products PPI %": "0.013673619674674287",
+        "Petroleum and Coal Products PPI %": "0.013688603866965243",
         "Petroleum Exports": "7614.0",
         "Petroleum Imports": "10.77",
         "Petroleum Export CPI %": "0.020907473309608404",
         "Petroleum Import CPI %": "0.012767555388659257",
         "Petroleum CPI": "1.3943948717948715",
-        "Petroleum PPI": "1.3157861990950233",
+        "Petroleum PPI": "1.316040723981901",
         "Petroleum Imports CPI": "1.3539156626506028",
         "Petroleum Exports CPI": "1.2842753217683278",
-        "Real Domestic Oil Inventories": "33552.56350185485",
+        "Real Domestic Oil Inventories": "33546.07436950952",
         "Real Gasoline Stations Sales": "36530.54169256401",
-        "Real Petroleum and Coal Products Shipment": "41882.18423168019",
+        "Real Petroleum and Coal Products Shipment": "41874.08413416079",
         "Real Petroleum Exports": "5928.635294117643",
         "Real Petroleum Imports": "7954.705228031144",
         "Petroleum and coal products Industrial Capacity": "100.56281632712047",
@@ -6472,27 +6472,27 @@
         "Mining and Logging Labour Capacity": "28209.24",
         "Petroleum and coal products IP": "89.3653",
         "Petroleum and coal products CU": "88.6947",
-        "Gasoline Stations Sales": "51406.0",
+        "Gasoline Stations Sales": "51593.0",
         "Gasoline CPI %": "-0.02169491774761223",
         "Petroleum and Coal Products Shipment": "55343.0",
         "Petroleum and Coal Products Inventories": "44260.0",
-        "Petroleum and Coal Products PPI %": "0.037578826553640754",
+        "Petroleum and Coal Products PPI %": "0.03751568704980324",
         "Petroleum Exports": "7626.0",
         "Petroleum Imports": "10.95",
         "Petroleum Export CPI %": "0.013943355119825585",
         "Petroleum Import CPI %": "0.02632554690396738",
         "Petroleum CPI": "1.3641435897435894",
-        "Petroleum PPI": "1.3652319004524893",
+        "Petroleum PPI": "1.3654128959276024",
         "Petroleum Imports CPI": "1.3895582329317273",
         "Petroleum Exports CPI": "1.302182428651372",
-        "Real Domestic Oil Inventories": "32419.400678617727",
-        "Real Gasoline Stations Sales": "37683.71627920966",
-        "Real Petroleum and Coal Products Shipment": "40537.435421526",
+        "Real Domestic Oil Inventories": "32415.10324972555",
+        "Real Gasoline Stations Sales": "37820.798622597824",
+        "Real Petroleum and Coal Products Shipment": "40532.06188769908",
         "Real Petroleum Exports": "5856.322303394925",
         "Real Petroleum Imports": "7880.2023121387265",
         "Petroleum and coal products Industrial Capacity": "100.75607674415721",
         "Change in Total Petroleum Capacity": "0.001209571344470269",
-        "Change in Domestic Petroleum Demand": "0.016903851361817972",
+        "Change in Domestic Petroleum Demand": "0.017547113215975352",
         "Output Gap %": "0.009520970222664108"
     }
 ]
