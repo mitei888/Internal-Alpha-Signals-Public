@@ -56922,5 +56922,19 @@
         "Brazil %": "0.028264208909370314",
         "Exports % Signal Returns": "-7.927291709544785e-06",
         "Exports % Cum Returns": "3.1223396041737166"
+    },
+    {
+        "Date": "2025-11-28",
+        "Brazil": "33.61",
+        "US Exports": "3344.5",
+        "China Exports": "7062.097",
+        "Exports": "10406.597",
+        "Exports %": "-0.009146917391625653",
+        "Exports % Mean": "-0.009117186461880783",
+        "Exports % Stdev": "0.10600356845289756",
+        "Exports % Strength": "-0.0002804710273322627",
+        "Brazil %": "0.004182850313713793",
+        "Exports % Signal Returns": "-1.1731683246643848e-06",
+        "Exports % Cum Returns": "3.122335941143794"
     }
 ]
