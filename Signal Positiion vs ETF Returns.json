@@ -5290,29 +5290,6 @@
         "VDE Position Size (%)": "0.2049838817076109"
     },
     {
-        "Date": "2025-11-23",
-        "EWZ Rolling %": "0.0",
-        "GLD Rolling %": "0.0",
-        "IBIT Rolling %": "0.0",
-        "IGIL Rolling %": "0.0",
-        "KRE Rolling %": "0.0",
-        "SOXX Rolling %": "0.0",
-        "SPY Rolling %": "0.0",
-        "TIP Rolling %": "0.0",
-        "TLT Rolling %": "0.0",
-        "VDE Rolling %": "0.0",
-        "EWZ Position Size (%)": "0.3391014474646046",
-        "GLD Position Size (%)": "-0.3032051727838476",
-        "IBIT Position Size (%)": "0.1907014311580666",
-        "IGIL Position Size (%)": "-0.2892471794785157",
-        "KRE Position Size (%)": "0.3298510710873169",
-        "SOXX Position Size (%)": "0.4481119868578352",
-        "SPY Position Size (%)": "-0.3158026285519487",
-        "TIP Position Size (%)": "-1.098103180063267",
-        "TLT Position Size (%)": "-0.05853549358390506",
-        "VDE Position Size (%)": "0.2049838817076109"
-    },
-    {
         "Date": "2025-11-24",
         "EWZ Rolling %": "0.0023396584003853916",
         "GLD Rolling %": "0.001835464127251374",
@@ -5472,5 +5449,28 @@
         "TIP Position Size (%)": "-0.4426594718598104",
         "TLT Position Size (%)": "0.470658117127136",
         "VDE Position Size (%)": "0.02876058123737667"
+    },
+    {
+        "Date": "2025-12-04",
+        "EWZ Rolling %": "0.0039998545369666905",
+        "GLD Rolling %": "0.0027907879514068703",
+        "IBIT Rolling %": "-0.005205334596841626",
+        "IGIL Rolling %": "0.00048241398082600196",
+        "KRE Rolling %": "0.003552693183005573",
+        "SOXX Rolling %": "0.0004058858753286376",
+        "SPY Rolling %": "0.0005391342581317682",
+        "TIP Rolling %": "0.00016969380016478852",
+        "TLT Rolling %": "-2.302259879837787e-05",
+        "VDE Rolling %": "0.002853069357639443",
+        "EWZ Position Size (%)": "-0.2896999178031993",
+        "GLD Position Size (%)": "-0.2762380849758224",
+        "IBIT Position Size (%)": "0.06953551992059802",
+        "IGIL Position Size (%)": "-0.3922251790131888",
+        "KRE Position Size (%)": "0.5634420346685218",
+        "SOXX Position Size (%)": "0.5189925987334869",
+        "SPY Position Size (%)": "-0.3145666994958056",
+        "TIP Position Size (%)": "-0.2523720448011114",
+        "TLT Position Size (%)": "0.9492410976287445",
+        "VDE Position Size (%)": "0.2452825640284569"
     }
 ]
