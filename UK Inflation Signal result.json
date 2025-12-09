@@ -84712,5 +84712,26 @@
         "Combined UK Inflation Signal Cum Returns": "1.9931903531186559",
         "Combined UK Inflation Signal Returns": "0.0022828005236518517",
         "Combined UK Inflation Cum Returns": "1.6587782800879638"
+    },
+    {
+        "": "4034",
+        "Date": "2025-12-09",
+        "IGIL": "163.92",
+        "index": "4162.0",
+        "Auto Strength": "-0.6600985824750315",
+        "Auto Output Gap %": "0.024269005804778032",
+        "Petrol Strength": "-0.6396561672953726",
+        "Petrol Output Gap %": "0.015564731873807794",
+        "House Strength": "0.8334302777658796",
+        "House Output Gap %": "-0.0024903360205978985",
+        "Food Strength": "-1.3074788381360485",
+        "Food Output Gap %": "-0.02765015217961917",
+        "Combined UK Inflation Signal Strength": "-0.5474299210532907",
+        "Combined UK Inflation Output Gap %": "-0.0001403195280044086",
+        "IGIL %": "0.003366591173409983",
+        "Combined UK Inflation Signal Signal Returns": "-0.0015899662944338206",
+        "Combined UK Inflation Signal Cum Returns": "1.9900212476388064",
+        "Combined UK Inflation Signal Returns": "-0.0015899662944338206",
+        "Combined UK Inflation Cum Returns": "1.656140878532685"
     }
 ]
