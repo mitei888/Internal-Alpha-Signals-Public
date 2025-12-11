@@ -8525,7 +8525,7 @@
         "Automobile Manufacturing Unfilled Orders": "40651.0",
         "Automobile Manufacturing PPI %": "0.0019233723887943643",
         "Automotive Vehicles, Parts and Engines Exports": "12669.0",
-        "Automotive Vehicles, Parts and Engines Imports": "34.517",
+        "Automotive Vehicles, Parts and Engines Imports": "34.56",
         "Automotive Vehicles, Parts and Engines Export CPI %": "0.0015094339622641062",
         "Automotive Vehicles, Parts and Engines Import CPI %": "0.0008278145695364003",
         "Auto CPI": "1.3240252897787155",
@@ -8533,9 +8533,9 @@
         "Auto Imports CPI": "1.1591562799616486",
         "Auto Exports CPI": "1.2602089268755963",
         "Real Automotive Vehicles, Parts and Engines Exports": "10053.09495101731",
-        "Real Automotive Vehicles, Parts and Engines Imports": "29777.69313482218",
+        "Real Automotive Vehicles, Parts and Engines Imports": "29814.78908188587",
         "Real Motor Vehicles and Parts Sales": "105569.73577397525",
-        "Real Motor Vehicles and Parts Inventories": "138785.70226527873",
+        "Real Motor Vehicles and Parts Inventories": "138717.77446065497",
         "Real Automobile Manufacturing Orders": "51192.51608726029",
         "Real Automobile Manufacturing Shipment": "51347.587052950264",
         "Real Automobile Manufacturing Inventories": "5494.873663963454",
@@ -8545,8 +8545,8 @@
         "Real Automobile Manufacturing Capacity": "51324.18145678354",
         "Change in Real Automobile Manufacturing Capacity": "0.0013696792089354119",
         "Change in Auto Supply": "0.0010080588406157927",
-        "Domestic Motor Vehicle Demand": "87775.8224548207",
-        "Change in Domestic Motor Vehicle Demand": "0.013401541581069725",
-        "Output Gap %": "0.012393482740453932"
+        "Domestic Motor Vehicle Demand": "87806.65431238078",
+        "Change in Domestic Motor Vehicle Demand": "0.013435222686260285",
+        "Output Gap %": "0.012427163845644492"
     }
 ]
