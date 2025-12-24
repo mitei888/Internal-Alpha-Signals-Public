@@ -48606,5 +48606,33 @@
         "Cum MACD Signal Returns": "33.505991984120044",
         "BTC Signal Returns": "0.0",
         "Cum BTC Signal Returns": "11.173680549812813"
+    },
+    {
+        "Date": "2025-12-24",
+        "VIX": "13.47",
+        "VIX Mean": "16.94475",
+        "VIX Stdev": "2.325168092775281",
+        "VIX Strength": "-1.4944080863644555",
+        "BTC Futures %": "-0.0038267875125880257",
+        "BTC Futures": "4.414668245761021",
+        "MACD": "-0.2215580472705918",
+        "sMACD": "-0.24543603032770087",
+        "Diff": "0.02387798305710906",
+        "Diff Mean": "-0.004077179628055665",
+        "Diff Stdev": "0.054347436460099624",
+        "Diff Strength": "0.514378681056808",
+        "BTC Signal Strength": "-0.0",
+        "BTC Rolling Vol": "0.43088371259288216",
+        "BTC Rolling Vol Mean": "0.3660427717686487",
+        "BTC Rolling Vol Stdev": "0.04068607597012716",
+        "BTC Rolling Vol Strength": "1.5936887320330788",
+        "BTC": "87406.43636737975",
+        "Crypto Market Cap": "2957176632218.16",
+        "BTC/Crypto Market Cap Ratio Strength": "0.3507419224135417",
+        "Stable Coin/Crypto Market Cap Ratio Strength": "1.7921706645087183",
+        "MACD Signal Returns": "0.0",
+        "Cum MACD Signal Returns": "33.505991984120044",
+        "BTC Signal Returns": "0.0",
+        "Cum BTC Signal Returns": "11.173680549812813"
     }
 ]
