@@ -85382,5 +85382,18 @@
         "Gold %": "0.0",
         "Gold DXY Returns": "0.0",
         "Cumulative Gold DXY Returns": "3.803517972090096"
+    },
+    {
+        "": "6568",
+        "Date": "2026-01-02",
+        "DXY": "97.723",
+        "DXY %": "-0.001257077448235",
+        "DXY % Mean": "-0.000221523397956783",
+        "DXY % Stdev": "0.0048372031015283794",
+        "DXY % Strength": "-0.0",
+        "Gold": "398.28",
+        "Gold %": "0.004970856147964886",
+        "Gold DXY Returns": "-0.0",
+        "Cumulative Gold DXY Returns": "3.803517972090096"
     }
 ]

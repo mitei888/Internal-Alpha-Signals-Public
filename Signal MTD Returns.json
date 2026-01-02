@@ -180,5 +180,19 @@
         "TIP MTD Returns": "0.006910990246051796",
         "TLT MTD Returns": "0.00682496198875171",
         "VDE MTD Returns": "-0.03042916920827654"
+    },
+    {
+        "Date": "2026-01-31",
+        "Portfolio MTD Returns": "0.0033880953555269766",
+        "EWZ MTD Returns": "-0.0011542657106998755",
+        "GLD MTD Returns": "0.00021749407529125797",
+        "IBIT MTD Returns": "0.0",
+        "IGIL MTD Returns": "-9.571151078591189e-05",
+        "KRE MTD Returns": "0.002384085443242867",
+        "SOXX MTD Returns": "0.019291583211564767",
+        "SPY MTD Returns": "-0.00019825373872939256",
+        "TIP MTD Returns": "7.50761146084411e-05",
+        "TLT MTD Returns": "-0.0008321828320591029",
+        "VDE MTD Returns": "0.0018612184642630147"
     }
 ]
