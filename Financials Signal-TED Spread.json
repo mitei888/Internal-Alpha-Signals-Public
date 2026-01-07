@@ -30543,5 +30543,15 @@
         "Date": "2026-01-02",
         "Total TED Spread": "0.037370000000000125",
         "Total TED Strength": "0.8170667556208329"
+    },
+    {
+        "Date": "2026-01-05",
+        "Total TED Spread": "0.05498999999999965",
+        "Total TED Strength": "1.2533980590547291"
+    },
+    {
+        "Date": "2026-01-06",
+        "Total TED Spread": "0.06825999999999999",
+        "Total TED Strength": "1.5739181438231507"
     }
 ]
