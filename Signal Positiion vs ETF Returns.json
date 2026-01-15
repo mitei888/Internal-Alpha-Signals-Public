@@ -6093,5 +6093,28 @@
         "TIP Position Size (%)": "0.01683489437346856",
         "TLT Position Size (%)": "-0.2225988816045702",
         "VDE Position Size (%)": "0.05150256925315217"
+    },
+    {
+        "Date": "2026-01-15",
+        "EWZ Rolling %": "0.002948700174884594",
+        "GLD Rolling %": "0.003460997945723876",
+        "IBIT Rolling %": "0.0043728676539178",
+        "IGIL Rolling %": "0.0002730906898423091",
+        "KRE Rolling %": "0.0012808888022341424",
+        "SOXX Rolling %": "0.006672666478792088",
+        "SPY Rolling %": "0.001137129104124307",
+        "TIP Rolling %": "0.000183251093681841",
+        "TLT Rolling %": "0.0004474392795653148",
+        "VDE Rolling %": "0.004720124689653521",
+        "EWZ Position Size (%)": "0.6498615594612038",
+        "GLD Position Size (%)": "0.2246198676385098",
+        "IBIT Position Size (%)": "0.0",
+        "IGIL Position Size (%)": "-0.4721738354176447",
+        "KRE Position Size (%)": "0.6468454030455766",
+        "SOXX Position Size (%)": "0.2502764222303119",
+        "SPY Position Size (%)": "-0.1598251436411805",
+        "TIP Position Size (%)": "0.01681165473262451",
+        "TLT Position Size (%)": "-0.3604203972030686",
+        "VDE Position Size (%)": "-0.4584602832818864"
     }
 ]
