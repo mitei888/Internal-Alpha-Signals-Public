@@ -49026,5 +49026,33 @@
         "Cum MACD Signal Returns": "33.505991984120044",
         "BTC Signal Returns": "0.0",
         "Cum BTC Signal Returns": "11.173680549812813"
+    },
+    {
+        "Date": "2026-01-16",
+        "VIX": "15.86",
+        "VIX Mean": "16.810833333333335",
+        "VIX Stdev": "2.3986570413957073",
+        "VIX Strength": "-0.3964023688772421",
+        "BTC Futures %": "0.004444444444444473",
+        "BTC Futures": "4.841318351194456",
+        "MACD": "0.13579070827843154",
+        "sMACD": "0.09093761893460507",
+        "Diff": "0.044853089343826466",
+        "Diff Mean": "-0.00022274759508309527",
+        "Diff Stdev": "0.05421808580656045",
+        "Diff Strength": "0.8313800878129736",
+        "BTC Signal Strength": "-0.0",
+        "BTC Rolling Vol": "0.4415117414201497",
+        "BTC Rolling Vol Mean": "0.36906744002162484",
+        "BTC Rolling Vol Stdev": "0.04443675519044222",
+        "BTC Rolling Vol Strength": "1.6302788330977578",
+        "BTC": "95584.82797878512",
+        "Crypto Market Cap": "3231735580943.48",
+        "BTC/Crypto Market Cap Ratio Strength": "0.1473332227167685",
+        "Stable Coin/Crypto Market Cap Ratio Strength": "1.06955505000959",
+        "MACD Signal Returns": "-0.0",
+        "Cum MACD Signal Returns": "33.505991984120044",
+        "BTC Signal Returns": "-0.0",
+        "Cum BTC Signal Returns": "11.173680549812813"
     }
 ]
