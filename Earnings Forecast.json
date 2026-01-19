@@ -81685,22 +81685,36 @@
         "10Y Change": "-0.0036418660121523283",
         "10Y Rate Vol": "0.07623680051223855",
         "Risk Premium": "2.346445219505988",
-        "Div Yield": "1.1444",
+        "Div Yield": "1.1364",
         "Implied Earnings Growth": "5.3781452195059885",
         "Implied 1Y Sales Growth": "23.31110821012341"
     },
     {
         "Date": "2026-01-16",
         "S&P": "6940.01",
-        "10Y Rate": "4.226",
+        "10Y Rate": "4.224",
         "S&P Change": "-0.000642237636565457",
         "S&P Vol": "0.1693829053453219",
-        "10Y Price": "66.10575858755567",
-        "10Y Change": "-0.0052644808408026655",
+        "10Y Price": "66.11844500666739",
+        "10Y Change": "-0.005073580199602912",
         "10Y Rate Vol": "0.0748405281507109",
         "Risk Premium": "2.3635594298652753",
-        "Div Yield": "1.1452",
-        "Implied Earnings Growth": "5.445159429865275",
-        "Implied 1Y Sales Growth": "23.625081571553185"
+        "Div Yield": "1.1375",
+        "Implied Earnings Growth": "5.4511594298652755",
+        "Implied 1Y Sales Growth": "23.65322184109402"
+    },
+    {
+        "Date": "2026-01-19",
+        "S&P": "6940.01",
+        "10Y Rate": "4.224",
+        "S&P Change": "0.0",
+        "S&P Vol": "0.1675101127416943",
+        "10Y Price": "66.11844500666739",
+        "10Y Change": "0.0",
+        "10Y Rate Vol": "0.07495088087927004",
+        "Risk Premium": "2.3139807965606067",
+        "Div Yield": "1.1375",
+        "Implied Earnings Growth": "5.400480796560607",
+        "Implied 1Y Sales Growth": "23.415687790287954"
     }
 ]
