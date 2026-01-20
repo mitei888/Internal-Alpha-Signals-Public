@@ -1966,17 +1966,17 @@
         "Food Consumption": "34431.0",
         "Food Capex": "1215.0",
         "Manufacturing Workforce": "2511.0",
-        "Manufacturing Vacancy Ratio": "2.0",
+        "Manufacturing Vacancy Ratio": "1.9666666666666668",
         "Food Imports": "15506",
         "Food Exports": "4516",
         "Food Demand": "23441.0",
         "Food Demand %": "-0.014432953980622165",
-        "Food Manu Workforce": "2460.7799999999997",
-        "Food Manu Workforce %": "-0.0063420304887963075",
-        "Food Supply %": "0.001365039563624726",
-        "Output Gap %": "-0.01579799354424689",
-        "Output Gap % Mean": "-0.002892588552296651",
-        "Output Gap % Stdev": "0.02867783960522578",
-        "Output Gap % Strength": "-0.45001315195300035"
+        "Food Manu Workforce": "2461.6169999999997",
+        "Food Manu Workforce %": "-0.006257405663573051",
+        "Food Supply %": "0.0014327394238033307",
+        "Output Gap %": "-0.015865693404425497",
+        "Output Gap % Mean": "-0.0028982302073115355",
+        "Output Gap % Stdev": "0.028680615750668506",
+        "Output Gap % Strength": "-0.4521333610772184"
     }
 ]

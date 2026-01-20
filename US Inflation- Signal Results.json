@@ -81835,5 +81835,26 @@
         "TIP Rolling %": "3.3501914552691583e-05",
         "Output Gap return": "-3.366097406713247e-05",
         "Output Gap Level": "1.4156021700005585"
+    },
+    {
+        "Date": "2026-01-20",
+        "TIP": "109.69",
+        "Auto Strength": "2.9314841014457924",
+        "Auto Output Gap %": "0.004608187578434458",
+        "Oil Strength": "-0.08310237644969894",
+        "Oil Output Gap %": "0.0021592827672501924",
+        "House Strength": "0.22168941949650744",
+        "House Output Gap %": "-0.0004844492266368368",
+        "Services Strength": "1.7602576944666104",
+        "Food Strength": "0.39226407084322806",
+        "Food Output Gap %": "0.0540447050719528",
+        "US Inflation Signal Strength": "0.41504105815948755",
+        "US Inflation Signal Output Gap %": "0.012448122062235995",
+        "TIP %": "-0.0029994546446100445",
+        "US Inflation Signal Signal Returns": "-0.000714994356409495",
+        "US Inflation Signal Cum Returns": "1.4780831627719686",
+        "TIP Rolling %": "-0.00021165157015600732",
+        "Output Gap return": "-0.000714994356409495",
+        "Output Gap Level": "1.414590022438087"
     }
 ]
