@@ -607,5 +607,12 @@
         "Total Construction QoQ %": "-0.0029955204687683867",
         "Residential QoQ %": "-0.007720183111436962",
         "Nonresidential QoQ %": "0.00045731043393670845"
+    },
+    {
+        "": "90",
+        "Date": "2025-12-31",
+        "Total Construction QoQ %": "0.004721905057514686",
+        "Residential QoQ %": "0.0071015423815223855",
+        "Nonresidential QoQ %": "0.002964480051402596"
     }
 ]

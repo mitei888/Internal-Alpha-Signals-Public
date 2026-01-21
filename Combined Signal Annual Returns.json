@@ -2,97 +2,97 @@
     {
         "": "0",
         "Date": "2011-12-31",
-        "Annual Returns": "0.025476770454197162",
-        "Total Signal Level": "1.0254767704541972"
+        "Annual Returns": "0.025476569566958762",
+        "Total Signal Level": "1.0254765695669588"
     },
     {
         "": "1",
         "Date": "2012-12-31",
-        "Annual Returns": "0.04060021893882659",
-        "Total Signal Level": "1.0671113518513184"
+        "Annual Returns": "0.04058973118572062",
+        "Total Signal Level": "1.0671003878629366"
     },
     {
         "": "2",
         "Date": "2013-12-31",
-        "Annual Returns": "0.08826265705412917",
-        "Total Signal Level": "1.1612974351383396"
+        "Annual Returns": "0.08825333558879644",
+        "Total Signal Level": "1.1612755564999393"
     },
     {
         "": "3",
         "Date": "2014-12-31",
-        "Annual Returns": "0.06163983789734684",
-        "Total Signal Level": "1.2328796207908714"
+        "Annual Returns": "0.06164053557482685",
+        "Total Signal Level": "1.2328572037525507"
     },
     {
         "": "4",
         "Date": "2015-12-31",
-        "Annual Returns": "0.031009557465418336",
-        "Total Signal Level": "1.2711106722397292"
+        "Annual Returns": "0.031009554935074846",
+        "Total Signal Level": "1.2710875569394182"
     },
     {
         "": "5",
         "Date": "2016-12-31",
-        "Annual Returns": "0.08133256552184576",
-        "Total Signal Level": "1.3744933642751844"
+        "Annual Returns": "0.0813325655218462",
+        "Total Signal Level": "1.374468368948197"
     },
     {
         "": "6",
         "Date": "2017-12-31",
-        "Annual Returns": "0.05726916716758601",
-        "Total Signal Level": "1.4532094545245977"
+        "Annual Returns": "0.05726916716758623",
+        "Total Signal Level": "1.453183027736051"
     },
     {
         "": "7",
         "Date": "2018-12-31",
         "Annual Returns": "0.0026202966739197198",
-        "Total Signal Level": "1.4570172944247972"
+        "Total Signal Level": "1.4569907983902244"
     },
     {
         "": "8",
         "Date": "2019-12-31",
-        "Annual Returns": "0.08347674856839382",
-        "Total Signal Level": "1.5786443607712974"
+        "Annual Returns": "0.08347674856839449",
+        "Total Signal Level": "1.5786156529339095"
     },
     {
         "": "9",
         "Date": "2020-12-31",
-        "Annual Returns": "0.19192203616515524",
-        "Total Signal Level": "1.8816210008711647"
+        "Annual Returns": "0.19192203616515635",
+        "Total Signal Level": "1.881586783367173"
     },
     {
         "": "10",
         "Date": "2021-12-31",
-        "Annual Returns": "0.12446252950904757",
-        "Total Signal Level": "2.1158123102169357"
+        "Annual Returns": "0.12446252950904602",
+        "Total Signal Level": "2.1157738339158407"
     },
     {
         "": "11",
         "Date": "2022-12-31",
-        "Annual Returns": "0.08092711794266005",
-        "Total Signal Level": "2.287038902590394"
+        "Annual Returns": "0.08068852018035733",
+        "Total Signal Level": "2.286492493610831"
     },
     {
         "": "12",
         "Date": "2023-12-31",
-        "Annual Returns": "0.12811265117944481",
-        "Total Signal Level": "2.5800375197517775"
+        "Annual Returns": "0.12811265117944504",
+        "Total Signal Level": "2.5794211088692145"
     },
     {
         "": "13",
         "Date": "2024-12-31",
-        "Annual Returns": "0.12085071271914605",
-        "Total Signal Level": "2.8918368928559177"
+        "Annual Returns": "0.12085071271914627",
+        "Total Signal Level": "2.8911459882788697"
     },
     {
         "": "14",
         "Date": "2025-12-31",
-        "Annual Returns": "0.07211560950036122",
-        "Total Signal Level": "3.100383472959853"
+        "Annual Returns": "0.07211563796921383",
+        "Total Signal Level": "3.0996428256857333"
     },
     {
         "": "15",
         "Date": "2026-12-31",
-        "Annual Returns": "0.00646389184630114",
-        "Total Signal Level": "3.120424016411125"
+        "Annual Returns": "0.011892462799664383",
+        "Total Signal Level": "3.1365052126824478"
     }
 ]
