@@ -13700,5 +13700,18 @@
         "Total OEM R&D Compare": "72897.978",
         "Total OEM R&D Growth": "0.06417426283071936",
         "Capex Differentials": "-0.04823386956730591"
+    },
+    {
+        "": "1054",
+        "Date": "2026-01-28",
+        "Total Semi R&D": "30702.09294812935",
+        "Total OEM R&D": "77934.152",
+        "Date 1Q Ago": "2025-10-28",
+        "Index": "1051.0",
+        "Total Semi R&D Compare": "30036.806846240466",
+        "Total Semi R&D Growth": "0.02214902886630088",
+        "Total OEM R&D Compare": "72897.978",
+        "Total OEM R&D Growth": "0.06908523580722625",
+        "Capex Differentials": "-0.046936206940925373"
     }
 ]
