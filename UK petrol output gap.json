@@ -5714,17 +5714,33 @@
     {
         "": "357",
         "Date": "2025-10-31",
-        "Crude Oil Production": "2453.36",
-        "Imports of crude and NGLs": "2579.33",
-        "Exports of crude and NGLs": "1316.18",
-        "Petrol Storage": "856.86",
-        "Petrol Supply Change": "1477.0500000000002",
-        "Gross Supply Change": "0.03068594519914402",
+        "Crude Oil Production": "2469.4",
+        "Imports of crude and NGLs": "2474.57",
+        "Exports of crude and NGLs": "1341.7",
+        "Petrol Storage": "813.98",
+        "Petrol Supply Change": "1434.17",
+        "Gross Supply Change": "0.02895298197955054",
         "Petrol Sales": "3476200",
         "Petrol Demand Change": "-0.006955453690491408",
-        "Output Gap %": "-0.03764139888963543",
-        "Output Gap % Mean": "-0.004178322133668129",
-        "Output Gap % Stdev": "0.027793289640248218",
-        "Output Gap % Strength": "-1.2039984179313739"
+        "Output Gap %": "-0.03590843567004195",
+        "Output Gap % Mean": "-0.004033908532035339",
+        "Output Gap % Stdev": "0.027607490378336545",
+        "Output Gap % Strength": "-1.1545608348022238"
+    },
+    {
+        "": "358",
+        "Date": "2025-11-30",
+        "Crude Oil Production": "2267.17",
+        "Imports of crude and NGLs": "2508.57",
+        "Exports of crude and NGLs": "1176.25",
+        "Petrol Storage": "863.96",
+        "Petrol Supply Change": "1851.1150000000002",
+        "Gross Supply Change": "0.030918059848012554",
+        "Petrol Sales": "3594871",
+        "Petrol Demand Change": "0.010790009513328357",
+        "Output Gap %": "-0.0201280503346842",
+        "Output Gap % Mean": "-0.0048192423506187776",
+        "Output Gap % Stdev": "0.0279464397973026",
+        "Output Gap % Strength": "-0.5477909921657724"
     }
 ]
