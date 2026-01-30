@@ -59381,8 +59381,8 @@
         "LRCX US Inventories": "4037.682",
         "LRCX US R&D": "565.337",
         "KLAC US Revenue": "3297.146",
-        "KLAC US Inventories": "3297.368",
-        "KLAC US R&D": "360.461",
+        "KLAC US Inventories": "3282.605",
+        "KLAC US R&D": "383.871",
         "ADI US Revenue": "3076.117",
         "ADI US Inventories": "1656.323",
         "ADI US R&D": "467.021",
@@ -59401,12 +59401,12 @@
         "Date 1Q Ago": "2025-10-29",
         "Index": "910.0",
         "Total Revenue": "267568.64913765",
-        "Total Inventories": "145377.1603796493",
-        "Total Semi R&D": "30730.12494812935",
+        "Total Inventories": "145362.39737964928",
+        "Total Semi R&D": "30753.53494812935",
         "Revenue Compare": "236027.42263609916",
         "Total Revenue Growth": "0.133633736916156",
         "Inventories Compare": "143117.52559151972",
-        "Total Inventories Growth": "0.015788665845012817",
-        "Grwth Differentials": "0.11784507107114317"
+        "Total Inventories Growth": "0.015685512859807238",
+        "Grwth Differentials": "0.11794822405634875"
     }
 ]
