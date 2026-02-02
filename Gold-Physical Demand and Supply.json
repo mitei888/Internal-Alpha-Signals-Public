@@ -5,14 +5,14 @@
         "CB Demand": "169.6",
         "CH Gold Purchases": "184.57",
         "India Gold Purchases": "152.55",
-        "Gold Supply": "1103.51",
+        "Gold Supply": "1103.5",
         "CB Demand QoQ %": "0.42760942760942755",
         "Gold Demand QoQ %": "0.05944092496184328",
-        "Gold Supply QoQ %": "-0.0151189254317462",
-        "Gold Net Demand": "0.07455985039358948",
-        "Gold Net Demand Mean": "-0.002948759666349354",
-        "Gold Net Demand Stdev": "0.2593172916001577",
-        "Gold Net Demand Strength": "0.29889487732059783"
+        "Gold Supply QoQ %": "-0.015119060369140791",
+        "Gold Net Demand": "0.07455998533098407",
+        "Gold Net Demand Mean": "-0.003038170087795744",
+        "Gold Net Demand Stdev": "0.2593282855107318",
+        "Gold Net Demand Strength": "0.29922750333984904"
     },
     {
         "": "6",
@@ -23,11 +23,11 @@
         "Gold Supply": "1108.7",
         "CB Demand QoQ %": "0.04351415094339628",
         "Gold Demand QoQ %": "0.06433533312282913",
-        "Gold Supply QoQ %": "0.004703174416181177",
-        "Gold Net Demand": "0.05963215870664795",
-        "Gold Net Demand Mean": "-0.05634786427502092",
-        "Gold Net Demand Stdev": "0.1936622379518431",
-        "Gold Net Demand Strength": "0.5988778411747414"
+        "Gold Supply QoQ %": "0.0047122791119167395",
+        "Gold Net Demand": "0.05962305401091239",
+        "Gold Net Demand Mean": "-0.05644052828107919",
+        "Gold Net Demand Stdev": "0.19364123495793834",
+        "Gold Net Demand Strength": "0.5993743136228307"
     },
     {
         "": "7",
@@ -40,9 +40,9 @@
         "Gold Demand QoQ %": "-0.05399391826744793",
         "Gold Supply QoQ %": "0.0583025164607196",
         "Gold Net Demand": "-0.11229643472816753",
-        "Gold Net Demand Mean": "-0.0017200011877759104",
-        "Gold Net Demand Stdev": "0.0865023676024042",
-        "Gold Net Demand Strength": "-1.278305283488198"
+        "Gold Net Demand Mean": "-0.0017969062501295818",
+        "Gold Net Demand Stdev": "0.08644110457906541",
+        "Gold Net Demand Strength": "-1.2783215695371746"
     },
     {
         "": "8",
@@ -50,14 +50,14 @@
         "CB Demand": "103.07",
         "CH Gold Purchases": "219.82",
         "India Gold Purchases": "150.7",
-        "Gold Supply": "1122.52",
+        "Gold Supply": "1124.23",
         "CB Demand QoQ %": "-0.2407925751325869",
         "Gold Demand QoQ %": "-0.07175617404939227",
-        "Gold Supply QoQ %": "-0.043312253907648146",
-        "Gold Net Demand": "-0.028443920141744128",
-        "Gold Net Demand Mean": "0.008094515480593234",
-        "Gold Net Demand Stdev": "0.07813141621667999",
-        "Gold Net Demand Strength": "-0.46765356871307945"
+        "Gold Supply QoQ %": "-0.04185487582456915",
+        "Gold Net Demand": "-0.029901298224823125",
+        "Gold Net Demand Mean": "0.007722280150775718",
+        "Gold Net Demand Stdev": "0.07825359655061889",
+        "Gold Net Demand Strength": "-0.4807904049657547"
     },
     {
         "": "9",
@@ -65,14 +65,14 @@
         "CB Demand": "141.36",
         "CH Gold Purchases": "172.49",
         "India Gold Purchases": "121.47",
-        "Gold Supply": "1077.06",
+        "Gold Supply": "1078.76",
         "CB Demand QoQ %": "0.37149510041719247",
         "Gold Demand QoQ %": "-0.08080829409404744",
-        "Gold Supply QoQ %": "-0.040498164843388085",
-        "Gold Net Demand": "-0.040310129250659354",
-        "Gold Net Demand Mean": "-0.009371695004066715",
-        "Gold Net Demand Stdev": "0.07700726373592205",
-        "Gold Net Demand Strength": "-0.4017599476419339"
+        "Gold Supply QoQ %": "-0.04044546044848474",
+        "Gold Net Demand": "-0.0403628336455627",
+        "Gold Net Demand Mean": "-0.00967550545133138",
+        "Gold Net Demand Stdev": "0.07710343406998446",
+        "Gold Net Demand Strength": "-0.39800209373784"
     },
     {
         "": "10",
@@ -80,14 +80,14 @@
         "CB Demand": "172.41",
         "CH Gold Purchases": "184.09",
         "India Gold Purchases": "214.14",
-        "Gold Supply": "1130.75",
+        "Gold Supply": "1132.46",
         "CB Demand QoQ %": "0.21965195246179947",
         "Gold Demand QoQ %": "0.3108517871910317",
-        "Gold Supply QoQ %": "0.049848662098676",
-        "Gold Net Demand": "0.2610031250923557",
-        "Gold Net Demand Mean": "0.027916959935686526",
-        "Gold Net Demand Stdev": "0.14389778904280415",
-        "Gold Net Demand Strength": "1.6198036586047535"
+        "Gold Supply QoQ %": "0.04977937632096108",
+        "Gold Net Demand": "0.2610724108700706",
+        "Gold Net Demand Mean": "0.027626979656485928",
+        "Gold Net Demand Stdev": "0.14407567238302796",
+        "Gold Net Demand Strength": "1.6202973573009987"
     },
     {
         "": "11",
@@ -95,14 +95,14 @@
         "CB Demand": "162.72",
         "CH Gold Purchases": "191.05",
         "India Gold Purchases": "175.98",
-        "Gold Supply": "1112.02",
+        "Gold Supply": "1113.72",
         "CB Demand QoQ %": "-0.0562032364712024",
         "Gold Demand QoQ %": "-0.07165638581242106",
-        "Gold Supply QoQ %": "-0.016564227282776955",
-        "Gold Net Demand": "-0.05509215852964411",
-        "Gold Net Demand Mean": "0.004972096488428113",
-        "Gold Net Demand Stdev": "0.1466957914255488",
-        "Gold Net Demand Strength": "-0.40944770422099047"
+        "Gold Supply QoQ %": "-0.016548045847093906",
+        "Gold Net Demand": "-0.05510833996532716",
+        "Gold Net Demand Mean": "0.004680700861238019",
+        "Gold Net Demand Stdev": "0.14681614631620885",
+        "Gold Net Demand Strength": "-0.4072375030045611"
     },
     {
         "": "12",
@@ -110,14 +110,14 @@
         "CB Demand": "110.59",
         "CH Gold Purchases": "183.13",
         "India Gold Purchases": "79.78",
-        "Gold Supply": "1253.06",
+        "Gold Supply": "1253.81",
         "CB Demand QoQ %": "-0.32036627335299894",
         "Gold Demand QoQ %": "-0.2949504483246814",
-        "Gold Supply QoQ %": "0.12683225121850317",
-        "Gold Net Demand": "-0.4217826995431846",
-        "Gold Net Demand Mean": "-0.0569251564745753",
-        "Gold Net Demand Stdev": "0.2425335125236964",
-        "Gold Net Demand Strength": "-1.5043592915142454"
+        "Gold Supply QoQ %": "0.12578565528139918",
+        "Gold Net Demand": "-0.4207361036060806",
+        "Gold Net Demand Mean": "-0.0570072329143446",
+        "Gold Net Demand Stdev": "0.24212017918873938",
+        "Gold Net Demand Strength": "-1.5022658248084282"
     },
     {
         "": "13",
@@ -125,14 +125,14 @@
         "CB Demand": "84.92",
         "CH Gold Purchases": "149.12",
         "India Gold Purchases": "89.84",
-        "Gold Supply": "1212.99",
+        "Gold Supply": "1213.74",
         "CB Demand QoQ %": "-0.23211863640473818",
         "Gold Demand QoQ %": "-0.13285140562248998",
-        "Gold Supply QoQ %": "-0.031977718545001754",
-        "Gold Net Demand": "-0.10087368707748823",
-        "Gold Net Demand Mean": "-0.07141110986172412",
-        "Gold Net Demand Stdev": "0.24257014298948837",
-        "Gold Net Demand Strength": "-0.12146003153009993"
+        "Gold Supply QoQ %": "-0.03195859021701852",
+        "Gold Net Demand": "-0.10089281540547146",
+        "Gold Net Demand Mean": "-0.07120553635047426",
+        "Gold Net Demand Stdev": "0.24221476948899087",
+        "Gold Net Demand Strength": "-0.12256593236502261"
     },
     {
         "": "14",
@@ -143,11 +143,11 @@
         "Gold Supply": "1183.47",
         "CB Demand QoQ %": "0.047456429580782",
         "Gold Demand QoQ %": "0.1909966654316413",
-        "Gold Supply QoQ %": "-0.024336556772933005",
-        "Gold Net Demand": "0.2153332222045743",
-        "Gold Net Demand Mean": "-0.02028243957067739",
-        "Gold Net Demand Stdev": "0.27547478715314777",
-        "Gold Net Demand Strength": "0.8553075372529945"
+        "Gold Supply QoQ %": "-0.024939443373374837",
+        "Gold Net Demand": "0.21593610880501612",
+        "Gold Net Demand Mean": "-0.0199457478603585",
+        "Gold Net Demand Stdev": "0.2752422572601366",
+        "Gold Net Demand Strength": "0.8569972467651951"
     },
     {
         "": "15",
@@ -155,14 +155,14 @@
         "CB Demand": "110.4",
         "CH Gold Purchases": "168.46",
         "India Gold Purchases": "182.2",
-        "Gold Supply": "1136.49",
+        "Gold Supply": "1134.99",
         "CB Demand QoQ %": "0.2411467116357504",
         "Gold Demand QoQ %": "0.19526105667029614",
-        "Gold Supply QoQ %": "-0.03969682374711658",
-        "Gold Net Demand": "0.23495788041741272",
-        "Gold Net Demand Mean": "-0.02549148850566598",
-        "Gold Net Demand Stdev": "0.26899619631793775",
-        "Gold Net Demand Strength": "0.9682269581806383"
+        "Gold Supply QoQ %": "-0.04096428299830157",
+        "Gold Net Demand": "0.2362253396685977",
+        "Gold Net Demand Mean": "-0.024915162100653077",
+        "Gold Net Demand Stdev": "0.2690548949037585",
+        "Gold Net Demand Strength": "0.9705844670198671"
     },
     {
         "": "16",
@@ -173,11 +173,11 @@
         "Gold Supply": "1089.2",
         "CB Demand QoQ %": "-0.16630434782608694",
         "Gold Demand QoQ %": "-0.14356049104238056",
-        "Gold Supply QoQ %": "-0.04161057290429304",
-        "Gold Net Demand": "-0.10194991813808751",
-        "Gold Net Demand Mean": "-0.03486304042735466",
-        "Gold Net Demand Stdev": "0.2710933309779849",
-        "Gold Net Demand Strength": "-0.24746782766183534"
+        "Gold Supply QoQ %": "-0.040343967788262436",
+        "Gold Net Demand": "-0.10321652325411812",
+        "Gold Net Demand Mean": "-0.03453679875841127",
+        "Gold Net Demand Stdev": "0.27125575643465066",
+        "Gold Net Demand Strength": "-0.25319176779296393"
     },
     {
         "": "17",
@@ -190,9 +190,9 @@
         "Gold Demand QoQ %": "0.008610428748702104",
         "Gold Supply QoQ %": "0.05302974660301141",
         "Gold Net Demand": "-0.044419317854309304",
-        "Gold Net Demand Mean": "0.0406096359104204",
-        "Gold Net Demand Stdev": "0.1701985986009985",
-        "Gold Net Demand Strength": "-0.49958668557586383"
+        "Gold Net Demand Mean": "0.04072655839194299",
+        "Gold Net Demand Stdev": "0.17098511489811544",
+        "Gold Net Demand Strength": "-0.49797244805191376"
     },
     {
         "": "18",
@@ -205,9 +205,9 @@
         "Gold Demand QoQ %": "-0.01215255982122676",
         "Gold Supply QoQ %": "0.07869498500383632",
         "Gold Net Demand": "-0.09084754482506308",
-        "Gold Net Demand Mean": "0.042614864360905426",
-        "Gold Net Demand Stdev": "0.16816183190642783",
-        "Gold Net Demand Strength": "-0.7936545866141163"
+        "Gold Net Demand Mean": "0.04273561250802467",
+        "Gold Net Demand Stdev": "0.16895203030540043",
+        "Gold Net Demand Strength": "-0.7906573072346077"
     },
     {
         "": "19",
@@ -220,9 +220,9 @@
         "Gold Demand QoQ %": "0.1668149353125079",
         "Gold Supply QoQ %": "-0.034892743408609705",
         "Gold Net Demand": "0.2017076787211176",
-        "Gold Net Demand Mean": "0.039889755664214085",
-        "Gold Net Demand Stdev": "0.16473870841297297",
-        "Gold Net Demand Strength": "0.9822701939076302"
+        "Gold Net Demand Mean": "0.03988992649124497",
+        "Gold Net Demand Stdev": "0.16538770393477953",
+        "Gold Net Demand Strength": "0.978414648610669"
     },
     {
         "": "20",
@@ -230,14 +230,14 @@
         "CB Demand": "84.8",
         "CH Gold Purchases": "187.55",
         "India Gold Purchases": "119.21",
-        "Gold Supply": "1154.64",
+        "Gold Supply": "1156.29",
         "CB Demand QoQ %": "-0.09459748024770442",
         "Gold Demand QoQ %": "-0.1470396026663181",
-        "Gold Supply QoQ %": "-0.03300531803525808",
-        "Gold Net Demand": "-0.11403428463106002",
-        "Gold Net Demand Mean": "-0.029908677345480462",
-        "Gold Net Demand Stdev": "0.1321337379620982",
-        "Gold Net Demand Strength": "-0.636670153914139"
+        "Gold Supply QoQ %": "-0.03162346635400526",
+        "Gold Net Demand": "-0.11541613631231284",
+        "Gold Net Demand Mean": "-0.030438368704937147",
+        "Gold Net Demand Stdev": "0.1325277363434607",
+        "Gold Net Demand Strength": "-0.6412074177977819"
     },
     {
         "": "21",
@@ -245,14 +245,14 @@
         "CB Demand": "152.77",
         "CH Gold Purchases": "144.09",
         "India Gold Purchases": "149.94",
-        "Gold Supply": "1142.28",
+        "Gold Supply": "1143.31",
         "CB Demand QoQ %": "0.8015330188679246",
         "Gold Demand QoQ %": "0.14107671876596184",
-        "Gold Supply QoQ %": "-0.010704635210974978",
-        "Gold Net Demand": "0.15178135397693682",
-        "Gold Net Demand Mean": "0.020837577077524407",
-        "Gold Net Demand Stdev": "0.14558735715072119",
-        "Gold Net Demand Strength": "0.8994172259329578"
+        "Gold Supply QoQ %": "-0.01122555760233157",
+        "Gold Net Demand": "0.1523022763682934",
+        "Gold Net Demand Mean": "0.020665391219545158",
+        "Gold Net Demand Stdev": "0.14602561058885155",
+        "Gold Net Demand Strength": "0.9014643706533364"
     },
     {
         "": "22",
@@ -260,14 +260,14 @@
         "CB Demand": "240.55",
         "CH Gold Purchases": "176.65",
         "India Gold Purchases": "148.79",
-        "Gold Supply": "1240.83",
+        "Gold Supply": "1241.85",
         "CB Demand QoQ %": "0.5745892518164561",
         "Gold Demand QoQ %": "0.26676365264100266",
-        "Gold Supply QoQ %": "0.08627481878348564",
-        "Gold Net Demand": "0.18048883385751702",
-        "Gold Net Demand Mean": "0.06581920741988967",
-        "Gold Net Demand Stdev": "0.15483542905495448",
-        "Gold Net Demand Strength": "0.7405903618927461"
+        "Gold Supply QoQ %": "0.08618834786715768",
+        "Gold Net Demand": "0.18057530477384498",
+        "Gold Net Demand Mean": "0.06566431574517602",
+        "Gold Net Demand Stdev": "0.15532591609804358",
+        "Gold Net Demand Strength": "0.7398056416814291"
     },
     {
         "": "23",
@@ -275,14 +275,14 @@
         "CB Demand": "178.12",
         "CH Gold Purchases": "178.03",
         "India Gold Purchases": "180.07",
-        "Gold Supply": "1240.72",
+        "Gold Supply": "1241.75",
         "CB Demand QoQ %": "-0.2595302431926835",
         "Gold Demand QoQ %": "-0.05259810243997243",
-        "Gold Supply QoQ %": "-8.865033888594276e-05",
-        "Gold Net Demand": "-0.052509452101086485",
-        "Gold Net Demand Mean": "0.07348682596468499",
-        "Gold Net Demand Stdev": "0.14582461974649089",
-        "Gold Net Demand Strength": "-0.8640261039926588"
+        "Gold Supply QoQ %": "-8.052502315092358e-05",
+        "Gold Net Demand": "-0.052517577416821504",
+        "Gold Net Demand Mean": "0.07333030922682433",
+        "Gold Net Demand Stdev": "0.14635720082957857",
+        "Gold Net Demand Strength": "-0.8598680893752934"
     },
     {
         "": "24",
@@ -293,11 +293,11 @@
         "Gold Supply": "1121.85",
         "CB Demand QoQ %": "-0.1790366045362678",
         "Gold Demand QoQ %": "-0.15100145462683234",
-        "Gold Supply QoQ %": "-0.09580727319620874",
-        "Gold Net Demand": "-0.0551941814306236",
-        "Gold Net Demand Mean": "0.022106453934336745",
-        "Gold Net Demand Stdev": "0.13414337509697818",
-        "Gold Net Demand Strength": "-0.5762538426446799"
+        "Gold Supply QoQ %": "-0.09655727803503122",
+        "Gold Net Demand": "-0.05444417659180112",
+        "Gold Net Demand Mean": "0.022099938164240586",
+        "Gold Net Demand Stdev": "0.1345404554126454",
+        "Gold Net Demand Strength": "-0.5689301000303241"
     },
     {
         "": "25",
@@ -310,9 +310,9 @@
         "Gold Demand QoQ %": "0.16948929159802306",
         "Gold Supply QoQ %": "0.10300842358604112",
         "Gold Net Demand": "0.06648086801198194",
-        "Gold Net Demand Mean": "0.05820948446294514",
-        "Gold Net Demand Stdev": "0.11056154868498452",
-        "Gold Net Demand Strength": "0.07481247908894521"
+        "Gold Net Demand Mean": "0.05847933902909954",
+        "Gold Net Demand Stdev": "0.11050591469333976",
+        "Gold Net Demand Strength": "0.07240815122961611"
     },
     {
         "": "26",
@@ -325,9 +325,9 @@
         "Gold Demand QoQ %": "-0.29924306455551175",
         "Gold Supply QoQ %": "0.03979279301120897",
         "Gold Net Demand": "-0.3390358575667207",
-        "Gold Net Demand Mean": "-0.03995395784578637",
-        "Gold Net Demand Stdev": "0.19349630756225897",
-        "Gold Net Demand Strength": "-1.5456723877002272"
+        "Gold Net Demand Mean": "-0.03978828775790329",
+        "Gold Net Demand Stdev": "0.19350657890027778",
+        "Gold Net Demand Strength": "-1.546446490395722"
     },
     {
         "": "27",
@@ -335,14 +335,14 @@
         "CB Demand": "117.91",
         "CH Gold Purchases": "160.4",
         "India Gold Purchases": "149.0",
-        "Gold Supply": "1241.99",
+        "Gold Supply": "1242.75",
         "CB Demand QoQ %": "0.0392208707914683",
         "Gold Demand QoQ %": "0.145326864831542",
-        "Gold Supply QoQ %": "-0.0347102941747951",
-        "Gold Net Demand": "0.1800371590063371",
-        "Gold Net Demand Mean": "-0.040044292816022356",
-        "Gold Net Demand Stdev": "0.19336772639118044",
-        "Gold Net Demand Strength": "1.1381498656975335"
+        "Gold Supply QoQ %": "-0.034119612948354305",
+        "Gold Net Demand": "0.1794464777798963",
+        "Gold Net Demand Mean": "-0.04001405315669302",
+        "Gold Net Demand Stdev": "0.19318559662122642",
+        "Gold Net Demand Strength": "1.1360087644985222"
     },
     {
         "": "28",
@@ -353,11 +353,11 @@
         "Gold Supply": "1182.34",
         "CB Demand QoQ %": "0.19387668560766702",
         "Gold Demand QoQ %": "-0.35426271325267367",
-        "Gold Supply QoQ %": "-0.04802776189824398",
-        "Gold Net Demand": "-0.3062349513544297",
-        "Gold Net Demand Mean": "-0.09078939266669099",
-        "Gold Net Demand Stdev": "0.2277010491530589",
-        "Gold Net Demand Strength": "-0.9461772771319901"
+        "Gold Supply QoQ %": "-0.048609937638302236",
+        "Gold Net Demand": "-0.30565277561437143",
+        "Gold Net Demand Mean": "-0.090641092796203",
+        "Gold Net Demand Stdev": "0.2274174608535579",
+        "Gold Net Demand Strength": "-0.9454493160339259"
     },
     {
         "": "29",
@@ -365,14 +365,14 @@
         "CB Demand": "63.74",
         "CH Gold Purchases": "90.66",
         "India Gold Purchases": "43.97",
-        "Gold Supply": "1042.11",
+        "Gold Supply": "1042.19",
         "CB Demand QoQ %": "-0.5472046600838247",
         "Gold Demand QoQ %": "-0.28108578262602835",
-        "Gold Supply QoQ %": "-0.1186037857130775",
-        "Gold Net Demand": "-0.16248199691295084",
-        "Gold Net Demand Mean": "-0.11224695576315644",
-        "Gold Net Demand Stdev": "0.22856166920116525",
-        "Gold Net Demand Strength": "-0.21978768935914955"
+        "Gold Supply QoQ %": "-0.1185361232809512",
+        "Gold Net Demand": "-0.16254965934507715",
+        "Gold Net Demand Mean": "-0.11226218934685821",
+        "Gold Net Demand Stdev": "0.2282531884358134",
+        "Gold Net Demand Strength": "-0.22031442514705626"
     },
     {
         "": "30",
@@ -380,14 +380,14 @@
         "CB Demand": "-10.6",
         "CH Gold Purchases": "118.54",
         "India Gold Purchases": "60.8",
-        "Gold Supply": "1279.83",
+        "Gold Supply": "1280.33",
         "CB Demand QoQ %": "-1.1663005961719486",
         "Gold Demand QoQ %": "-0.14936734385239703",
-        "Gold Supply QoQ %": "0.22811411463281228",
-        "Gold Net Demand": "-0.3774814584852093",
-        "Gold Net Demand Mean": "-0.20103942106259468",
-        "Gold Net Demand Stdev": "0.2280059996387976",
-        "Gold Net Demand Strength": "-0.7738482219859585"
+        "Gold Supply QoQ %": "0.22849960180005557",
+        "Gold Net Demand": "-0.3778669456524526",
+        "Gold Net Demand Mean": "-0.20113175207974515",
+        "Gold Net Demand Stdev": "0.22776406775485666",
+        "Gold Net Demand Strength": "-0.7759573110668545"
     },
     {
         "": "31",
@@ -395,14 +395,14 @@
         "CB Demand": "61.04",
         "CH Gold Purchases": "143.28",
         "India Gold Purchases": "137.3",
-        "Gold Supply": "1234.9",
+        "Gold Supply": "1235.99",
         "CB Demand QoQ %": "-6.758490566037736",
         "Gold Demand QoQ %": "1.0245347872466515",
-        "Gold Supply QoQ %": "-0.03510622504551375",
-        "Gold Net Demand": "1.0596410122921651",
-        "Gold Net Demand Mean": "0.07869595290918249",
-        "Gold Net Demand Stdev": "0.588846262785374",
-        "Gold Net Demand Strength": "1.6658763439253124"
+        "Gold Supply QoQ %": "-0.03463169651574194",
+        "Gold Net Demand": "1.0591664837623935",
+        "Gold Net Demand Mean": "0.07850871618607771",
+        "Gold Net Demand Stdev": "0.5886098083063933",
+        "Gold Net Demand Strength": "1.6660574692052141"
     },
     {
         "": "32",
@@ -413,11 +413,11 @@
         "Gold Supply": "1106.11",
         "CB Demand QoQ %": "0.8940039318479687",
         "Gold Demand QoQ %": "0.27594988583806557",
-        "Gold Supply QoQ %": "-0.10429184549356241",
-        "Gold Net Demand": "0.380241731331628",
-        "Gold Net Demand Mean": "0.11873686737424068",
-        "Gold Net Demand Stdev": "0.6040701795032571",
-        "Gold Net Demand Strength": "0.4329047730388374"
+        "Gold Supply QoQ %": "-0.10508175632488947",
+        "Gold Net Demand": "0.38103164216295504",
+        "Gold Net Demand Mean": "0.11882574906268946",
+        "Gold Net Demand Stdev": "0.6039557928905327",
+        "Gold Net Demand Strength": "0.43414749255959295"
     },
     {
         "": "33",
@@ -430,9 +430,9 @@
         "Gold Demand QoQ %": "0.03370116313748861",
         "Gold Supply QoQ %": "0.027320971693592933",
         "Gold Net Demand": "0.0063801914438956775",
-        "Gold Net Demand Mean": "0.18125989593390573",
-        "Gold Net Demand Stdev": "0.5639327214906908",
-        "Gold Net Demand Strength": "-0.31010739016479805"
+        "Gold Net Demand Mean": "0.1812323424743429",
+        "Gold Net Demand Stdev": "0.5639236362474263",
+        "Gold Net Demand Strength": "-0.31006352596600395"
     },
     {
         "": "34",
@@ -445,9 +445,9 @@
         "Gold Demand QoQ %": "-0.17506325180877957",
         "Gold Supply QoQ %": "0.06669717423635735",
         "Gold Net Demand": "-0.24176042604513692",
-        "Gold Net Demand Mean": "0.16540421010746856",
-        "Gold Net Demand Stdev": "0.5769772845432842",
-        "Gold Net Demand Strength": "-0.7056857298548647"
+        "Gold Net Demand Mean": "0.16539018913433093",
+        "Gold Net Demand Stdev": "0.5769578447353503",
+        "Gold Net Demand Strength": "-0.7056852054177845"
     },
     {
         "": "35",
@@ -455,14 +455,14 @@
         "CB Demand": "34.3",
         "CH Gold Purchases": "176.87",
         "India Gold Purchases": "264.99",
-        "Gold Supply": "1255.12",
+        "Gold Supply": "1255.11",
         "CB Demand QoQ %": "-0.6212455830388692",
         "Gold Demand QoQ %": "0.2810330912025827",
-        "Gold Supply QoQ %": "0.0354750354750355",
-        "Gold Net Demand": "0.2455580557275472",
-        "Gold Net Demand Mean": "0.29001211295001983",
-        "Gold Net Demand Stdev": "0.491343894351513",
-        "Gold Net Demand Strength": "-0.09047442683936092"
+        "Gold Supply QoQ %": "0.03546678546678539",
+        "Gold Net Demand": "0.2455663057357973",
+        "Gold Net Demand Mean": "0.2900768394119809",
+        "Gold Net Demand Stdev": "0.49119433776151256",
+        "Gold Net Demand Strength": "-0.09061695189530998"
     },
     {
         "": "36",
@@ -470,14 +470,14 @@
         "CB Demand": "82.44",
         "CH Gold Purchases": "177.44",
         "India Gold Purchases": "94.2",
-        "Gold Supply": "1160.18",
+        "Gold Supply": "1160.24",
         "CB Demand QoQ %": "1.4034985422740527",
         "Gold Demand QoQ %": "-0.2563844086021506",
-        "Gold Supply QoQ %": "-0.07564216967301918",
-        "Gold Net Demand": "-0.18074223892913144",
-        "Gold Net Demand Mean": "0.0419354627057605",
-        "Gold Net Demand Stdev": "0.2679767644752702",
-        "Gold Net Demand Strength": "-0.830958990309928"
+        "Gold Supply QoQ %": "-0.07558700034259935",
+        "Gold Net Demand": "-0.18079740825955126",
+        "Gold Net Demand Mean": "0.04208406100759195",
+        "Gold Net Demand Stdev": "0.2682392100185156",
+        "Gold Net Demand Strength": "-0.8309056280465428"
     },
     {
         "": "37",
@@ -485,14 +485,14 @@
         "CB Demand": "158.57",
         "CH Gold Purchases": "103.18",
         "India Gold Purchases": "140.29",
-        "Gold Supply": "1182.04",
+        "Gold Supply": "1182.1",
         "CB Demand QoQ %": "0.9234594856865599",
         "Gold Demand QoQ %": "0.1354496159060099",
-        "Gold Supply QoQ %": "0.01884190384250717",
-        "Gold Net Demand": "0.11660771206350273",
-        "Gold Net Demand Mean": "-0.010791341147864553",
-        "Gold Net Demand Stdev": "0.20277476384157844",
-        "Gold Net Demand Strength": "0.6282786417687567"
+        "Gold Supply QoQ %": "0.01884092946286975",
+        "Gold Net Demand": "0.11660868644314015",
+        "Gold Net Demand Mean": "-0.010800530136371033",
+        "Gold Net Demand Stdev": "0.2027890851897273",
+        "Gold Net Demand Strength": "0.6282843894695244"
     },
     {
         "": "38",
@@ -500,14 +500,14 @@
         "CB Demand": "456.91",
         "CH Gold Purchases": "163.15",
         "India Gold Purchases": "146.22",
-        "Gold Supply": "1203.01",
+        "Gold Supply": "1203.07",
         "CB Demand QoQ %": "1.8814403733366971",
         "Gold Demand QoQ %": "0.9059795045269132",
-        "Gold Supply QoQ %": "0.01774051639538432",
-        "Gold Net Demand": "0.8882389881315289",
-        "Gold Net Demand Mean": "0.1655804181896621",
-        "Gold Net Demand Stdev": "0.45191152435449805",
-        "Gold Net Demand Strength": "1.5991151608140526"
+        "Gold Supply QoQ %": "0.017739615937737874",
+        "Gold Net Demand": "0.8882398885891754",
+        "Gold Net Demand Mean": "0.1655714092926849",
+        "Gold Net Demand Stdev": "0.4519227933250048",
+        "Gold Net Demand Strength": "1.5990972129984518"
     },
     {
         "": "39",
@@ -515,14 +515,14 @@
         "CB Demand": "382.1",
         "CH Gold Purchases": "127.02",
         "India Gold Purchases": "219.86",
-        "Gold Supply": "1229.67",
+        "Gold Supply": "1229.73",
         "CB Demand QoQ %": "-0.1637302751088836",
         "Gold Demand QoQ %": "-0.0486767239129301",
-        "Gold Supply QoQ %": "0.022161079292774",
-        "Gold Net Demand": "-0.0708378032057041",
-        "Gold Net Demand Mean": "0.19976494275754864",
-        "Gold Net Demand Stdev": "0.418634747364511",
-        "Gold Net Demand Strength": "-0.6463934197216439"
+        "Gold Supply QoQ %": "0.022159974066346955",
+        "Gold Net Demand": "-0.07083669797927705",
+        "Gold Net Demand Mean": "0.19975615490585688",
+        "Gold Net Demand Stdev": "0.41864765299943657",
+        "Gold Net Demand Strength": "-0.6463498623399617"
     },
     {
         "": "40",
@@ -530,14 +530,14 @@
         "CB Demand": "290.42",
         "CH Gold Purchases": "195.6",
         "India Gold Purchases": "91.88",
-        "Gold Supply": "1202.15",
+        "Gold Supply": "1202.09",
         "CB Demand QoQ %": "-0.2399371892174823",
         "Gold Demand QoQ %": "-0.2072484841833796",
-        "Gold Supply QoQ %": "-0.02237998812689579",
-        "Gold Net Demand": "-0.1848684960564838",
-        "Gold Net Demand Mean": "0.11367963240074246",
-        "Gold Net Demand Stdev": "0.44994796270404386",
-        "Gold Net Demand Strength": "-0.6635170135298473"
+        "Gold Supply QoQ %": "-0.02247647857659818",
+        "Gold Net Demand": "-0.18477200560678142",
+        "Gold Net Demand Mean": "0.11368849263734113",
+        "Gold Net Demand Stdev": "0.44994126097583054",
+        "Gold Net Demand Strength": "-0.6633321371701337"
     },
     {
         "": "41",
@@ -545,14 +545,14 @@
         "CB Demand": "176.34",
         "CH Gold Purchases": "132.05",
         "India Gold Purchases": "128.6",
-        "Gold Supply": "1206.55",
+        "Gold Supply": "1206.49",
         "CB Demand QoQ %": "-0.3928104125060258",
         "Gold Demand QoQ %": "-0.24383111264924728",
-        "Gold Supply QoQ %": "0.0036601089714261015",
-        "Gold Net Demand": "-0.24749122162067339",
-        "Gold Net Demand Mean": "0.10032983586243407",
-        "Gold Net Demand Stdev": "0.4617038387064757",
-        "Gold Net Demand Strength": "-0.7533423556918524"
+        "Gold Supply QoQ %": "0.0036602916586945256",
+        "Gold Net Demand": "-0.2474914043079418",
+        "Gold Net Demand Mean": "0.10034969342766302",
+        "Gold Net Demand Stdev": "0.4616892644470554",
+        "Gold Net Demand Strength": "-0.7534095430011755"
     },
     {
         "": "42",
@@ -560,14 +560,14 @@
         "CB Demand": "367.26",
         "CH Gold Purchases": "154.12",
         "India Gold Purchases": "155.73",
-        "Gold Supply": "1247.94",
+        "Gold Supply": "1247.88",
         "CB Demand QoQ %": "1.0826811840762165",
         "Gold Demand QoQ %": "0.5494862582667797",
-        "Gold Supply QoQ %": "0.03430442169823067",
-        "Gold Net Demand": "0.515181836568549",
-        "Gold Net Demand Mean": "0.18004466076344333",
-        "Gold Net Demand Stdev": "0.4981833712089449",
-        "Gold Net Demand Strength": "0.6727185112418065"
+        "Gold Supply QoQ %": "0.03430612769272856",
+        "Gold Net Demand": "0.5151801305740511",
+        "Gold Net Demand Mean": "0.1800639822538452",
+        "Gold Net Demand Stdev": "0.49816563639429157",
+        "Gold Net Demand Strength": "0.6727002503540125"
     },
     {
         "": "43",
@@ -575,14 +575,14 @@
         "CB Demand": "216.79",
         "CH Gold Purchases": "148.43",
         "India Gold Purchases": "199.57",
-        "Gold Supply": "1287.46",
+        "Gold Supply": "1287.4",
         "CB Demand QoQ %": "-0.40970974241681646",
         "Gold Demand QoQ %": "-0.16588146682222982",
-        "Gold Supply QoQ %": "0.03166818917576153",
-        "Gold Net Demand": "-0.19754965599799135",
-        "Gold Net Demand Mean": "-0.03711306806246073",
-        "Gold Net Demand Stdev": "0.315435235898953",
-        "Gold Net Demand Strength": "-0.5086197408425389"
+        "Gold Supply QoQ %": "0.03166971183126588",
+        "Gold Net Demand": "-0.1975511786534957",
+        "Gold Net Demand Mean": "-0.037094231194689",
+        "Gold Net Demand Stdev": "0.3154233869852286",
+        "Gold Net Demand Strength": "-0.5087033938492359"
     },
     {
         "": "44",
@@ -590,14 +590,14 @@
         "CB Demand": "313.27",
         "CH Gold Purchases": "184.38",
         "India Gold Purchases": "95.48",
-        "Gold Supply": "1187.15",
+        "Gold Supply": "1187.57",
         "CB Demand QoQ %": "0.4450389778126298",
         "Gold Demand QoQ %": "0.05017794224402006",
-        "Gold Supply QoQ %": "-0.07791310021282205",
-        "Gold Net Demand": "0.1280910424568421",
-        "Gold Net Demand Mean": "0.002672701070048511",
-        "Gold Net Demand Stdev": "0.3225825690544895",
-        "Gold Net Demand Strength": "0.3887945395016318"
+        "Gold Supply QoQ %": "-0.07754388690383729",
+        "Gold Net Demand": "0.12772182914785735",
+        "Gold Net Demand Mean": "0.0026174742307378818",
+        "Gold Net Demand Stdev": "0.3225322984493501",
+        "Gold Net Demand Strength": "0.3878816339280998"
     },
     {
         "": "45",
@@ -605,88 +605,103 @@
         "CB Demand": "211.52",
         "CH Gold Purchases": "86.22",
         "India Gold Purchases": "106.55",
-        "Gold Supply": "1209.74",
+        "Gold Supply": "1211.69",
         "CB Demand QoQ %": "-0.3247996935550802",
         "Gold Demand QoQ %": "-0.318378770252727",
-        "Gold Supply QoQ %": "0.019028766373246686",
-        "Gold Net Demand": "-0.33740753662597367",
-        "Gold Net Demand Mean": "-0.02783510704384946",
-        "Gold Net Demand Stdev": "0.35073754115553984",
-        "Gold Net Demand Strength": "-0.8826327189333852"
+        "Gold Supply QoQ %": "0.020310381703815494",
+        "Gold Net Demand": "-0.3386891519565425",
+        "Gold Net Demand Mean": "-0.02816595503921433",
+        "Gold Net Demand Stdev": "0.35097921324116893",
+        "Gold Net Demand Strength": "-0.884733867996786"
     },
     {
         "": "46",
         "Date": "2024-09-30",
-        "CB Demand": "199.5",
+        "CB Demand": "201.0",
         "CH Gold Purchases": "102.41",
         "India Gold Purchases": "171.58",
-        "Gold Supply": "1275.93",
-        "CB Demand QoQ %": "-0.056826777609682355",
-        "Gold Demand QoQ %": "0.17116426327636103",
-        "Gold Supply QoQ %": "0.054714236116851556",
-        "Gold Net Demand": "0.11645002715950947",
-        "Gold Net Demand Mean": "0.04495314271218711",
-        "Gold Net Demand Stdev": "0.3309630024155626",
-        "Gold Net Demand Strength": "0.2160268184827188"
+        "Gold Supply": "1275.98",
+        "CB Demand QoQ %": "-0.049735249621785216",
+        "Gold Demand QoQ %": "0.17487447129535716",
+        "Gold Supply QoQ %": "0.05305812542812105",
+        "Gold Net Demand": "0.12181634586723611",
+        "Gold Net Demand Mean": "0.04569559499582125",
+        "Gold Net Demand Stdev": "0.33160934378042384",
+        "Gold Net Demand Strength": "0.22954947530615558"
     },
     {
         "": "47",
         "Date": "2024-12-31",
-        "CB Demand": "365.09",
+        "CB Demand": "366.59",
         "CH Gold Purchases": "106.13",
         "India Gold Purchases": "189.76",
-        "Gold Supply": "1284.44",
-        "CB Demand QoQ %": "0.8300250626566414",
-        "Gold Demand QoQ %": "0.39597457179665896",
-        "Gold Supply QoQ %": "0.006669644886474924",
-        "Gold Net Demand": "0.38930492691018403",
-        "Gold Net Demand Mean": "0.01977776078051412",
-        "Gold Net Demand Stdev": "0.28828812122126646",
-        "Gold Net Demand Strength": "1.2817981003318932"
+        "Gold Supply": "1286.68",
+        "CB Demand QoQ %": "0.8238308457711441",
+        "Gold Demand QoQ %": "0.3947240994547254",
+        "Gold Supply QoQ %": "0.008385711374786498",
+        "Gold Net Demand": "0.3863383880799389",
+        "Gold Net Demand Mean": "0.01992724649699882",
+        "Gold Net Demand Stdev": "0.2881669533192487",
+        "Gold Net Demand Strength": "1.271523807162606"
     },
     {
         "": "48",
         "Date": "2025-03-31",
-        "CB Demand": "241.68",
+        "CB Demand": "240.17",
         "CH Gold Purchases": "124.89",
         "India Gold Purchases": "71.43",
-        "Gold Supply": "1177.52",
-        "CB Demand QoQ %": "-0.33802624010517945",
-        "Gold Demand QoQ %": "-0.33734757481315625",
-        "Gold Supply QoQ %": "-0.08324250256921306",
-        "Gold Net Demand": "-0.2541050722439432",
-        "Gold Net Demand Mean": "0.008466677531323751",
-        "Gold Net Demand Stdev": "0.29982539104855865",
-        "Gold Net Demand Strength": "-0.8757488778952072"
+        "Gold Supply": "1171.5",
+        "CB Demand QoQ %": "-0.3448539240022914",
+        "Gold Demand QoQ %": "-0.3411272793140925",
+        "Gold Supply QoQ %": "-0.08951720707557442",
+        "Gold Net Demand": "-0.25161007223851806",
+        "Gold Net Demand Mean": "0.009115467779994346",
+        "Gold Net Demand Stdev": "0.2991704987152808",
+        "Gold Net Demand Strength": "-0.8714948203052725"
     },
     {
         "": "49",
         "Date": "2025-06-30",
-        "CB Demand": "172.02",
-        "CH Gold Purchases": "69.23",
+        "CB Demand": "174.74",
+        "CH Gold Purchases": "69.24",
         "India Gold Purchases": "88.75",
-        "Gold Supply": "1226.82",
-        "CB Demand QoQ %": "-0.2882323733862959",
-        "Gold Demand QoQ %": "-0.2465753424657534",
-        "Gold Supply QoQ %": "0.04186765405258508",
-        "Gold Net Demand": "-0.2884429965183385",
-        "Gold Net Demand Mean": "-0.07484013026371236",
-        "Gold Net Demand Stdev": "0.3157238925093934",
-        "Gold Net Demand Strength": "-0.6765495780407909"
+        "Gold Supply": "1225.03",
+        "CB Demand QoQ %": "-0.27243202731398586",
+        "Gold Demand QoQ %": "-0.23771449517743815",
+        "Gold Supply QoQ %": "0.04569355527102004",
+        "Gold Net Demand": "-0.2834080504484582",
+        "Gold Net Demand Mean": "-0.07311050813926875",
+        "Gold Net Demand Stdev": "0.3145269993922028",
+        "Gold Net Demand Strength": "-0.6686152308564031"
     },
     {
         "": "50",
         "Date": "2025-09-30",
-        "CB Demand": "219.85",
-        "CH Gold Purchases": "83.8",
-        "India Gold Purchases": "117.72",
-        "Gold Supply": "1313.07",
-        "CB Demand QoQ %": "0.27804906406231833",
-        "Gold Demand QoQ %": "0.27687878787878795",
-        "Gold Supply QoQ %": "0.0703037120359955",
-        "Gold Net Demand": "0.20657507584279244",
-        "Gold Net Demand Mean": "0.033956392230040856",
-        "Gold Net Demand Stdev": "0.29571767110523894",
-        "Gold Net Demand Strength": "0.5837279962593803"
+        "CB Demand": "218.09",
+        "CH Gold Purchases": "84.12",
+        "India Gold Purchases": "125.0",
+        "Gold Supply": "1302.98",
+        "CB Demand QoQ %": "0.24808286597230156",
+        "Gold Demand QoQ %": "0.2839539566615574",
+        "Gold Supply QoQ %": "0.06363109474869999",
+        "Gold Net Demand": "0.22032286191285744",
+        "Gold Net Demand Mean": "0.03869189463461122",
+        "Gold Net Demand Stdev": "0.2952884918452259",
+        "Gold Net Demand Strength": "0.6150966674767917"
+    },
+    {
+        "": "51",
+        "Date": "2025-12-31",
+        "CB Demand": "230.25",
+        "CH Gold Purchases": "81.89",
+        "India Gold Purchases": "145.35",
+        "Gold Supply": "1302.8",
+        "CB Demand QoQ %": "0.055756797652345425",
+        "Gold Demand QoQ %": "0.07087849067203478",
+        "Gold Supply QoQ %": "-0.00013814486791818847",
+        "Gold Net Demand": "0.07101663553995297",
+        "Gold Net Demand Mean": "0.028531952569154594",
+        "Gold Net Demand Stdev": "0.2925748904267578",
+        "Gold Net Demand Strength": "0.14520960055331145"
     }
 ]
