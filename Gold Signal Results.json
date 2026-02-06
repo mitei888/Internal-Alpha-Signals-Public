@@ -36853,5 +36853,18 @@
         "Combined Gold Strength": "0.38516194136542714",
         "Combined Gold Returns": "-0.011311232874237053",
         "Cum Combined Gold Returns": "1.9043221578461507"
+    },
+    {
+        "": "2835",
+        "Date": "2026-02-06",
+        "Gold": "453.17",
+        "Gold Net Demand Strength": "0.6150966674767917",
+        "CB Demand % Strength": "0.24795892447435605",
+        "Rolling GLD OI % Strength": "0.8273504880529248",
+        "DXY % Strength": "-0.0",
+        "Gold %": "0.02554992305603343",
+        "Combined Gold Strength": "0.3445202212981283",
+        "Combined Gold Returns": "0.009840857965999122",
+        "Cum Combined Gold Returns": "1.9230623217230198"
     }
 ]
